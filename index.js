@@ -14,6 +14,10 @@ let DATA = {
     month: 'long',
     day: 'numeric',
   }),
+  today_wave: '2-4',
+  today_wind: '5-8',
+  tomorrow_wind: '1-2',
+  tomorrow_wave: '5-10',
 };
 /**
  * A - We open 'main.mustache'
