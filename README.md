@@ -1,4 +1,4 @@
-[![Social banner for p-j-falconer](https://github.com/p-j-falconer/p-j-falconer/raw/master/assets/avataars.svg)](https://patfalconer.com/)
+[![Social banner for p-j-falconer](https://raw.githubusercontent.com/P-J-FALCONER/P-J-FALCONER/master/assets/avataaars.svg)](https://patfalconer.com/)
 ## Hi :wave: my name is Pat
 
 ### 💼 Where I am currently working at/as
