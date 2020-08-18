@@ -3,7 +3,6 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const fetch = require('node-fetch');
 const forecastURL = 'https://api.weather.gov/gridpoints/LOT/75,72/forecast';
-const windwaveURL = 'https://api.weather.gov/gridpoints/LOT/75,72';
 
 function generateReadMe(INPUT_DATA) {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
@@ -16,26 +15,9 @@ function generateReadMe(INPUT_DATA) {
 fetch(forecastURL, { method: 'Get' })
   .then((res) => res.json())
   .then((json) => {
-    // do something with JSON
-    const forecasts = json['properties']['periods'];
-    fetch(windwaveURL, { method: 'Get' })
-      .then((res) => res.json())
-      .then((json) => {
-        // do something with JSON
-        const wavewind = json['properties']['periods'];
-        let DATA = {
-          name: 'Pat',
-          date: new Date().toLocaleDateString('en-US', {
-            weekday: 'long',
-            month: 'long',
-            day: 'numeric',
-          }),
-          forecasts: forecasts,
-          today_wave: '2-4',
-          today_wind: '5-8',
-          tomorrow_wind: '1-555',
-          tomorrow_wave: '5-10',
-        };
-        generateReadMe(DATA);
-      });
+    let DATA = {
+      name: 'Pat',
+      forecasts: json['properties']['periods'].slice(0, 4),
+    };
+    generateReadMe(DATA);
   });
