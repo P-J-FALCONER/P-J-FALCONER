@@ -8,7 +8,7 @@
 
 ### 💻 What i am currently/done working on
  - [Daily Email Aggregator](https://github.com/P-J-FALCONER/dott_daily_mail)
- - Quick Real Estate Pro Forma UI/API *coming very soon*
+ - [Quick Real Estate Pro Forma](https://github.com/P-J-FALCONER/henry)
  - Sailing Sensor/Grafana Dashboard *coming very soon*
  - Google Earth KML Hosting Solution *coming very soon*
 
@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Clear, with a low around 68. South southwest wind 5 to 10 mph. |
+| Tonight | Clear, with a low around 68. Southwest wind around 5 mph. |
 | Friday | Sunny, with a high near 84. South southeast wind 5 to 10 mph. |
 | Friday Night | Clear, with a low around 67. South southwest wind 5 to 10 mph. |
 | Saturday | Sunny, with a high near 85. South southwest wind 5 to 10 mph. |
