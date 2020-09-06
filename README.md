@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly clear, with a low around 64. East southeast wind 5 to 10 mph. |
-| Sunday | Showers and thunderstorms likely before 8am, then showers and thunderstorms between 8am and 9am, then showers and thunderstorms likely between 9am and 1pm. Mostly cloudy, with a high near 82. South wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Overnight | Partly cloudy, with a low around 64. South southeast wind 5 to 10 mph. |
+| Sunday | Showers and thunderstorms before 3pm. Mostly cloudy, with a high near 82. South wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
 | Sunday Night | Showers and thunderstorms likely after 8pm. Mostly cloudy. Low around 68, with temperatures rising to around 70 overnight. Southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New rainfall amounts between three quarters and one inch possible. |
 | Labor Day | A chance of showers and thunderstorms before 7am. Mostly sunny, with a high near 71. North wind 10 to 15 mph. Chance of precipitation is 30%. |
 
