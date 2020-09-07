@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Showers and thunderstorms likely after 8pm. Some of the storms could produce heavy rain. Mostly cloudy. Low around 67, with temperatures rising to around 70 overnight. West southwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts between 1 and 2 inches possible. |
-| Labor Day | A slight chance of showers and thunderstorms before 7am. Mostly sunny. High near 71, with temperatures falling to around 67 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Overnight | Scattered showers and thunderstorms. Mostly cloudy. Low around 67, with temperatures rising to around 70 overnight. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Labor Day | Mostly sunny. High near 71, with temperatures falling to around 67 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible. |
 | Monday Night | Showers and thunderstorms after 10pm. Mostly cloudy, with a low around 61. Northeast wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
 | Tuesday | Showers and thunderstorms. Cloudy, with a high near 69. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. |
 
