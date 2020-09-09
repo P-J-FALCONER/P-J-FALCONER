@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of showers and thunderstorms before 2pm, then a chance of showers and thunderstorms. Cloudy, with a high near 65. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms before 7pm, then a chance of showers and thunderstorms. Cloudy, with a low around 62. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms before 1pm. Cloudy, with a high near 66. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | Mostly cloudy, with a low around 62. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | A chance of showers and thunderstorms. Cloudy, with a low around 61. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday | A chance of rain showers before 1pm. Cloudy, with a high near 66. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | Cloudy, with a low around 61. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Thursday | Mostly cloudy, with a high near 68. Northeast wind around 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
