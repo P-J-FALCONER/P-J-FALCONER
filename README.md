@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Scattered rain showers between 10pm and 4am, then scattered showers and thunderstorms. Cloudy, with a low around 63. East southeast wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | Showers and thunderstorms. Cloudy, with a high near 73. South southeast wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Saturday Night | Scattered showers and thunderstorms before 1am. Mostly cloudy, with a low around 64. West southwest wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
-| Sunday | Mostly sunny, with a high near 75. Northwest wind 5 to 10 mph. |
+| Overnight | Scattered rain showers before 4am, then scattered showers and thunderstorms. Cloudy, with a low around 63. Southeast wind around 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Showers and thunderstorms. Cloudy, with a high near 73. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Saturday Night | Scattered showers and thunderstorms before 1am. Mostly cloudy, with a low around 64. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday | Mostly sunny, with a high near 75. Northwest wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
