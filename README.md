@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly clear, with a low around 58. West southwest wind around 15 mph, with gusts as high as 30 mph. |
-| Wednesday | Sunny. High near 74, with temperatures falling to around 72 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Wednesday Night | Clear, with a low around 52. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
-| Thursday | Sunny, with a high near 68. Northwest wind around 5 mph. |
+| Today | Sunny. High near 73, with temperatures falling to around 71 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Clear, with a low around 52. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Thursday | Sunny. High near 69, with temperatures falling to around 66 in the afternoon. North wind around 5 mph, with gusts as high as 10 mph. |
+| Thursday Night | Mostly clear, with a low around 55. Southeast wind around 5 mph, with gusts as high as 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
