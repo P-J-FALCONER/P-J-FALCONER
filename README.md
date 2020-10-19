@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 41. North northwest wind around 5 mph, with gusts as high as 10 mph. |
-| Monday | Rain likely after noon. Mostly cloudy. High near 49, with temperatures falling to around 46 in the afternoon. Northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday Night | A chance of rain before 10pm. Mostly cloudy, with a low around 42. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A chance of rain showers after 1pm. Mostly cloudy, with a high near 55. East wind 5 to 15 mph. Chance of precipitation is 30%. |
+| Overnight | Mostly cloudy, with a low around 40. Northwest wind around 5 mph. |
+| Monday | A chance of rain showers after noon. Mostly cloudy. High near 47, with temperatures falling to around 44 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday Night | A chance of rain showers before 7pm, then a chance of rain between 7pm and 10pm. Mostly cloudy, with a low around 42. North northeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | A chance of rain showers after 1pm. Mostly cloudy, with a high near 55. East wind 10 to 15 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
