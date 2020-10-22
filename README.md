@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny. High near 56, with temperatures falling to around 54 in the afternoon. South southwest wind 5 to 10 mph. |
-| Tonight | A chance of rain showers between 8pm and 10pm, then showers and thunderstorms. Mostly cloudy, with a low around 51. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday | Showers and thunderstorms before 7am, then rain showers likely and patchy drizzle between 7am and 11am, then patchy drizzle and a slight chance of rain showers between 11am and noon. Mostly cloudy, with a high near 72. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | A chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 54. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. |
+| Tonight | A slight chance of showers and thunderstorms before 8pm, then showers and thunderstorms. Cloudy, with a low around 51. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Thursday | Areas of fog and showers and thunderstorms likely before 9am, then areas of fog and a chance of rain showers between 9am and 11am, then a chance of rain showers and patchy fog between 11am and 1pm. Mostly cloudy, with a high near 71. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Thursday Night | Showers and thunderstorms likely after 1am. Partly cloudy. Low around 59, with temperatures rising to around 66 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Showers and thunderstorms. Cloudy, with a high near 61. West wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
