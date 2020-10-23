@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny. High near 71, with temperatures falling to around 68 in the afternoon. South southeast wind around 10 mph, with gusts as high as 20 mph. |
-| Tonight | A chance of showers and thunderstorms after 3am. Partly cloudy. Low around 58, with temperatures rising to around 67 overnight. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Friday | Showers and thunderstorms. Cloudy. High near 60, with temperatures falling to around 48 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Friday Night | A slight chance of rain showers before 7pm. Mostly cloudy, with a low around 40. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tonight | A slight chance of rain showers between 2am and 3am, then a chance of showers and thunderstorms. Partly cloudy. Low around 59, with temperatures rising to around 65 overnight. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 46 in the afternoon. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Friday Night | Mostly cloudy, with a low around 38. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Partly sunny, with a high near 48. North wind 10 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
