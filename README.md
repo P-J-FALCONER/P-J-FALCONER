@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of rain before 7am. Mostly cloudy, with a high near 47. East northeast wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of rain after 7pm. Cloudy. Low around 39, with temperatures rising to around 41 overnight. North northeast wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Today | Cloudy, with a high near 47. Northeast wind around 15 mph. |
+| Tonight | A slight chance of rain showers between 7pm and 8pm, then a chance of rain. Cloudy. Low around 39, with temperatures rising to around 41 overnight. North northeast wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Monday | A chance of rain. Cloudy. High near 44, with temperatures falling to around 42 in the afternoon. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Monday Night | A chance of rain before 1am. Mostly cloudy, with a low around 37. North northwest wind 5 to 10 mph. Chance of precipitation is 30%. |
 
