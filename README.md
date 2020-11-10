@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of rain showers. Mostly cloudy, with a low around 64. South southwest wind around 15 mph, with gusts as high as 25 mph. |
-| Tuesday | A slight chance of rain showers between 3pm and 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 72. South southwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | Showers and thunderstorms before 11pm. Partly cloudy, with a low around 36. Southwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Veterans Day | Sunny, with a high near 49. West southwest wind 5 to 15 mph. |
+| Today | A chance of showers and thunderstorms after 3pm. Mostly cloudy, with a high near 71. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Showers and thunderstorms likely before 7pm, then showers and thunderstorms between 7pm and 11pm. Partly cloudy, with a low around 36. Southwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Veterans Day | Sunny. High near 49, with temperatures falling to around 47 in the afternoon. West southwest wind 5 to 15 mph. |
+| Wednesday Night | Mostly clear, with a low around 37. Southwest wind around 0 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
