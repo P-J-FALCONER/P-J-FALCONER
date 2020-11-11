@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 64. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Tuesday | A slight chance of rain between 1pm and 2pm, then a chance of rain and a slight chance of thunderstorms between 2pm and 4pm, then a chance of thunderstorms and a chance of rain between 4pm and 5pm, then rain likely and a slight chance of thunderstorms. Mostly cloudy. High near 73, with temperatures falling to around 69 in the afternoon. South southwest wind 20 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tuesday Night | Rain and a chance of thunderstorms before 10pm, then a slight chance of thunderstorms and a slight chance of rain between 10pm and 11pm. Mostly cloudy, with a low around 36. West southwest wind 15 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Veterans Day | Sunny, with a high near 49. West wind 0 to 10 mph, with gusts as high as 20 mph. |
+| Overnight | Partly cloudy. Low around 35, with temperatures rising to around 37 overnight. West southwest wind 15 to 25 mph, with gusts as high as 40 mph. |
+| Veterans Day | Sunny, with a high near 49. West southwest wind 5 to 15 mph. |
+| Wednesday Night | Mostly clear, with a low around 37. Southwest wind around 5 mph. |
+| Thursday | Sunny, with a high near 54. South southwest wind 0 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
