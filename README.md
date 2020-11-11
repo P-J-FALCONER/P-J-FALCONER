@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy. Low around 35, with temperatures rising to around 37 overnight. West southwest wind 15 to 25 mph, with gusts as high as 40 mph. |
-| Veterans Day | Sunny, with a high near 49. West southwest wind 5 to 15 mph. |
-| Wednesday Night | Mostly clear, with a low around 37. Southwest wind around 5 mph. |
-| Thursday | Sunny, with a high near 54. South southwest wind 0 to 10 mph. |
+| Veterans Day | Mostly sunny, with a high near 48. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Mostly clear, with a low around 36. Southwest wind 5 to 10 mph. |
+| Thursday | Sunny. High near 54, with temperatures falling to around 51 in the afternoon. South wind 5 to 10 mph. |
+| Thursday Night | Partly cloudy, with a low around 34. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
