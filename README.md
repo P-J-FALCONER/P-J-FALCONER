@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Veterans Day | Mostly sunny, with a high near 48. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Veterans Day | Sunny, with a high near 47. West wind around 10 mph. |
 | Tonight | Mostly clear, with a low around 36. Southwest wind 5 to 10 mph. |
 | Thursday | Sunny. High near 54, with temperatures falling to around 51 in the afternoon. South wind 5 to 10 mph. |
 | Thursday Night | Partly cloudy, with a low around 34. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
