@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny. High near 44, with temperatures falling to around 40 in the afternoon. East northeast wind around 5 mph. |
-| Tonight | Rain and snow after 2am. Mostly cloudy, with a low around 35. East southeast wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Rain and snow after 3am. Cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible. |
 | Tuesday | Snow before 8am, then rain and snow. Cloudy, with a high near 42. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday Night | Rain before midnight, then rain and patchy fog. Cloudy, with a low around 42. South southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. |
+| Tuesday Night | Rain before midnight, then rain and patchy fog. Cloudy. Low around 42, with temperatures rising to around 44 overnight. South southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday | Rain and patchy fog before noon, then rain and a slight chance of thunderstorms. Cloudy, with a high near 52. East southeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 90%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
