@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny. High near 44, with temperatures falling to around 40 in the afternoon. East northeast wind around 5 mph. |
-| Tonight | Rain and snow after 2am. Mostly cloudy, with a low around 35. East southeast wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | Snow before 8am, then rain and snow. Cloudy, with a high near 42. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday Night | Rain before midnight, then rain and patchy fog. Cloudy, with a low around 42. South southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. |
+| Overnight | Cloudy, with a low around 43. West wind around 10 mph, with gusts as high as 20 mph. |
+| Thanksgiving Day | Mostly cloudy, with a high near 47. West southwest wind 10 to 15 mph. |
+| Thursday Night | Mostly cloudy, with a low around 39. West southwest wind around 10 mph, with gusts as high as 20 mph. |
+| Friday | Mostly sunny, with a high near 45. West northwest wind around 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
