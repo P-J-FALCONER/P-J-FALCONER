@@ -21,7 +21,7 @@
 |   | Forecast  |
 |---|---|
 | Tonight | Clear, with a low around 32. West wind 5 to 10 mph. |
-| Saturday | Sunny. High near 52, with temperatures falling to around 50 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Saturday | Sunny. High near 51, with temperatures falling to around 49 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Saturday Night | Clear, with a low around 39. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Sunday | Partly sunny, with a high near 47. West wind 10 to 15 mph. |
 
