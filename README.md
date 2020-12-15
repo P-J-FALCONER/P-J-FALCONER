@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Intermittent snow and intermittent snow showers before 1am. Mostly cloudy, with a low around 29. Northwest wind around 10 mph. Chance of precipitation is 20%. |
-| Sunday | Partly sunny. High near 36, with temperatures falling to around 34 in the afternoon. West northwest wind 5 to 10 mph. |
-| Sunday Night | Partly cloudy, with a low around 27. West wind 5 to 15 mph. |
-| Monday | Sunny, with a high near 32. Northwest wind around 15 mph. |
+| This Afternoon | Partly sunny. High near 31, with temperatures falling to around 28 in the afternoon. Northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Tonight | Mostly cloudy, with a low around 23. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Tuesday | Mostly cloudy, with a high near 34. Northeast wind 0 to 5 mph. |
+| Tuesday Night | Cloudy, with a low around 29. East southeast wind 10 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
