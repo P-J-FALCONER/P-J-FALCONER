@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny, with a high near 31. Northwest wind 15 to 20 mph. |
-| Tonight | Mostly cloudy, with a low around 25. North northwest wind 5 to 15 mph. |
-| Tuesday | Mostly cloudy, with a high near 33. Northeast wind 5 to 10 mph. |
-| Tuesday Night | Cloudy, with a low around 29. East wind around 10 mph, with gusts as high as 20 mph. |
+| This Afternoon | Scattered snow showers before 4pm, then a chance of drizzle and scattered snow showers. Cloudy, with a high near 34. Northeast wind around 20 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Scattered snow showers before 8pm, then scattered snow showers and a slight chance of drizzle between 8pm and 9pm, then scattered snow showers and a slight chance of freezing drizzle between 9pm and 10pm, then a chance of drizzle and scattered snow showers between 10pm and 11pm, then scattered snow showers and a slight chance of freezing drizzle between 11pm and midnight, then a chance of drizzle and scattered snow showers between midnight and 1am, then scattered snow showers and a slight chance of freezing drizzle between 1am and 5am, then a chance of freezing drizzle and scattered snow showers. Cloudy, with a low around 31. North northeast wind 5 to 20 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
+| Thursday | A chance of freezing drizzle and scattered snow showers before 7am, then a chance of drizzle and scattered snow showers between 7am and 8am, then a chance of freezing drizzle and scattered snow showers between 8am and 9am, then a chance of drizzle and scattered snow showers. Mostly cloudy, with a high near 36. North northwest wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
+| Thursday Night | Partly cloudy, with a low around 28. West southwest wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
