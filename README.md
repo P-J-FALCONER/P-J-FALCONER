@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered snow showers before 4pm, then a chance of drizzle and scattered snow showers. Cloudy, with a high near 34. Northeast wind around 20 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Scattered snow showers before 8pm, then scattered snow showers and a slight chance of drizzle between 8pm and 9pm, then scattered snow showers and a slight chance of freezing drizzle between 9pm and 10pm, then a chance of drizzle and scattered snow showers between 10pm and 11pm, then scattered snow showers and a slight chance of freezing drizzle between 11pm and midnight, then a chance of drizzle and scattered snow showers between midnight and 1am, then scattered snow showers and a slight chance of freezing drizzle between 1am and 5am, then a chance of freezing drizzle and scattered snow showers. Cloudy, with a low around 31. North northeast wind 5 to 20 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
-| Thursday | A chance of freezing drizzle and scattered snow showers before 7am, then a chance of drizzle and scattered snow showers between 7am and 8am, then a chance of freezing drizzle and scattered snow showers between 8am and 9am, then a chance of drizzle and scattered snow showers. Mostly cloudy, with a high near 36. North northwest wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
-| Thursday Night | Partly cloudy, with a low around 28. West southwest wind 5 to 10 mph. |
+| Today | Cloudy, with a high near 34. Northeast wind 5 to 15 mph. |
+| Tonight | Cloudy, with a low around 30. East wind around 15 mph, with gusts as high as 25 mph. |
+| Wednesday | A chance of snow. Cloudy, with a high near 35. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | A slight chance of snow showers. Cloudy, with a low around 30. North northeast wind 5 to 15 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
