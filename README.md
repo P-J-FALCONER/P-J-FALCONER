@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain showers likely before 9pm, then scattered snow showers. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. Southwest wind 20 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Scattered snow showers after 3am. Mostly cloudy. Low around 18, with temperatures rising to around 20 overnight. West southwest wind 20 to 30 mph, with gusts as high as 45 mph. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday | Scattered snow showers. Mostly cloudy. High near 20, with temperatures falling to around 17 in the afternoon. Wind chill values as low as 1. West wind 15 to 20 mph, with gusts as high as 30 mph. |
 | Thursday Night | Scattered snow showers. Mostly cloudy, with a low around 13. Wind chill values as low as -3. West northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
 | Christmas Day | Mostly sunny, with a high near 24. Wind chill values as low as -2. West wind around 15 mph, with gusts as high as 25 mph. |
