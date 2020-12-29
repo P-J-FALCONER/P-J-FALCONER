@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy, with a low around 21. West northwest wind 5 to 10 mph. |
-| Tuesday | Snow after 3pm. Mostly cloudy, with a high near 33. South southwest wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Tuesday Night | Snow before 11pm, then rain between 11pm and 1am, then freezing rain and rain between 1am and 2am, then sleet and freezing rain and rain and snow. Cloudy. Low around 31, with temperatures rising to around 34 overnight. South wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Wednesday | Rain before 4pm, then a chance of rain and snow. Cloudy, with a high near 40. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. |
+| Today | A chance of rain after 4pm. Mostly cloudy, with a high near 42. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
+| Tonight | Rain likely before 9pm, then a chance of rain and snow between 9pm and 11pm. Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | Mostly sunny. High near 31, with temperatures falling to around 29 in the afternoon. West northwest wind around 15 mph, with gusts as high as 25 mph. |
+| Monday Night | Mostly clear, with a low around 20. West northwest wind 5 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
