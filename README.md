@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy, with a low around 21. West northwest wind 5 to 10 mph. |
-| Tuesday | Snow after 3pm. Mostly cloudy, with a high near 33. South southwest wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Tuesday Night | Snow before 11pm, then rain between 11pm and 1am, then freezing rain and rain between 1am and 2am, then sleet and freezing rain and rain and snow. Cloudy. Low around 31, with temperatures rising to around 34 overnight. South wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Wednesday | Rain before 4pm, then a chance of rain and snow. Cloudy, with a high near 40. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. |
+| This Afternoon | Partly sunny. High near 32, with temperatures falling to around 28 in the afternoon. South southwest wind around 5 mph. |
+| Tonight | Partly cloudy. Low around 26, with temperatures rising to around 29 overnight. Southeast wind 5 to 15 mph. |
+| New Year&#39;s Day | A slight chance of snow between 8am and 9am, then rain and snow likely between 9am and noon, then sleet likely and rain and snow. Cloudy, with a high near 36. East northeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
+| Friday Night | Rain and snow before 8pm, then rain and snow between 8pm and 1am, then a chance of rain and snow. Cloudy, with a low around 30. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
