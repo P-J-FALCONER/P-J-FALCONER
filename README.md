@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy. Low around 24, with temperatures rising to around 29 overnight. East southeast wind around 10 mph, with gusts as high as 20 mph. |
-| New Year&#39;s Day | Snow likely between 9am and 11am, then rain and snow between 11am and 4pm, then rain and snow. Cloudy, with a high near 35. East northeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Friday Night | Rain and snow. Mostly cloudy. Low around 30, with temperatures rising to around 33 overnight. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Saturday | Partly sunny, with a high near 36. North northeast wind 5 to 10 mph. |
+| Today | Scattered snow showers. Cloudy, with a high near 36. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Isolated snow showers before 9pm, then a chance of snow. Mostly cloudy, with a low around 30. West wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
+| Saturday | Snow likely. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Saturday Night | A slight chance of snow before midnight. Mostly cloudy, with a low around 28. West northwest wind 10 to 15 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
