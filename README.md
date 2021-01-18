@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Snow. Cloudy, with a high near 32. West northwest wind 5 to 10 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
-| Tonight | A chance of snow and a slight chance of snow showers. Mostly cloudy. Low around 26, with temperatures rising to around 28 overnight. West northwest wind 5 to 10 mph. Chance of precipitation is 50%. |
-| M.L. King Jr. Day | Mostly cloudy. High near 31, with temperatures falling to around 29 in the afternoon. West wind 5 to 10 mph, with gusts as high as 20 mph. |
-| Monday Night | Mostly cloudy, with a low around 20. West wind around 10 mph, with gusts as high as 20 mph. |
+| Tonight | Snow likely before 1am, then a slight chance of snow showers. Mostly cloudy, with a low around 26. West northwest wind 5 to 10 mph. Chance of precipitation is 70%. Little or no snow accumulation expected. |
+| M.L. King Jr. Day | Mostly cloudy, with a high near 31. West wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Monday Night | Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West wind around 10 mph, with gusts as high as 20 mph. |
+| Tuesday | Mostly sunny, with a high near 26. West wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
