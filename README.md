@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of snow before 3am, then scattered snow showers. Cloudy, with a low around 27. West wind 5 to 10 mph. Chance of precipitation is 30%. |
-| M.L. King Jr. Day | A chance of snow showers before 9am. Cloudy, with a high near 31. West wind 5 to 10 mph, with gusts as high as 20 mph. |
-| Monday Night | Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. West wind around 10 mph, with gusts as high as 20 mph. |
+| Overnight | Scattered snow showers. Cloudy, with a low around 27. West wind around 5 mph, with gusts as high as 15 mph. |
+| M.L. King Jr. Day | A chance of snow showers before 1pm. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. West wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Monday Night | Mostly cloudy, with a low around 20. West wind around 10 mph, with gusts as high as 20 mph. |
 | Tuesday | Mostly sunny, with a high near 26. West wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
