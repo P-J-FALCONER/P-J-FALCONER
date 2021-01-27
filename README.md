@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Snow before 2pm, then snow and patchy blowing snow. Cloudy, with a high near 32. North northeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
-| Tonight | A chance of snow before 7pm, then a chance of snow and patchy blowing snow. Cloudy. Low around 27, with temperatures rising to around 29 overnight. North wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
-| Wednesday | Snow showers likely. Mostly cloudy. High near 29, with temperatures falling to around 25 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible. |
-| Wednesday Night | Partly cloudy, with a low around 14. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Periods of snow showers before 7pm, then periods of snow showers and patchy blowing snow. Cloudy, with a low around 24. North wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible. |
+| Wednesday | A chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible. |
+| Wednesday Night | Partly cloudy, with a low around 14. Wind chill values as low as 1. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Thursday | Sunny, with a high near 25. West northwest wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
