@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Snow and patchy blowing snow. Cloudy, with a high near 34. Northeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Tonight | Snow. Cloudy, with a low around 30. North northeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
+| Today | Snow and patchy blowing snow. Cloudy, with a high near 33. Northeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Tonight | Snow. Cloudy, with a low around 30. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
 | Monday | Mostly cloudy, with a high near 32. North wind 15 to 20 mph, with gusts as high as 30 mph. |
 | Monday Night | Mostly cloudy, with a low around 23. North northwest wind 10 to 15 mph. |
 
