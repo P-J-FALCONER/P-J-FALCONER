@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Snow after 2pm. Cloudy, with a high near 35. Southeast wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Tonight | Snow and patchy blowing snow. Cloudy, with a low around 32. East wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible. |
-| Sunday | Snow and patchy blowing snow. Cloudy, with a high near 34. Northeast wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
-| Sunday Night | Snow likely. Mostly cloudy, with a low around 28. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Overnight | Scattered snow showers. Cloudy, with a low around 24. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
+| Wednesday | A chance of snow showers. Mostly cloudy. High near 30, with temperatures falling to around 27 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible. |
+| Wednesday Night | Partly cloudy, with a low around 14. Wind chill values as low as 1. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Thursday | Sunny, with a high near 25. West northwest wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
