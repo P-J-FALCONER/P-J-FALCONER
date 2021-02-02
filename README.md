@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 24. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Mostly cloudy, with a low around 25. North northwest wind 10 to 15 mph. |
 | Tuesday | Mostly cloudy, with a high near 31. North northwest wind around 15 mph, with gusts as high as 25 mph. |
 | Tuesday Night | Mostly cloudy, with a low around 20. Northwest wind 10 to 15 mph. |
 | Wednesday | Mostly sunny, with a high near 32. Southwest wind around 5 mph, with gusts as high as 15 mph. |
