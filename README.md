@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Rain and snow. Cloudy. High near 39, with temperatures falling to around 32 in the afternoon. South southeast wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Tonight | Snow before 7pm, then snow and patchy blowing snow. Cloudy. Low around 12, with temperatures rising to around 14 overnight. Wind chill values as low as -5. West southwest wind 15 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
-| Friday | Snow showers likely and patchy blowing snow. Cloudy, with a high near 17. Wind chill values as low as -7. West wind 20 to 25 mph, with gusts as high as 35 mph. |
-| Friday Night | Mostly cloudy, with a low around 7. Wind chill values as low as -7. West wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Tonight | Snow before 7pm, then snow and patchy blowing snow between 7pm and 1am, then patchy blowing snow and a slight chance of snow between 1am and 2am, then a chance of snow showers and patchy blowing snow. Cloudy, with a low around 11. Wind chill values as low as -8. West southwest wind 15 to 35 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
+| Friday | Snow showers likely and patchy blowing snow. Mostly cloudy, with a high near 16. Wind chill values as low as -9. West wind around 25 mph, with gusts as high as 40 mph. |
+| Friday Night | Mostly cloudy, with a low around 6. Wind chill values as low as -10. West wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Saturday | A chance of snow after noon. Partly sunny, with a high near 14. Wind chill values as low as -10. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New snow accumulation of around one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
