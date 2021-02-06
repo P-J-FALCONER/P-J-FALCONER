@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy. Low around 26, with temperatures rising to around 29 overnight. South wind 10 to 15 mph. |
-| Thursday | A chance of snow and a chance of freezing rain between 7am and 9am, then rain and snow. Cloudy, with a high near 35. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
-| Thursday Night | Snow before 7pm, then snow and patchy blowing snow between 7pm and midnight, then areas of blowing snow and a slight chance of snow. Mostly cloudy, with a low around 13. Wind chill values as low as -5. West southwest wind 15 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible. |
-| Friday | Snow showers likely and areas of blowing snow. Partly sunny, with a high near 17. Wind chill values as low as -4. West wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Today | Snow after 1pm. Mostly cloudy, with a high near 13. Wind chill values as low as -3. West wind around 10 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
+| Tonight | Snow before midnight. Mostly cloudy. Low around -4, with temperatures rising to around -1 overnight. Wind chill values as low as -20. West northwest wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
+| Sunday | Mostly sunny, with a high near 8. Wind chill values as low as -20. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Sunday Night | A slight chance of snow after midnight. Mostly cloudy, with a low around 2. Wind chill values as low as -7. West northwest wind around 5 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
