@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly cloudy, with a high near 8. Wind chill values as low as -9. West wind 5 to 10 mph. |
-| Tonight | A chance of snow showers before midnight, then a slight chance of snow. Mostly cloudy. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -8. West northwest wind around 5 mph. Chance of precipitation is 20%. |
-| Monday | Snow likely. Cloudy, with a high near 17. Wind chill values as low as -6. West wind 0 to 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
-| Monday Night | A chance of snow. Mostly cloudy, with a low around 8. Wind chill values as low as -2. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible. |
+| Tonight | A chance of snow after midnight. Cloudy, with a low around 3. Wind chill values as low as -11. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
+| Monday | Snow. Mostly cloudy, with a high near 16. Wind chill values as low as -5. West northwest wind 0 to 5 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
+| Monday Night | Snow likely. Mostly cloudy, with a low around 9. Wind chill values as low as -5. North northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible. |
+| Tuesday | Partly sunny, with a high near 17. Wind chill values as low as -5. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
