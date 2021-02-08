@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of snow. Mostly cloudy. Low around 1, with temperatures rising to around 4 overnight. Wind chill values as low as -5. West wind around 5 mph. Chance of precipitation is 30%. |
-| Monday | Snow. Cloudy, with a high near 14. Wind chill values as low as -4. West southwest wind 0 to 5 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
-| Monday Night | Snow likely before 3am. Mostly cloudy, with a low around 5. Wind chill values as low as -10. Northwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. |
-| Tuesday | Mostly sunny, with a high near 16. Wind chill values as low as -10. North northwest wind around 10 mph, with gusts as high as 20 mph. |
+| This Afternoon | Snow. Cloudy, with a high near 14. West wind around 5 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
+| Tonight | Snow before 5am. Mostly cloudy, with a low around 5. Wind chill values as low as -10. Northwest wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
+| Tuesday | Mostly sunny. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -10. North northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Tuesday Night | Mostly cloudy, with a low around 9. Wind chill values as low as -1. North wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
