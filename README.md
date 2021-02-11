@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of snow. Mostly cloudy, with a low around 8. Wind chill values as low as -6. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
-| Thursday | A chance of snow. Mostly cloudy, with a high near 20. Wind chill values as low as -7. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
-| Thursday Night | A chance of snow. Mostly cloudy, with a low around 11. Wind chill values as low as 0. North wind 10 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
-| Friday | A slight chance of snow after noon. Mostly cloudy, with a high near 16. Wind chill values as low as -3. North northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
+| Overnight | A slight chance of snow. Mostly cloudy, with a low around 8. Wind chill values as low as -6. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Thursday | A chance of snow. Mostly cloudy, with a high near 20. Wind chill values as low as -7. North northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
+| Thursday Night | Snow. Mostly cloudy, with a low around 11. Wind chill values as low as -2. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
+| Friday | A chance of snow after noon. Mostly cloudy, with a high near 17. Wind chill values as low as -3. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
