@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of snow. Mostly cloudy, with a low around 8. Wind chill values as low as -6. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
-| Thursday | A chance of snow. Mostly cloudy, with a high near 20. Wind chill values as low as -7. North northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
-| Thursday Night | Snow. Mostly cloudy, with a low around 11. Wind chill values as low as -2. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
-| Friday | A chance of snow after noon. Mostly cloudy, with a high near 17. Wind chill values as low as -3. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
+| This Afternoon | Snow likely. Cloudy, with a high near 20. North northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. |
+| Tonight | Snow. Mostly cloudy, with a low around 11. Wind chill values as low as -2. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
+| Friday | A chance of snow after noon. Mostly cloudy. High near 17, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -3. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
+| Friday Night | Snow likely. Cloudy, with a low around 6. Wind chill values as low as -6. North northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
