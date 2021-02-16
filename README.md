@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Snow and areas of blowing snow. Cloudy, with a low around 13. Wind chill values as low as -3. North northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. |
-| Tuesday | Snow and patchy blowing snow. Mostly cloudy. High near 19, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -1. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible. |
-| Tuesday Night | A chance of snow showers before midnight. Partly cloudy, with a low around 4. Wind chill values as low as -3. West southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Mostly cloudy, with a high near 20. Wind chill values as low as -3. South wind 0 to 5 mph. |
+| Overnight | Snow and patchy blowing snow. Cloudy, with a low around 13. Wind chill values as low as -1. North wind around 15 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible. |
+| Tuesday | Snow and patchy blowing snow. Mostly cloudy. High near 19, with temperatures falling to around 17 in the afternoon. Wind chill values as low as -1. North northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible. |
+| Tuesday Night | A slight chance of snow before midnight. Mostly cloudy, with a low around 3. Wind chill values as low as -5. West wind 5 to 10 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
+| Wednesday | A chance of snow after noon. Mostly cloudy, with a high near 21. Wind chill values as low as -6. South wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
