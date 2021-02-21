@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 21. South southeast wind 5 to 10 mph. |
-| Sunday | Snow after noon. Mostly cloudy, with a high near 33. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
+| Overnight | Partly cloudy. Low around 13, with temperatures rising to around 15 overnight. South southeast wind 5 to 10 mph. |
+| Sunday | Snow likely after 1pm. Mostly cloudy, with a high near 33. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
 | Sunday Night | Snow. Cloudy. Low around 27, with temperatures rising to around 30 overnight. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
 | Monday | Partly sunny, with a high near 36. West southwest wind around 15 mph, with gusts as high as 30 mph. |
 
