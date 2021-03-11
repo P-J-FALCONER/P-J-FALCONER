@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of rain showers between 2pm and 3pm. Mostly cloudy. High near 68, with temperatures falling to around 66 in the afternoon. South southwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 20%. |
-| Tonight | A slight chance of rain showers between 10pm and midnight, then showers and thunderstorms likely. Cloudy, with a low around 56. South southwest wind 20 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Showers and thunderstorms likely before 3pm. Mostly cloudy. High near 60, with temperatures falling to around 57 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of showers and thunderstorms between midnight and 1am, then showers and thunderstorms likely between 1am and 2am, then a chance of showers and thunderstorms between 2am and 3am, then a chance of showers and thunderstorms between 3am and 5am, then a slight chance of showers and thunderstorms. Mostly cloudy. Low around 53, with temperatures rising to around 57 overnight. Southwest wind 15 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A slight chance of showers and thunderstorms before 9am. Mostly sunny. High near 59, with temperatures falling to around 55 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday Night | Mostly clear, with a low around 36. West northwest wind 5 to 10 mph. |
+| Friday | Mostly sunny, with a high near 45. North wind around 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
