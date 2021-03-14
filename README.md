@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Partly cloudy, with a low around 40. West northwest wind around 5 mph. |
-| Sunday | Mostly sunny. High near 41, with temperatures falling to around 38 in the afternoon. North northeast wind 10 to 20 mph, with gusts as high as 30 mph. |
-| Sunday Night | Mostly cloudy, with a low around 32. East northeast wind 20 to 25 mph, with gusts as high as 35 mph. |
-| Monday | A slight chance of sleet and a slight chance of freezing rain between 7am and 8am, then snow likely between 8am and 11am, then rain and snow. Mostly cloudy, with a high near 37. East wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
+| Today | Mostly sunny. High near 41, with temperatures falling to around 38 in the afternoon. North northeast wind 10 to 20 mph, with gusts as high as 30 mph. |
+| Tonight | Mostly cloudy, with a low around 32. East northeast wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Monday | Rain and snow between 9am and 4pm, then sleet likely and rain and snow. Cloudy. High near 36, with temperatures falling to around 34 in the afternoon. East wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible. |
+| Monday Night | A chance of sleet and rain and snow before 7pm, then a slight chance of sleet and a chance of rain and snow. Cloudy, with a low around 36. East wind 5 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
