@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 32. East wind 20 to 25 mph. |
-| Monday | A chance of snow between 8am and noon, then sleet and rain and snow. Cloudy, with a high near 37. East wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Monday Night | Rain and snow before 7pm, then snow likely and drizzle likely between 7pm and 1am, then a chance of rain. Cloudy. Low around 34, with temperatures rising to around 36 overnight. East wind 5 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Tuesday | A chance of rain before 7am. Partly sunny, with a high near 40. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Today | Snow after 11am. Cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
+| Tonight | Snow before 7pm, then rain and snow likely between 7pm and 1am, then a chance of drizzle. Cloudy, with a low around 35. East wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible. |
+| Tuesday | A chance of drizzle before 9am. Mostly cloudy, with a high near 40. North northeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday Night | Partly cloudy, with a low around 33. North northeast wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
