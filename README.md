@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 33. Northeast wind 5 to 10 mph. |
-| Wednesday | A slight chance of rain after 4pm. Mostly cloudy, with a high near 41. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Wednesday Night | Rain. Cloudy. Low around 37, with temperatures rising to around 39 overnight. Northeast wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | Rain. Cloudy, with a high near 40. North northeast wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. |
+| Overnight | Mostly cloudy, with a low around 32. East wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Monday | A chance of snow between 8am and noon, then sleet and rain and snow. Cloudy, with a high near 37. East wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
+| Monday Night | Rain and snow before 7pm, then snow likely and drizzle likely between 7pm and 1am, then a chance of rain. Cloudy. Low around 34, with temperatures rising to around 36 overnight. East wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
+| Tuesday | A chance of rain before 7am. Partly sunny, with a high near 40. North northeast wind around 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
