@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Scattered rain showers after 4pm. Mostly sunny, with a high near 42. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Tonight | Scattered rain showers between 7pm and 8pm. Mostly cloudy. Low around 26, with temperatures rising to around 28 overnight. North northwest wind around 15 mph, with gusts as high as 25 mph. |
-| Thursday | Mostly sunny, with a high near 36. North wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Thursday Night | Clear, with a low around 29. North northwest wind 5 to 15 mph, with gusts as high as 25 mph. |
+| This Afternoon | Scattered rain showers after 4pm. Partly sunny, with a high near 42. Northwest wind around 15 mph, with gusts as high as 25 mph. |
+| Tonight | Scattered rain showers between 7pm and 8pm. Partly cloudy, with a low around 27. North northwest wind around 15 mph, with gusts as high as 25 mph. |
+| Thursday | Mostly sunny, with a high near 35. North wind 15 to 20 mph, with gusts as high as 25 mph. |
+| Thursday Night | Clear, with a low around 29. North northwest wind 5 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
