@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of rain and isolated thunderstorms after 4am. Partly cloudy, with a low around 54. South southwest wind 10 to 15 mph. Chance of precipitation is 20%. |
-| Monday | A slight chance of rain and isolated thunderstorms before 4pm. Partly sunny, with a high near 73. Southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday Night | A slight chance of showers and thunderstorms after 1am. Mostly cloudy, with a low around 54. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tuesday | A slight chance of showers and thunderstorms before 7am. Partly sunny, with a high near 73. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| This Afternoon | Isolated rain showers before 2pm, then scattered showers and thunderstorms. Mostly cloudy, with a high near 73. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Isolated rain showers before 7pm. Partly cloudy, with a low around 55. South southwest wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | Partly sunny, with a high near 71. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday Night | A slight chance of showers and thunderstorms after 7pm. Mostly cloudy, with a low around 55. South wind 5 to 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
