@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Patchy fog after 1am. Partly cloudy, with a low around 47. South southwest wind 5 to 10 mph. |
-| Saturday | Patchy fog before 7am, then rain between 7am and 1pm, then rain and scattered thunderstorms. Cloudy, with a high near 53. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Saturday Night | Rain and scattered thunderstorms. Mostly cloudy, with a low around 47. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday | Rain likely. Cloudy, with a high near 52. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. |
+| Today | Rain showers. Cloudy. High near 53, with temperatures falling to around 49 in the afternoon. Northeast wind 0 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tonight | Rain showers. Mostly cloudy, with a low around 45. East southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Sunday | Areas of fog and scattered rain showers. Mostly cloudy, with a high near 51. Northwest wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday Night | A chance of rain showers before 1am. Mostly cloudy, with a low around 46. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
