@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of rain showers and areas of fog before 9pm, then areas of fog and scattered rain showers between 9pm and 4am, then occasional drizzle and patchy fog and scattered rain showers. Cloudy, with a low around 44. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Sunday | Occasional drizzle and patchy fog and scattered rain showers. Cloudy, with a high near 52. North wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | Scattered rain showers. Mostly cloudy, with a low around 46. West northwest wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | A slight chance of rain showers. Partly sunny, with a high near 60. West wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Overnight | Scattered rain showers. Cloudy, with a low around 46. West wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | Scattered rain showers before 7am. Partly sunny, with a high near 61. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday Night | Mostly clear, with a low around 42. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday | Mostly sunny, with a high near 55. West wind 10 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
