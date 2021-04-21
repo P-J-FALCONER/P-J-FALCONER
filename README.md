@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered rain and snow showers. Cloudy. High near 40, with temperatures falling to around 37 in the afternoon. Northeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Scattered snow showers before midnight, then patchy frost and a slight chance of snow showers. Mostly cloudy, with a low around 35. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Patchy frost and a slight chance of snow showers before 7am, then a chance of snow showers and patchy frost between 7am and 8am, then patchy frost and a chance of rain and snow showers. Partly sunny. High near 41, with temperatures falling to around 39 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
-| Wednesday Night | A chance of rain and snow showers before 9pm, then patchy frost. Mostly clear, with a low around 35. Southwest wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Tonight | Isolated snow showers before 11pm, then patchy frost between midnight and 5am, then patchy frost and a slight chance of snow showers. Mostly cloudy, with a low around 34. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Wednesday | Patchy frost and scattered snow showers before 8am, then scattered rain and snow showers between 8am and 10am, then a slight chance of thunderstorms and a chance of rain and snow showers between 10am and 1pm, then isolated thunderstorms and a chance of rain and snow showers. Mostly cloudy, with a high near 39. North wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Wednesday Night | Isolated thunderstorms and scattered rain and snow showers before 9pm, then areas of frost. Partly cloudy, with a low around 34. Southwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
+| Thursday | Areas of frost before 9am. Sunny, with a high near 55. West wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
