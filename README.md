@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Patchy frost and scattered snow showers before 8am, then patchy frost and scattered rain and snow showers between 8am and 10am, then a slight chance of thunderstorms and rain and snow showers. Mostly cloudy. High near 41, with temperatures falling to around 38 in the afternoon. North northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Tonight | A slight chance of thunderstorms and rain and snow showers before 10pm, then widespread frost. Partly cloudy, with a low around 33. South southwest wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Thursday | Widespread frost before 8am. Sunny, with a high near 55. West wind around 10 mph, with gusts as high as 20 mph. |
-| Thursday Night | Partly cloudy, with a low around 42. West southwest wind 5 to 10 mph. |
+| This Afternoon | A slight chance of thunderstorms and rain and snow. Partly sunny. High near 41, with temperatures falling to around 38 in the afternoon. North northeast wind 5 to 15 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of thunderstorms and rain and snow before 10pm, then widespread frost. Mostly clear, with a low around 33. South wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Widespread frost before 8am. Sunny, with a high near 55. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Thursday Night | Partly cloudy, with a low around 42. Southwest wind around 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
