@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 40. North northeast wind around 20 mph, with gusts as high as 30 mph. |
-| Sunday | Partly sunny. High near 43, with temperatures falling to around 40 in the afternoon. North northeast wind 15 to 20 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | Mostly cloudy. Low around 39, with temperatures rising to around 41 overnight. East wind 5 to 15 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | Mostly sunny, with a high near 69. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Today | Partly sunny, with a high near 42. North northeast wind around 15 mph, with gusts as high as 30 mph. |
+| Tonight | A slight chance of rain showers before 8pm. Mostly cloudy, with a low around 40. East wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Monday | Partly sunny, with a high near 69. South southeast wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Monday Night | Mostly clear, with a low around 59. South southwest wind around 20 mph, with gusts as high as 35 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
