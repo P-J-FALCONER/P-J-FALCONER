@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 81. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Tonight | A chance of showers and thunderstorms between 10pm and 4am, then showers and thunderstorms likely. Mostly cloudy. Low around 49, with temperatures rising to around 53 overnight. North northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Showers and thunderstorms likely. Mostly cloudy. High near 54, with temperatures falling to around 49 in the afternoon. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday Night | Showers and thunderstorms. Mostly cloudy, with a low around 47. North northeast wind 5 to 10 mph. Chance of precipitation is 80%. |
+| Tonight | A chance of showers and thunderstorms after 1am. Mostly cloudy, with a low around 52. Northeast wind 10 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms before 1pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 59, with temperatures falling to around 51 in the afternoon. North northwest wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 47. North northeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday | A chance of rain showers. Mostly cloudy, with a high near 52. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
