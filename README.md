@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Scattered rain showers. Cloudy, with a low around 60. Southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday | Scattered rain showers before 1pm, then scattered showers and thunderstorms. Partly sunny, with a high near 75. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday Night | Scattered showers and thunderstorms before 7pm. Mostly cloudy, with a low around 64. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Partly sunny, with a high near 82. South wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Today | Scattered rain showers before 9am, then scattered showers and thunderstorms between 9am and 2pm, then a slight chance of showers and thunderstorms. Cloudy, with a high near 76. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Isolated rain showers before 7pm. Mostly cloudy, with a low around 62. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Partly sunny, with a high near 84. South wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Thursday Night | Mostly cloudy, with a low around 68. South wind 10 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
