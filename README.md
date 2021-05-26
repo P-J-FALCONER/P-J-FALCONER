@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A slight chance of rain showers after 3pm. Partly sunny. High near 84, with temperatures falling to around 81 in the afternoon. Southwest wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms before 7pm, then showers and thunderstorms likely between 7pm and 4am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 66. Southwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms before 7am, then a slight chance of showers and thunderstorms between 7am and 1pm. Mostly sunny. High near 81, with temperatures falling to around 77 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | Mostly clear, with a low around 53. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Tonight | Rain showers likely before 9pm, then a chance of showers and thunderstorms between 9pm and 10pm, then a chance of showers and thunderstorms between 10pm and 2am, then showers and thunderstorms likely between 2am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 66. Southwest wind 10 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday | A slight chance of showers and thunderstorms before 7am. Mostly sunny. High near 81, with temperatures falling to around 76 in the afternoon. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Mostly clear, with a low around 53. North northeast wind 10 to 15 mph. |
+| Thursday | Rain showers likely after 1pm. Partly sunny, with a high near 57. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
