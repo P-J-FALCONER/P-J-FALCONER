@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny, with a high near 60. East wind 5 to 15 mph. |
+| This Afternoon | Mostly sunny, with a high near 60. East northeast wind 10 to 15 mph. |
 | Tonight | Mostly cloudy, with a low around 55. Southeast wind 5 to 10 mph. |
 | Memorial Day | Partly sunny, with a high near 72. South southwest wind 5 to 10 mph. |
 | Monday Night | Partly cloudy, with a low around 56. Southwest wind 5 to 10 mph. |
