@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 71. South southwest wind around 10 mph. |
-| Monday | A chance of showers and thunderstorms after 7am. Mostly cloudy, with a high near 81. South wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 68. South wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A slight chance of showers and thunderstorms before 10am, then showers and thunderstorms likely. Partly sunny, with a high near 77. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. |
+| Today | A chance of showers and thunderstorms before 1pm, then scattered showers and thunderstorms. Mostly cloudy, with a high near 79. South wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Scattered showers and thunderstorms. Mostly cloudy, with a low around 68. South wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | A slight chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 76. South southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday Night | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 66. East southeast wind 5 to 10 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
