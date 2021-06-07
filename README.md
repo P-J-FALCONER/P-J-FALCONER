@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A chance of showers and thunderstorms before 1pm, then scattered showers and thunderstorms. Mostly cloudy, with a high near 79. South wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Scattered showers and thunderstorms. Mostly cloudy, with a low around 68. South wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A slight chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 76. South southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| This Afternoon | Scattered showers and thunderstorms. Mostly cloudy. High near 79, with temperatures falling to around 76 in the afternoon. South southeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Scattered showers and thunderstorms. Mostly cloudy, with a low around 68. South wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | A slight chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 76. Southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
 | Tuesday Night | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 66. East southeast wind 5 to 10 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
