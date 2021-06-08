@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog. Mostly cloudy, with a low around 68. South wind around 0 mph. |
-| Tuesday | Patchy fog before 9am, then scattered showers and thunderstorms. Partly sunny. High near 74, with temperatures falling to around 71 in the afternoon. Southeast wind 0 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | Scattered showers and thunderstorms before 7pm, then a chance of showers and thunderstorms between 7pm and 1am, then patchy fog. Mostly cloudy, with a low around 66. East southeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday | Patchy fog before 10am, then patchy fog and a chance of showers and thunderstorms between 10am and 1pm, then patchy fog and a chance of showers and thunderstorms. Partly sunny, with a high near 69. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Today | Patchy fog and a slight chance of rain showers before 10am, then scattered showers and thunderstorms. Partly sunny, with a high near 74. Southeast wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Isolated showers and thunderstorms before 7pm, then a chance of showers and thunderstorms between 7pm and 1am, then patchy fog. Mostly cloudy, with a low around 66. East wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday | Patchy fog before 10am, then patchy fog and a chance of showers and thunderstorms between 10am and 1pm, then patchy fog and a chance of showers and thunderstorms. Partly sunny, with a high near 68. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | Patchy fog and a chance of showers and thunderstorms before 4am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 65. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
