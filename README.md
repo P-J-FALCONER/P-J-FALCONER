@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Patchy fog before 11am, then patchy fog and scattered showers and thunderstorms. Partly sunny. High near 77, with temperatures falling to around 75 in the afternoon. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| This Afternoon | Scattered showers and thunderstorms. Partly sunny. High near 78, with temperatures falling to around 75 in the afternoon. North northeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Tonight | Isolated showers and thunderstorms before 7pm. Partly cloudy, with a low around 65. North wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Sunday | Sunny, with a high near 72. North northeast wind 5 to 10 mph. |
 | Sunday Night | Clear, with a low around 67. South wind 0 to 10 mph, with gusts as high as 20 mph. |
