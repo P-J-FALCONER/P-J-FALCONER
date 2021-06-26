@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Rain showers likely before 1pm, then a chance of showers and thunderstorms between 1pm and 5pm, then a slight chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 75 in the afternoon. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between three quarters and one inch possible. |
-| Tonight | Showers and thunderstorms. Mostly cloudy, with a low around 69. South wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Saturday | Showers and thunderstorms. Mostly cloudy. High near 83, with temperatures falling to around 79 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Saturday Night | Showers and thunderstorms before 7pm, then showers and thunderstorms between 7pm and 1am, then showers and thunderstorms likely. Mostly cloudy, with a low around 71. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. |
+| Overnight | Patchy fog and showers and thunderstorms. Cloudy, with a low around 69. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Saturday | Showers and thunderstorms before 7am, then patchy fog and showers and thunderstorms likely between 7am and 4pm, then showers and thunderstorms likely. Cloudy, with a high near 81. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible. |
+| Saturday Night | Showers and thunderstorms likely before 7pm, then showers and thunderstorms. Mostly cloudy, with a low around 71. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Sunday | Showers and thunderstorms likely before 1pm, then showers and thunderstorms likely. Partly sunny, with a high near 82. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
