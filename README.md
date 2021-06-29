@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of rain showers between 10am and 11am, then a chance of showers and thunderstorms between 11am and noon, then a chance of showers and thunderstorms between noon and 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 82. South southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tonight | Showers and thunderstorms likely before 7pm, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 71. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible. |
-| Friday | Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy. High near 81, with temperatures falling to around 79 in the afternoon. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible. |
-| Friday Night | Showers and thunderstorms likely before 1am, then showers and thunderstorms. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 68. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. |
+| Today | A chance of showers and thunderstorms before 1pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 84. Southwest wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Showers and thunderstorms likely before 7pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 71. West southwest wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms. Mostly cloudy. High near 73, with temperatures falling to around 69 in the afternoon. North wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 66. Northeast wind 0 to 5 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
