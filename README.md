@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Scattered showers and thunderstorms. Mostly cloudy, with a low around 67. East wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | Scattered showers and thunderstorms before 7am, then scattered showers and thunderstorms. Mostly cloudy. High near 75, with temperatures falling to around 71 in the afternoon. East wind 0 to 5 mph, with gusts as high as 15 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Monday Night | Scattered showers and thunderstorms before 4am, then scattered showers and thunderstorms. Mostly cloudy. Low around 65, with temperatures rising to around 68 overnight. South southwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday | Scattered showers and thunderstorms before 10am, then scattered showers and thunderstorms. Mostly cloudy, with a high near 81. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
+| Overnight | A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 71. West southwest wind around 5 mph. Chance of precipitation is 20%. |
+| Wednesday | A chance of showers and thunderstorms. Mostly cloudy. High near 73, with temperatures falling to around 69 in the afternoon. South southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 66. Northwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A slight chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms between 7am and 1pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 72. North northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
