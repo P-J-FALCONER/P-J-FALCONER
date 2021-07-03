@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny, with a high near 88. West northwest wind 10 to 15 mph. |
+| This Afternoon | Sunny, with a high near 88. West northwest wind 10 to 15 mph. |
 | Tonight | Mostly clear, with a low around 71. West northwest wind 5 to 10 mph, with gusts as high as 25 mph. |
 | Independence Day | Sunny, with a high near 91. South wind 5 to 10 mph, with gusts as high as 20 mph. |
 | Sunday Night | Partly cloudy, with a low around 71. Southwest wind around 10 mph, with gusts as high as 20 mph. |
