@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Sunny, with a high near 91. West southwest wind around 15 mph, with gusts as high as 30 mph. |
-| Tonight | A slight chance of showers and thunderstorms after 2am. Mostly clear, with a low around 75. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A slight chance of showers and thunderstorms before 7am. Mostly sunny, with a high near 90. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | A slight chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 71. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Tonight | Mostly clear, with a low around 75. Southwest wind around 10 mph. |
+| Monday | Sunny, with a high near 92. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Monday Night | A slight chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 75. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | A slight chance of showers and thunderstorms. Mostly sunny, with a high near 88. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
