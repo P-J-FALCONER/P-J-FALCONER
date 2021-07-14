@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny, with a high near 86. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Tonight | A slight chance of showers and thunderstorms after 7pm. Mostly cloudy, with a low around 73. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Showers and thunderstorms likely before 4pm, then showers and thunderstorms. Mostly cloudy, with a high near 82. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| This Afternoon | A slight chance of showers and thunderstorms after 5pm. Mostly sunny, with a high near 85. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tonight | A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 73. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Showers and thunderstorms likely before 4pm, then showers and thunderstorms. Mostly cloudy, with a high near 82. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
 | Thursday Night | Showers and thunderstorms before 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. North northwest wind 5 to 10 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
