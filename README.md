@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Haze. Partly cloudy, with a low around 74. Southwest wind 5 to 10 mph. |
-| Saturday | Haze before 11am, then scattered showers and thunderstorms. Mostly sunny. High near 91, with temperatures falling to around 89 in the afternoon. Heat index values as high as 96. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Saturday Night | Scattered showers and thunderstorms before 1am. Mostly cloudy, with a low around 73. West southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between three quarters and one inch possible. |
-| Sunday | Mostly sunny, with a high near 83. North northeast wind 5 to 10 mph. |
+| Today | Haze before 11am, then showers and thunderstorms likely. Some of the storms could be severe. Mostly sunny, with a high near 91. Heat index values as high as 97. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Showers and thunderstorms likely before 1am. Some of the storms could be severe. Mostly cloudy, with a low around 72. Heat index values as high as 96. West wind 5 to 15 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday | Haze after 7am. Mostly sunny, with a high near 84. North northeast wind around 5 mph. |
+| Sunday Night | Haze before 7pm. Partly cloudy, with a low around 71. West wind around 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
