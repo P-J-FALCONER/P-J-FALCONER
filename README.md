@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly clear, with a low around 71. West northwest wind around 5 mph. |
-| Monday | Sunny, with a high near 85. North northeast wind 5 to 10 mph. |
-| Monday Night | Mostly clear, with a low around 73. South wind 5 to 10 mph. |
-| Tuesday | Sunny, with a high near 92. Heat index values as high as 96. Southwest wind 5 to 10 mph. |
+| Today | Sunny, with a high near 84. Northeast wind 5 to 10 mph. |
+| Tonight | Mostly clear, with a low around 72. South southwest wind around 5 mph. |
+| Tuesday | Mostly sunny. High near 92, with temperatures falling to around 89 in the afternoon. South southwest wind 5 to 10 mph. |
+| Tuesday Night | Mostly clear, with a low around 73. West wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
