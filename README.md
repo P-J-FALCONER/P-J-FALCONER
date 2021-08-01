@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Haze and a slight chance of showers and thunderstorms. Partly cloudy, with a low around 67. West northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Sunday | Haze before 1pm. Mostly sunny, with a high near 73. North wind 10 to 20 mph. |
-| Sunday Night | A chance of rain showers after 1am. Partly cloudy, with a low around 65. North northeast wind 5 to 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | A chance of rain showers before 1pm. Mostly sunny, with a high near 72. East northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Today | A slight chance of rain showers after 2pm. Sunny. High near 74, with temperatures falling to around 71 in the afternoon. North wind 10 to 20 mph. Chance of precipitation is 20%. |
+| Tonight | A slight chance of rain showers after midnight. Mostly clear, with a low around 64. North northeast wind 5 to 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | A slight chance of rain showers before 1pm. Sunny, with a high near 75. East northeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday Night | Mostly clear, with a low around 65. South southeast wind 0 to 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
