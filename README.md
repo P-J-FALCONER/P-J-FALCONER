@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Isolated showers and thunderstorms after 5pm. Mostly sunny, with a high near 86. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
-| Tonight | Scattered showers and thunderstorms before 4am. Mostly cloudy, with a low around 72. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | Mostly sunny, with a high near 78. North wind 5 to 10 mph, with gusts as high as 20 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Friday Night | Mostly clear, with a low around 67. North wind 0 to 5 mph, with gusts as high as 15 mph. |
+| Today | Isolated thunderstorms after 5pm. Some of the storms could be severe. Mostly sunny, with a high near 93. Heat index values as high as 103. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tonight | A chance of thunderstorms before 1am, then scattered showers and thunderstorms. Some of the storms could be severe. Mostly cloudy, with a low around 76. Heat index values as high as 103. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms. Mostly sunny, with a high near 90. Heat index values as high as 97. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 75. Heat index values as high as 97. Southwest wind 10 to 15 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
