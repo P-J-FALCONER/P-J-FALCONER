@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 78. East wind 5 to 10 mph. |
-| Tonight | Patchy fog after 5am. Partly cloudy, with a low around 71. East wind 0 to 10 mph. |
-| Wednesday | Patchy fog before 7am, then patchy fog and a slight chance of rain showers between 7am and 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 79. East northeast wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 71. Southeast wind 0 to 5 mph. Chance of precipitation is 30%. |
+| Overnight | Patchy fog after 5am. Mostly cloudy, with a low around 71. East wind 0 to 5 mph. |
+| Wednesday | Patchy fog before 9am, then a chance of showers and thunderstorms. Partly sunny, with a high near 79. East northeast wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 71. Southeast wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A slight chance of showers and thunderstorms after 10am. Mostly sunny, with a high near 79. Northeast wind 0 to 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
