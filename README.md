@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Isolated rain showers between 9am and 10am, then isolated showers and thunderstorms between 10am and 1pm. Mostly sunny. High near 80, with temperatures falling to around 78 in the afternoon. Northeast wind 0 to 10 mph. Chance of precipitation is 20%. |
-| Tonight | Patchy fog after 4am. Mostly clear, with a low around 71. East wind 0 to 10 mph. |
-| Friday | Patchy fog before 7am. Mostly sunny, with a high near 80. East southeast wind 0 to 10 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Friday Night | Mostly clear, with a low around 74. Southeast wind around 10 mph. |
+| This Afternoon | Mostly sunny. High near 76, with temperatures falling to around 74 in the afternoon. Northeast wind around 10 mph. |
+| Tonight | Mostly clear, with a low around 65. East wind 5 to 10 mph. |
+| Sunday | Sunny. High near 74, with temperatures falling to around 72 in the afternoon. East southeast wind 5 to 10 mph. |
+| Sunday Night | Mostly clear, with a low around 65. East southeast wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
