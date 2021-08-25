@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny, with a high near 87. South wind around 5 mph. |
-| Tonight | A chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 74. South southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A chance of showers and thunderstorms. Mostly sunny. High near 90, with temperatures falling to around 88 in the afternoon. Heat index values as high as 98. South wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tuesday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 76. Heat index values as high as 95. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. |
+| This Afternoon | A chance of showers and thunderstorms after 1pm. Partly sunny. High near 91, with temperatures falling to around 88 in the afternoon. Heat index values as high as 100. South southwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 74. Heat index values as high as 96. Southwest wind 0 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A chance of showers and thunderstorms. Partly sunny. High near 81, with temperatures falling to around 79 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 73. East wind 5 to 10 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
