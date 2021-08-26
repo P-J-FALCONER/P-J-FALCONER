@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of showers and thunderstorms after 1pm. Partly sunny. High near 91, with temperatures falling to around 88 in the afternoon. Heat index values as high as 100. South southwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 74. Heat index values as high as 96. Southwest wind 0 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | A chance of showers and thunderstorms. Partly sunny. High near 81, with temperatures falling to around 79 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 73. East wind 5 to 10 mph. Chance of precipitation is 40%. |
+| Tonight | Scattered showers and thunderstorms before 11pm. Mostly cloudy, with a low around 75. Southwest wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A chance of showers and thunderstorms after 9am. Partly sunny. High near 81, with temperatures falling to around 78 in the afternoon. Northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | Showers and thunderstorms likely. Mostly cloudy, with a low around 73. East wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
+| Friday | A chance of showers and thunderstorms. Partly sunny, with a high near 85. South southeast wind 5 to 10 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
