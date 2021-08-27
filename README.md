@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered showers and thunderstorms after 2pm. Mostly sunny, with a high near 80. East northeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 75. East southeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | A chance of showers and thunderstorms. Mostly sunny, with a high near 89. Heat index values as high as 97. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Friday Night | A chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 76. Heat index values as high as 95. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
+| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 74. Southeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | A chance of showers and thunderstorms. Partly sunny. High near 91, with temperatures falling to around 89 in the afternoon. Heat index values as high as 99. South wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday Night | A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 76. South wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 91. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
