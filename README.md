@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of showers and thunderstorms after 2am. Mostly cloudy, with a low around 74. South wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | A slight chance of showers and thunderstorms. Partly sunny. High near 91, with temperatures falling to around 89 in the afternoon. Heat index values as high as 99. South wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday Night | A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 76. South wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | A slight chance of showers and thunderstorms after 1pm. Sunny, with a high near 91. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Today | A slight chance of showers and thunderstorms after 11am. Partly sunny, with a high near 90. Heat index values as high as 98. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 75. South wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Sunny. High near 91, with temperatures falling to around 89 in the afternoon. Heat index values as high as 101. South southwest wind 10 to 15 mph. |
+| Saturday Night | Mostly clear, with a low around 77. South southwest wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
