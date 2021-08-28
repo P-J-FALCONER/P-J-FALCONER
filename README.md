@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 90. Heat index values as high as 98. South southeast wind 5 to 10 mph. |
-| Tonight | Mostly clear, with a low around 75. South wind around 10 mph. |
-| Saturday | Sunny. High near 91, with temperatures falling to around 89 in the afternoon. Heat index values as high as 101. South southwest wind around 10 mph, with gusts as high as 20 mph. |
-| Saturday Night | Mostly clear, with a low around 77. South southwest wind around 10 mph, with gusts as high as 20 mph. |
+| Tonight | Mostly clear, with a low around 76. South wind around 10 mph. |
+| Saturday | A slight chance of showers and thunderstorms after 1pm. Mostly sunny. High near 91, with temperatures falling to around 89 in the afternoon. Heat index values as high as 99. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday Night | A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 77. Heat index values as high as 95. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday | Showers and thunderstorms likely after 1pm. Mostly sunny, with a high near 91. Heat index values as high as 98. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
