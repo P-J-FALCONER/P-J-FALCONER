@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly clear, with a low around 64. West northwest wind around 10 mph, with gusts as high as 20 mph. |
-| Sunday | Sunny, with a high near 82. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. |
-| Sunday Night | Mostly clear, with a low around 64. West northwest wind 10 to 15 mph. |
-| Labor Day | Sunny, with a high near 75. North wind 5 to 10 mph. |
+| Today | Sunny, with a high near 82. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Tonight | Mostly clear, with a low around 65. West northwest wind 10 to 15 mph. |
+| Labor Day | Sunny, with a high near 74. North wind 5 to 10 mph. |
+| Monday Night | Mostly clear, with a low around 66. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
