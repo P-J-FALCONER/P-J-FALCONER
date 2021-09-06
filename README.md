@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Sunny, with a high near 82. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. |
 | Tonight | Mostly clear, with a low around 65. West northwest wind 10 to 15 mph. |
-| Labor Day | Sunny, with a high near 74. North wind 5 to 10 mph. |
-| Monday Night | Mostly clear, with a low around 66. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Labor Day | Sunny, with a high near 74. North northeast wind 5 to 10 mph. |
+| Monday Night | Mostly clear, with a low around 66. Southeast wind 5 to 10 mph. |
+| Tuesday | A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 86. Southwest wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
