@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A slight chance of rain showers before 4pm. Cloudy, with a high near 62. North wind 25 to 30 mph, with gusts as high as 45 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A slight chance of rain showers after 10pm. Mostly cloudy, with a low around 56. North wind around 30 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | A chance of rain showers. Cloudy, with a high near 63. North wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | A chance of rain showers before 7pm. Partly cloudy, with a low around 55. West northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. |
+| This Afternoon | Cloudy, with a high near 61. North wind around 25 mph, with gusts as high as 40 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of rain showers after midnight. Mostly cloudy, with a low around 55. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A chance of rain showers. Cloudy, with a high near 63. North northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday Night | A slight chance of rain showers before 7pm. Partly cloudy, with a low around 54. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
