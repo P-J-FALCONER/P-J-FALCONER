@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Scattered rain showers before 4am, then scattered showers and thunderstorms. Cloudy, with a low around 65. East wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Showers and thunderstorms. Mostly cloudy, with a high near 70. East southeast wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | Showers and thunderstorms. Mostly cloudy, with a low around 64. South southeast wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Friday | A chance of showers and thunderstorms before 4pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 72. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. |
+| Today | Patchy fog and showers and thunderstorms before 8am, then patchy fog and showers and thunderstorms between 8am and 1pm, then a chance of showers and thunderstorms. Cloudy, with a high near 70. East southeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tonight | A chance of showers and thunderstorms before 7pm, then periods of showers and thunderstorms. Cloudy, with a low around 64. South southeast wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Friday | A chance of showers and thunderstorms before 1pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 72, with temperatures falling to around 70 in the afternoon. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Friday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 63. South wind 0 to 5 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
