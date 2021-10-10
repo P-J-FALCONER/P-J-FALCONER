@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 74. East southeast wind around 10 mph. |
-| Tonight | A slight chance of rain showers after 1am. Mostly cloudy. Low around 68, with temperatures rising to around 70 overnight. Southeast wind around 10 mph. |
-| Sunday | A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms between 7am and 1pm. Partly sunny. High near 81, with temperatures falling to around 79 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Overnight | A slight chance of showers and thunderstorms. Mostly cloudy. Low around 68, with temperatures rising to around 70 overnight. South southeast wind 10 to 15 mph. Chance of precipitation is 20%. |
+| Sunday | A slight chance of rain showers between 7am and 10am, then a slight chance of showers and thunderstorms between 10am and 1pm. Partly sunny, with a high near 81. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 | Sunday Night | Mostly cloudy, with a low around 69. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Columbus Day | A slight chance of rain showers between 7am and 1pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 78. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
