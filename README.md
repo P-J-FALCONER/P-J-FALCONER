@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 70. South southwest wind around 15 mph. |
-| Columbus Day | A slight chance of showers and thunderstorms between 10am and 1pm, then showers and thunderstorms. Mostly cloudy. High near 78, with temperatures falling to around 74 in the afternoon. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Monday Night | Showers and thunderstorms before 4am, then a slight chance of showers and thunderstorms between 4am and 5am. Mostly cloudy, with a low around 60. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday | Mostly sunny, with a high near 70. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Columbus Day | A slight chance of rain showers between 11am and 1pm, then showers and thunderstorms likely between 1pm and 4pm, then showers and thunderstorms. Mostly cloudy. High near 78, with temperatures falling to around 71 in the afternoon. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tonight | Showers and thunderstorms likely before 7pm, then showers and thunderstorms. Mostly cloudy, with a low around 60. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday | A slight chance of rain showers before 10am. Mostly cloudy, with a high near 71. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tuesday Night | Mostly cloudy, with a low around 59. Southwest wind 0 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
