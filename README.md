@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Columbus Day | A slight chance of rain showers between 11am and 1pm, then showers and thunderstorms likely between 1pm and 4pm, then showers and thunderstorms. Mostly cloudy. High near 78, with temperatures falling to around 71 in the afternoon. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tonight | Showers and thunderstorms likely before 7pm, then showers and thunderstorms. Mostly cloudy, with a low around 60. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday | A slight chance of rain showers before 10am. Mostly cloudy, with a high near 71. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tuesday Night | Mostly cloudy, with a low around 59. Southwest wind 0 to 10 mph, with gusts as high as 20 mph. |
+| Tonight | Periods of showers and thunderstorms before 5am. Some of the storms could be severe. Cloudy, with a low around 61. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tuesday | Partly sunny, with a high near 71. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday Night | Partly cloudy, with a low around 59. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Wednesday | A chance of rain showers after 7am. Partly sunny, with a high near 72. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
