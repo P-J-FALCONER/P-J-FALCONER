@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of rain between 1pm and 3pm. Mostly cloudy. High near 55, with temperatures falling to around 52 in the afternoon. North northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 | Tonight | Mostly clear, with a low around 47. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Wednesday | Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Wednesday Night | A chance of rain showers. Mostly cloudy, with a low around 51. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. |
+| Wednesday | Partly sunny, with a high near 56. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Wednesday Night | A chance of rain showers before midnight, then a chance of rain. Mostly cloudy, with a low around 53. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Veterans Day | Rain. Mostly cloudy, with a high near 56. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
