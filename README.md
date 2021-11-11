@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of rain after 5am. Mostly cloudy. Low around 53, with temperatures rising to around 56 overnight. South southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. |
-| Veterans Day | Rain before 1pm. Mostly cloudy. High near 55, with temperatures falling to around 48 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | Mostly cloudy, with a low around 41. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Friday | Isolated snow showers before 9am, then scattered rain and snow showers. Mostly cloudy, with a high near 42. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. |
+| Overnight | Mostly cloudy, with a low around 52. South southeast wind around 20 mph, with gusts as high as 30 mph. |
+| Veterans Day | Rain showers before noon. Mostly cloudy. High near 55, with temperatures falling to around 49 in the afternoon. South southwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday Night | A slight chance of rain showers after 4am. Mostly cloudy, with a low around 40. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Friday | A chance of rain and snow showers. Cloudy, with a high near 43. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
