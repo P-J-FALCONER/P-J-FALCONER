@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 54. East southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tonight | A slight chance of rain showers before 11pm. Mostly cloudy. Low around 54, with temperatures rising to around 57 overnight. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. |
-| Veterans Day | Rain showers before 3pm. Mostly cloudy. High near 58, with temperatures falling to around 47 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | Mostly cloudy, with a low around 40. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
+| This Afternoon | A slight chance of rain showers. Cloudy, with a high near 55. East southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tonight | A slight chance of rain showers before 10pm, then a slight chance of rain. Mostly cloudy. Low around 54, with temperatures rising to around 56 overnight. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. |
+| Veterans Day | Rain before 1pm. Mostly cloudy. High near 55, with temperatures falling to around 48 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday Night | Mostly cloudy, with a low around 41. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
