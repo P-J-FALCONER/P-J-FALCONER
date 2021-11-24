@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny. High near 44, with temperatures falling to around 40 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. |
-| Tonight | Mostly clear, with a low around 37. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. |
-| Wednesday | Mostly cloudy. High near 53, with temperatures falling to around 51 in the afternoon. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. |
-| Wednesday Night | A chance of rain showers. Cloudy, with a low around 37. West southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. |
+| Tonight | Mostly clear, with a low around 38. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Wednesday | Mostly cloudy, with a high near 53. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. |
+| Wednesday Night | Scattered rain showers before midnight, then a chance of rain. Cloudy, with a low around 41. West southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Thanksgiving Day | A slight chance of rain before 7am. Mostly cloudy, with a high near 42. Northwest wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
