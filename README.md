@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Cloudy. Low around 43, with temperatures rising to around 46 overnight. Northwest wind around 10 mph, with gusts as high as 20 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Thanksgiving Day | Scattered rain showers between 7am and noon, then scattered rain and snow showers between noon and 5pm. Cloudy. High near 44, with temperatures falling to around 35 in the afternoon. North northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | Mostly clear, with a low around 22. Northwest wind around 15 mph, with gusts as high as 30 mph. |
-| Friday | Mostly sunny, with a high near 35. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Today | Mostly cloudy, with a high near 53. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. |
+| Tonight | Rain likely before 5am. Cloudy, with a low around 41. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Thanksgiving Day | Mostly cloudy. High near 42, with temperatures falling to around 35 in the afternoon. Northwest wind around 15 mph, with gusts as high as 25 mph. |
+| Thursday Night | Mostly clear, with a low around 24. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
