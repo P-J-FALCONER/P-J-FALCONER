@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly cloudy, with a high near 49. East northeast wind around 10 mph. |
-| Tonight | Partly cloudy, with a low around 33. North wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Saturday | Sunny. High near 42, with temperatures falling to around 39 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Saturday Night | A slight chance of rain and snow after 3am. Mostly cloudy, with a low around 34. East wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tonight | Mostly cloudy, with a low around 34. North wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Saturday | Mostly sunny. High near 44, with temperatures falling to around 41 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Saturday Night | Mostly cloudy, with a low around 35. Northeast wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Sunday | Rain and snow after 7am. Cloudy, with a high near 49. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
