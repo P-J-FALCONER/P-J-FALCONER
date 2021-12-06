@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Isolated snow showers before noon. Partly sunny. High near 32, with temperatures falling to around 25 in the afternoon. West northwest wind 20 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 20%. |
+| This Afternoon | Mostly sunny. High near 33, with temperatures falling to around 25 in the afternoon. West northwest wind 20 to 30 mph, with gusts as high as 45 mph. |
 | Tonight | Partly cloudy, with a low around 15. West northwest wind 10 to 20 mph, with gusts as high as 30 mph. |
 | Tuesday | A slight chance of snow after noon. Mostly cloudy, with a high near 24. West southwest wind around 5 mph. Chance of precipitation is 20%. |
 | Tuesday Night | Mostly cloudy, with a low around 24. South southwest wind 5 to 10 mph. |
