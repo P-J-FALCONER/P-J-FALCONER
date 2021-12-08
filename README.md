@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A chance of snow showers before 9am. Mostly sunny. High near 34, with temperatures falling to around 31 in the afternoon. West wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Tonight | Partly cloudy. Low around 27, with temperatures rising to around 29 overnight. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Today | Mostly sunny. High near 33, with temperatures falling to around 30 in the afternoon. Northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Tonight | Partly cloudy. Low around 27, with temperatures rising to around 29 overnight. South southeast wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Thursday | Mostly cloudy, with a high near 41. South wind 10 to 20 mph, with gusts as high as 30 mph. |
 | Thursday Night | Mostly cloudy, with a low around 36. West wind 0 to 5 mph, with gusts as high as 15 mph. |
 
