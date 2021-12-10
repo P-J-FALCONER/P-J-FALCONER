@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 15. West wind around 5 mph. |
-| Tuesday | A chance of snow showers between noon and 3pm, then a slight chance of snow. Mostly cloudy, with a high near 25. Southwest wind around 5 mph. Chance of precipitation is 20%. |
-| Tuesday Night | A chance of snow showers. Cloudy. Low around 25, with temperatures rising to around 27 overnight. South southwest wind 5 to 10 mph. |
-| Wednesday | A chance of snow showers before noon. Mostly sunny, with a high near 35. West northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
+| This Afternoon | Patchy fog before 2pm, then patchy fog and a slight chance of rain showers between 2pm and 3pm, then rain showers and areas of fog. Cloudy. High near 48, with temperatures falling to around 45 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Areas of fog and showers and thunderstorms before 2am, then patchy fog and a slight chance of rain showers between 2am and 5am. Mostly cloudy. Low around 40, with temperatures rising to around 48 overnight. South southwest wind 15 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Saturday | A chance of rain showers between 8am and 10am, then a chance of rain and snow showers between 10am and noon. Mostly sunny. High near 42, with temperatures falling to around 37 in the afternoon. West wind 15 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. |
+| Saturday Night | Mostly clear, with a low around 33. West southwest wind around 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
