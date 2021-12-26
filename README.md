@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly clear, with a low around 34. North northwest wind 0 to 10 mph. |
-| Sunday | Mostly sunny, with a high near 41. Northeast wind 5 to 15 mph. |
-| Sunday Night | Rain. Cloudy. Low around 38, with temperatures rising to around 43 overnight. Southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Monday | Partly sunny, with a high near 50. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Overnight | A chance of rain and patchy fog. Cloudy. Low around 42, with temperatures rising to around 45 overnight. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Christmas Day | A chance of rain before 11am. Mostly cloudy. High near 45, with temperatures falling to around 41 in the afternoon. North wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday Night | Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West wind around 5 mph. |
+| Sunday | Partly sunny, with a high near 41. North northeast wind 5 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
