@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Rain and snow between 9am and 3pm, then snow and drizzle and areas of fog between 3pm and 4pm, then drizzle and areas of fog and a slight chance of snow. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Tonight | Areas of fog and a chance of drizzle before 7pm, then a chance of drizzle and patchy fog between 7pm and 9pm, then patchy fog and a slight chance of drizzle. Cloudy, with a low around 34. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| This Afternoon | Areas of fog and rain and snow before 4pm, then areas of fog and rain and snow. Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. East southeast wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Tonight | Areas of fog and a chance of rain before 7pm, then a chance of rain and patchy fog between 7pm and 10pm, then patchy fog and a slight chance of rain. Cloudy, with a low around 34. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
 | Wednesday | A slight chance of rain and snow after 3pm. Mostly cloudy, with a high near 36. North northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
 | Wednesday Night | Rain and snow likely before 3am. Cloudy, with a low around 32. North northeast wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
 
