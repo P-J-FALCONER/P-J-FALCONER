@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Cloudy, with a low around 32. North wind around 5 mph. |
-| Tuesday | Rain and snow between 9am and 3pm, then snow and drizzle and areas of fog between 3pm and 4pm, then drizzle and areas of fog and a slight chance of snow. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Tuesday Night | Areas of fog and a chance of drizzle before 7pm, then a chance of drizzle and patchy fog between 7pm and 9pm, then patchy fog and a slight chance of drizzle. Cloudy, with a low around 34. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | A slight chance of rain and snow after 3pm. Mostly cloudy, with a high near 36. North northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | A chance of rain and patchy fog before 10pm, then patchy fog and a slight chance of rain between 10pm and midnight. Mostly cloudy. Low around 32, with temperatures rising to around 35 overnight. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Cloudy. High near 36, with temperatures falling to around 33 in the afternoon. Northwest wind 5 to 10 mph. |
+| Wednesday Night | A chance of snow before 2am, then a chance of rain and snow. Mostly cloudy. Low around 31, with temperatures rising to around 34 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
+| Thursday | Mostly cloudy, with a high near 39. East southeast wind around 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
