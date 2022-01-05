@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Patchy blowing snow between midnight and 2am, then patchy blowing snow and scattered snow showers. Mostly cloudy. Low around 18, with temperatures rising to around 25 overnight. Southwest wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
-| Wednesday | Snow showers and patchy blowing snow. Cloudy. High near 20, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -8. West wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 40%. Little or no snow accumulation expected. |
-| Wednesday Night | A chance of snow showers before midnight. Mostly cloudy, with a low around 9. Wind chill values as low as -9. West wind 15 to 25 mph. |
-| Thursday | A slight chance of snow. Mostly cloudy, with a high near 16. Wind chill values as low as -8. West wind around 15 mph. Chance of precipitation is 20%. |
+| Today | Occasional snow and patchy blowing snow and scattered snow showers. Cloudy. High near 21, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -4. West southwest wind around 30 mph, with gusts as high as 50 mph. Chance of precipitation is 40%. Little or no snow accumulation expected. |
+| Tonight | A chance of snow showers before midnight. Mostly cloudy. Low around 9, with temperatures rising to around 11 overnight. Wind chill values as low as -6. West wind 15 to 25 mph, with gusts as high as 40 mph. |
+| Thursday | Mostly cloudy, with a high near 16. Wind chill values as low as -5. West wind around 15 mph, with gusts as high as 25 mph. |
+| Thursday Night | Mostly cloudy, with a low around 6. Wind chill values as low as -7. West northwest wind 10 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
