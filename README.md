@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Snow showers and patchy blowing snow and a slight chance of snow. Partly sunny. High near 20, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -9. West wind around 30 mph, with gusts as high as 45 mph. Chance of precipitation is 20%. |
-| Tonight | A chance of snow showers before midnight. Mostly cloudy, with a low around 9. Wind chill values as low as -7. West wind 15 to 25 mph, with gusts as high as 40 mph. |
-| Thursday | A chance of snow showers after noon. Partly sunny. High near 18, with temperatures falling to around 16 in the afternoon. Wind chill values as low as -7. West wind around 15 mph. |
-| Thursday Night | Mostly cloudy, with a low around 6. Wind chill values as low as -9. West northwest wind around 15 mph, with gusts as high as 25 mph. |
+| This Afternoon | Sunny. High near 16, with temperatures falling to around 13 in the afternoon. Wind chill values as low as 1. Southwest wind around 10 mph. |
+| Tonight | Partly cloudy. Low around 10, with temperatures rising to around 14 overnight. Wind chill values as low as -5. South wind 5 to 20 mph, with gusts as high as 30 mph. |
+| Saturday | A slight chance of freezing drizzle between 2pm and 3pm, then a chance of drizzle. Mostly sunny, with a high near 35. Wind chill values as low as -1. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday Night | Drizzle likely before 3am. Cloudy, with a low around 26. West southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
