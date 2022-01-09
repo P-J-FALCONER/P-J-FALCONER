@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Areas of fog before 9am. Cloudy, with a high near 42. Southeast wind 0 to 10 mph. |
-| Tonight | Cloudy, with a low around 35. North wind 5 to 15 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible. |
-| New Year&#39;s Day | Rain and snow. Cloudy. High near 36, with temperatures falling to around 32 in the afternoon. North northeast wind 15 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Saturday Night | Snow. Cloudy, with a low around 22. North wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Tonight | Freezing drizzle likely and patchy fog before 11pm, then a chance of drizzle and patchy fog between 11pm and 2am, then patchy fog and a slight chance of drizzle between 2am and 4am. Cloudy. Low around 26, with temperatures rising to around 31 overnight. West southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. Little or no ice accumulation expected. |
+| Sunday | Mostly sunny. High near 28, with temperatures falling to around 17 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Sunday Night | A chance of snow after midnight. Mostly cloudy, with a low around 11. Wind chill values as low as -1. West wind 10 to 15 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
+| Monday | A chance of snow before noon. Mostly sunny, with a high near 17. Wind chill values as low as -1. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
