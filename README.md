@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Scattered snow showers before midnight. Partly cloudy, with a low around 9. Wind chill values as low as -5. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. New snow accumulation of less than half an inch possible. |
-| Saturday | Mostly sunny. High near 22, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -4. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. |
-| Saturday Night | Partly cloudy. Low around 16, with temperatures rising to around 21 overnight. Wind chill values as low as 0. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Sunday | Partly sunny, with a high near 32. Southwest wind 10 to 15 mph. |
+| Today | A chance of snow showers. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Tonight | A chance of snow showers before 9pm. Mostly cloudy, with a low around 7. Wind chill values as low as -7. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. |
+| Saturday | Mostly sunny. High near 19, with temperatures falling to around 17 in the afternoon. Wind chill values as low as -5. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. |
+| Saturday Night | Partly cloudy, with a low around 16. Wind chill values as low as -1. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
