@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 31. Southwest wind 10 to 15 mph. |
-| Wednesday | Isolated snow showers after noon. Partly sunny. High near 37, with temperatures falling to around 35 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Overnight | Mostly cloudy, with a low around 31. West southwest wind 10 to 15 mph. |
+| Wednesday | Isolated snow showers after noon. Mostly sunny. High near 37, with temperatures falling to around 35 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
 | Wednesday Night | Scattered snow showers before midnight. Mostly cloudy, with a low around 26. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. Little or no snow accumulation expected. |
 | Thursday | Partly sunny, with a high near 30. West wind 10 to 15 mph. |
 
