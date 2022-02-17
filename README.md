@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Rain before 3am, then a chance of sleet and rain and snow. Cloudy. Low around 29, with temperatures rising to around 31 overnight. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Thursday | A chance of snow before noon, then snow and blowing snow. Cloudy. High near 29, with temperatures falling to around 23 in the afternoon. North wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Thursday Night | Snow likely and areas of blowing snow before 2am. Partly cloudy, with a low around 13. Wind chill values as low as -1. Northwest wind 10 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
-| Friday | Sunny, with a high near 32. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. |
+| Overnight | A slight chance of snow. Cloudy. Low around 30, with temperatures rising to around 32 overnight. North wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
+| Thursday | Snow likely between 11am and 3pm, then snow and patchy blowing snow. Cloudy. High near 31, with temperatures falling to around 24 in the afternoon. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. |
+| Thursday Night | Snow likely and patchy blowing snow before 10pm. Mostly cloudy, with a low around 12. Wind chill values as low as 0. Northwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
+| Friday | Sunny, with a high near 32. Wind chill values as low as 1. Southwest wind 5 to 25 mph, with gusts as high as 40 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
