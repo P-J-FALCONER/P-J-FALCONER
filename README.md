@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy blowing snow. Mostly clear, with a low around 9. Wind chill values as low as -9. Northwest wind 20 to 25 mph, with gusts as high as 40 mph. |
+| Overnight | Patchy blowing snow. Mostly clear. Low around 9, with temperatures rising to around 11 overnight. Wind chill values as low as -8. Northwest wind around 20 mph, with gusts as high as 35 mph. |
 | Saturday | Patchy blowing snow before 9am. Sunny, with a high near 20. Wind chill values as low as -10. West wind 10 to 20 mph, with gusts as high as 35 mph. |
-| Saturday Night | Partly cloudy. Low around 17, with temperatures rising to around 23 overnight. South southwest wind 10 to 20 mph, with gusts as high as 35 mph. |
-| Sunday | Sunny, with a high near 44. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. |
+| Saturday Night | Partly cloudy. Low around 17, with temperatures rising to around 23 overnight. South southwest wind 10 to 20 mph, with gusts as high as 40 mph. |
+| Sunday | Sunny, with a high near 43. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
