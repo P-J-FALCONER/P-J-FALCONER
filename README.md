@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Patchy blowing snow before 8pm, then patchy blowing snow and scattered snow showers between 8pm and 9pm, then a chance of snow showers and patchy blowing snow between 9pm and 10pm, then patchy blowing snow and scattered snow showers. Partly cloudy, with a low around 9. Wind chill values as low as -9. West wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Overnight | Patchy blowing snow. Mostly clear, with a low around 9. Wind chill values as low as -9. Northwest wind 20 to 25 mph, with gusts as high as 40 mph. |
 | Saturday | Patchy blowing snow before 9am. Sunny, with a high near 20. Wind chill values as low as -10. West wind 10 to 20 mph, with gusts as high as 35 mph. |
 | Saturday Night | Partly cloudy. Low around 17, with temperatures rising to around 23 overnight. South southwest wind 10 to 20 mph, with gusts as high as 35 mph. |
 | Sunday | Sunny, with a high near 44. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. |
