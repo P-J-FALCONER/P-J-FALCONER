@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy, with a low around 12. Wind chill values as low as 1. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. |
-| Friday | Mostly sunny, with a high near 32. Wind chill values as low as 1. West southwest wind 10 to 25 mph, with gusts as high as 40 mph. |
-| Friday Night | A chance of snow showers before midnight. Partly cloudy. Low around 10, with temperatures rising to around 13 overnight. Wind chill values as low as -5. West wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. Little or no snow accumulation expected. |
-| Saturday | Sunny, with a high near 24. Wind chill values as low as -5. West wind 10 to 20 mph, with gusts as high as 35 mph. |
+| Tonight | Patchy blowing snow before 8pm, then patchy blowing snow and scattered snow showers between 8pm and 9pm, then a chance of snow showers and patchy blowing snow between 9pm and 10pm, then patchy blowing snow and scattered snow showers. Partly cloudy, with a low around 9. Wind chill values as low as -9. West wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Saturday | Patchy blowing snow before 9am. Sunny, with a high near 20. Wind chill values as low as -10. West wind 10 to 20 mph, with gusts as high as 35 mph. |
+| Saturday Night | Partly cloudy. Low around 17, with temperatures rising to around 23 overnight. South southwest wind 10 to 20 mph, with gusts as high as 35 mph. |
+| Sunday | Sunny, with a high near 44. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
