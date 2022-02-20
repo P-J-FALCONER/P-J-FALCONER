@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy blowing snow after 3am. Partly cloudy. Low around 17, with temperatures rising to around 24 overnight. Wind chill values as low as 1. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. |
-| Sunday | Patchy blowing snow before 10am. Sunny. High near 45, with temperatures falling to around 42 in the afternoon. South southwest wind 20 to 30 mph, with gusts as high as 50 mph. |
-| Sunday Night | Patchy fog after 10pm. Mostly cloudy, with a low around 33. West wind 5 to 15 mph, with gusts as high as 30 mph. |
-| Washington&#39;s Birthday | Patchy fog before 9am, then a slight chance of rain. Mostly cloudy, with a high near 42. East northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Overnight | Patchy blowing snow. Mostly clear. Low around 15, with temperatures rising to around 23 overnight. South southwest wind around 25 mph, with gusts as high as 40 mph. |
+| Sunday | Patchy blowing snow before noon. Sunny. High near 44, with temperatures falling to around 42 in the afternoon. South southwest wind 20 to 30 mph, with gusts as high as 50 mph. |
+| Sunday Night | Patchy fog after midnight. Mostly cloudy, with a low around 33. West wind 5 to 15 mph, with gusts as high as 30 mph. |
+| Washington&#39;s Birthday | Patchy fog before 9am. Mostly cloudy, with a high near 40. East northeast wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
