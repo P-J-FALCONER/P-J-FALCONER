@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Washington&#39;s Birthday | Patchy fog. Mostly cloudy, with a high near 38. East wind around 10 mph. |
-| Tonight | Areas of fog and a chance of rain showers before 9pm, then rain showers likely and areas of fog between 9pm and midnight, then areas of fog and showers and thunderstorms. Cloudy. Low around 38, with temperatures rising to around 43 overnight. East southeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Overnight | Areas of fog and showers and thunderstorms. Cloudy. Low around 38, with temperatures rising to around 43 overnight. East southeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
 | Tuesday | Areas of fog and showers and thunderstorms. Cloudy. High near 42, with temperatures falling to around 36 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday Night | Mostly cloudy, with a low around 15. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Tuesday Night | Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Wednesday | Partly sunny, with a high near 27. Wind chill values as low as 0. North northwest wind around 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
