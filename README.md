@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Rain showers and areas of fog before 1pm, then areas of fog and a chance of showers and thunderstorms between 1pm and 2pm, then areas of fog and scattered showers and thunderstorms between 2pm and 4pm, then a chance of freezing rain. Cloudy. High near 35, with temperatures falling to around 30 in the afternoon. North northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. Little or no ice accumulation expected. |
-| Tonight | Patchy freezing drizzle before 7pm. Mostly cloudy. Low around 15, with temperatures rising to around 17 overnight. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
-| Wednesday | Partly sunny, with a high near 27. Wind chill values as low as -1. North northwest wind around 15 mph, with gusts as high as 25 mph. |
-| Wednesday Night | A slight chance of snow. Mostly cloudy, with a low around 22. Northeast wind 10 to 15 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Tonight | Patchy freezing drizzle before 7pm, then scattered snow showers between 7pm and 9pm. Mostly cloudy. Low around 14, with temperatures rising to around 17 overnight. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Wednesday | Mostly sunny. High near 24, with temperatures falling to around 22 in the afternoon. Wind chill values as low as -2. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Wednesday Night | A slight chance of snow. Mostly cloudy. Low around 22, with temperatures rising to around 25 overnight. Northeast wind around 10 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Thursday | A chance of snow after noon. Mostly cloudy, with a high near 30. East northeast wind 10 to 15 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
