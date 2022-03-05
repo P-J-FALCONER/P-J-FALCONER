@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Areas of fog before 9am. Cloudy, with a high near 42. Southeast wind 0 to 10 mph. |
-| Tonight | Cloudy, with a low around 35. North wind 5 to 15 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible. |
-| New Year&#39;s Day | Rain and snow. Cloudy. High near 36, with temperatures falling to around 32 in the afternoon. North northeast wind 15 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Saturday Night | Snow. Cloudy, with a low around 22. North wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Overnight | Mostly cloudy. Low around 37, with temperatures rising to around 39 overnight. Southeast wind 10 to 15 mph. |
+| Saturday | Partly sunny. High near 65, with temperatures falling to around 62 in the afternoon. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Saturday Night | A chance of rain showers before 9pm, then showers and thunderstorms between 9pm and 3am. Mostly cloudy. Low around 43, with temperatures rising to around 46 overnight. Southwest wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | Mostly sunny, with a high near 49. West wind 10 to 30 mph, with gusts as high as 40 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
