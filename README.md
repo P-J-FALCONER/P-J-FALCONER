@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy. Low around 35, with temperatures rising to around 38 overnight. Southeast wind around 10 mph, with gusts as high as 20 mph. |
-| Saturday | Partly sunny. High near 67, with temperatures falling to around 65 in the afternoon. South southeast wind 10 to 20 mph, with gusts as high as 30 mph. |
-| Saturday Night | A chance of rain before 9pm, then rain and a chance of thunderstorms between 9pm and 3am. Mostly cloudy. Low around 39, with temperatures rising to around 49 overnight. Southwest wind 20 to 25 mph, with gusts as high as 50 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Sunday | Mostly sunny, with a high near 48. West wind 10 to 30 mph, with gusts as high as 45 mph. |
+| Tonight | Rain between 7pm and midnight, then rain and a slight chance of thunderstorms between midnight and 3am, then widespread drizzle and areas of fog. Cloudy. Low around 38, with temperatures rising to around 41 overnight. East southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Monday | Areas of fog and patchy drizzle before 8am, then patchy drizzle and patchy fog between 8am and 10am. Partly sunny. High near 49, with temperatures falling to around 43 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Monday Night | Mostly cloudy. Low around 34, with temperatures rising to around 36 overnight. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday | Rain and snow. Cloudy, with a high near 44. East southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
