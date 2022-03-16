@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain between 7pm and midnight, then rain and a slight chance of thunderstorms between midnight and 3am, then widespread drizzle and areas of fog. Cloudy. Low around 38, with temperatures rising to around 41 overnight. East southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Monday | Areas of fog and patchy drizzle before 8am, then patchy drizzle and patchy fog between 8am and 10am. Partly sunny. High near 49, with temperatures falling to around 43 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
-| Monday Night | Mostly cloudy. Low around 34, with temperatures rising to around 36 overnight. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Tuesday | Rain and snow. Cloudy, with a high near 44. East southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. |
+| Today | Patchy fog before 8am. Mostly sunny, with a high near 66. South southwest wind 5 to 15 mph, with gusts as high as 30 mph. |
+| Tonight | Partly cloudy, with a low around 47. South southwest wind around 10 mph, with gusts as high as 25 mph. |
+| Thursday | A chance of rain showers after 1pm. Mostly cloudy. High near 51, with temperatures falling to around 46 in the afternoon. Northwest wind 5 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | A chance of rain showers before 7pm, then a chance of rain. Cloudy, with a low around 40. North northeast wind 5 to 15 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
