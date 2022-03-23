@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain between 7pm and midnight, then rain and a slight chance of thunderstorms between midnight and 3am, then widespread drizzle and areas of fog. Cloudy. Low around 38, with temperatures rising to around 41 overnight. East southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Monday | Areas of fog and patchy drizzle before 8am, then patchy drizzle and patchy fog between 8am and 10am. Partly sunny. High near 49, with temperatures falling to around 43 in the afternoon. South southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
-| Monday Night | Mostly cloudy. Low around 34, with temperatures rising to around 36 overnight. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Tuesday | Rain and snow. Cloudy, with a high near 44. East southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. |
+| Tonight | Rain before 10pm, then rain and a slight chance of thunderstorms. Cloudy. Low around 45, with temperatures rising to around 48 overnight. East southeast wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Wednesday | A chance of rain before 7am, then a chance of rain showers between 7am and 1pm, then showers and thunderstorms likely. Mostly cloudy. High near 58, with temperatures falling to around 55 in the afternoon. South wind 10 to 15 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Showers and thunderstorms likely. Cloudy, with a low around 40. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday | A chance of rain showers. Mostly cloudy, with a high near 45. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
