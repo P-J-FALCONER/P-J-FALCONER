@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. East southeast wind around 10 mph. |
-| Tuesday | A chance of rain showers after 4pm. Mostly cloudy. High near 41, with temperatures falling to around 39 in the afternoon. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | A chance of rain showers before 4am, then showers and thunderstorms. Cloudy. Low around 37, with temperatures rising to around 44 overnight. Southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday | Showers and thunderstorms before 7am, then rain and a chance of thunderstorms. Cloudy, with a high near 64. South wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. |
+| Today | A chance of rain showers after 4pm. Mostly cloudy, with a high near 39. East southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A chance of rain showers before 1am, then showers and thunderstorms likely. Cloudy. Low around 38, with temperatures rising to around 43 overnight. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Showers and thunderstorms. Cloudy. High near 65, with temperatures falling to around 62 in the afternoon. South wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Showers and thunderstorms before 7pm, then rain and a slight chance of thunderstorms. Cloudy, with a low around 39. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
