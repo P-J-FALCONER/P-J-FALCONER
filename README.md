@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A chance of rain showers after 4pm. Mostly cloudy, with a high near 39. East southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of rain showers before 1am, then showers and thunderstorms likely. Cloudy. Low around 38, with temperatures rising to around 43 overnight. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Showers and thunderstorms. Cloudy. High near 65, with temperatures falling to around 62 in the afternoon. South wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday Night | Showers and thunderstorms before 7pm, then rain and a slight chance of thunderstorms. Cloudy, with a low around 39. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. |
+| Today | Areas of fog before 9am. Cloudy, with a high near 42. Southeast wind 0 to 10 mph. |
+| Tonight | Cloudy, with a low around 35. North wind 5 to 15 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible. |
+| New Year&#39;s Day | Rain and snow. Cloudy. High near 36, with temperatures falling to around 32 in the afternoon. North northeast wind 15 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Saturday Night | Snow. Cloudy, with a low around 22. North wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
