@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Areas of fog before 9am. Cloudy, with a high near 42. Southeast wind 0 to 10 mph. |
-| Tonight | Cloudy, with a low around 35. North wind 5 to 15 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible. |
-| New Year&#39;s Day | Rain and snow. Cloudy. High near 36, with temperatures falling to around 32 in the afternoon. North northeast wind 15 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Saturday Night | Snow. Cloudy, with a low around 22. North wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Overnight | A chance of rain showers before 4am, then a chance of showers and thunderstorms. Cloudy. Low around 39, with temperatures rising to around 45 overnight. Southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Showers and thunderstorms. Cloudy. High near 63, with temperatures falling to around 59 in the afternoon. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Wednesday Night | Showers and thunderstorms before 7pm, then rain and a slight chance of thunderstorms. Cloudy. Low around 39, with temperatures rising to around 41 overnight. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Thursday | Rain and snow likely before noon, then a chance of rain and snow. Cloudy, with a high near 40. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
