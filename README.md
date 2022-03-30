@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of rain showers before 4am, then a chance of showers and thunderstorms. Cloudy. Low around 39, with temperatures rising to around 45 overnight. Southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Showers and thunderstorms. Cloudy. High near 63, with temperatures falling to around 59 in the afternoon. South wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
-| Wednesday Night | Showers and thunderstorms before 7pm, then rain and a slight chance of thunderstorms. Cloudy. Low around 39, with temperatures rising to around 41 overnight. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
-| Thursday | Rain and snow likely before noon, then a chance of rain and snow. Cloudy, with a high near 40. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
+| Today | Showers and thunderstorms. Cloudy, with a high near 65. South wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Tonight | Showers and thunderstorms. Cloudy. Low around 40, with temperatures rising to around 44 overnight. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Thursday | A chance of rain showers before 1pm, then rain and snow showers likely. Cloudy. High near 42, with temperatures falling to around 39 in the afternoon. West wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday Night | Rain and snow showers likely before 7pm, then a slight chance of rain and snow showers between 7pm and 1am. Mostly cloudy, with a low around 32. Northwest wind 10 to 15 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
