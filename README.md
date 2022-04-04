@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A chance of rain before 8am. Partly sunny. High near 52, with temperatures falling to around 48 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tonight | Patchy fog after 10pm. Mostly cloudy, with a low around 37. North northeast wind 5 to 10 mph. |
-| Tuesday | Patchy fog before 9am, then a slight chance of rain. Mostly cloudy. High near 47, with temperatures falling to around 45 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Tuesday Night | A slight chance of rain before 7pm, then rain showers. Cloudy, with a low around 45. Southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. |
+| This Afternoon | Mostly cloudy. High near 53, with temperatures falling to around 48 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Patchy fog after 10pm. Mostly cloudy, with a low around 37. West northwest wind 0 to 10 mph. |
+| Tuesday | Patchy fog before 9am, then a slight chance of rain. Mostly cloudy. High near 47, with temperatures falling to around 45 in the afternoon. East wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Tuesday Night | A slight chance of rain before 7pm, then rain showers. Cloudy, with a low around 45. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
