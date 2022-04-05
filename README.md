@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog. Mostly cloudy, with a low around 39. North northwest wind 0 to 5 mph. |
-| Tuesday | Patchy fog before 10am, then a slight chance of rain showers. Mostly cloudy. High near 47, with temperatures falling to around 43 in the afternoon. East southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | Rain showers before 1am, then showers and thunderstorms. Cloudy. Low around 43, with temperatures rising to around 48 overnight. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Wednesday | Rain showers likely before 1pm. Partly sunny, with a high near 56. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
+| Today | Areas of fog before 10am, then a chance of rain showers. Mostly cloudy, with a high near 47. East southeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Rain showers before 10pm, then showers and thunderstorms. Cloudy. Low around 44, with temperatures rising to around 46 overnight. South southeast wind 10 to 15 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Wednesday | Showers and thunderstorms likely before 1pm. Mostly sunny. High near 57, with temperatures falling to around 55 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Partly cloudy, with a low around 40. West southwest wind around 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
