@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Rain and snow showers before 1pm, then rain and snow showers. Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
+| This Afternoon | Rain and snow showers. Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
 | Tonight | Snow showers before 1am, then scattered rain and snow showers between 1am and 4am. Cloudy, with a low around 32. North northwest wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
 | Saturday | Mostly cloudy, with a high near 42. Northwest wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Saturday Night | Partly cloudy, with a low around 35. West wind around 5 mph, with gusts as high as 15 mph. |
