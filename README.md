@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of rain after 4am. Mostly cloudy, with a low around 39. West southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | A chance of rain. Mostly cloudy, with a high near 51. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday Night | A chance of rain before 7pm, then a slight chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 35. West northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | Sunny, with a high near 46. Northwest wind 10 to 15 mph. |
+| Today | Scattered rain and snow showers. Mostly cloudy. High near 53, with temperatures falling to around 50 in the afternoon. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Isolated rain showers before midnight. Mostly cloudy, with a low around 35. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Sunny, with a high near 48. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Saturday Night | Mostly clear, with a low around 34. North wind 5 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
