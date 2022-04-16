@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Isolated rain showers before 10pm. Mostly cloudy. Low around 34, with temperatures rising to around 37 overnight. West northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Overnight | Mostly cloudy. Low around 34, with temperatures rising to around 37 overnight. Northwest wind around 10 mph. |
 | Saturday | Mostly sunny, with a high near 48. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. |
 | Saturday Night | Mostly clear, with a low around 34. North wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Sunday | Partly sunny, with a high near 41. Northeast wind around 10 mph. |
