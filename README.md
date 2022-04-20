@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 40. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Overnight | Mostly cloudy, with a low around 40. Southeast wind around 10 mph, with gusts as high as 20 mph. |
 | Wednesday | A chance of rain showers after 2pm. Cloudy, with a high near 53. South southeast wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Wednesday Night | Showers and thunderstorms before 4am. Cloudy, with a low around 48. South southwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Thursday | Mostly sunny, with a high near 68. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
