@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Areas of frost after 3am. Mostly clear, with a low around 36. North wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Overnight | Areas of frost after 3am. Mostly clear, with a low around 36. North northwest wind 5 to 10 mph. |
 | Wednesday | Areas of frost before 8am. Partly sunny. High near 39, with temperatures falling to around 37 in the afternoon. North northeast wind 10 to 15 mph. |
 | Wednesday Night | A slight chance of rain showers after 7pm. Cloudy. Low around 37, with temperatures rising to around 40 overnight. East northeast wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday | A slight chance of rain showers. Cloudy, with a high near 48. East southeast wind 10 to 15 mph. Chance of precipitation is 20%. |
