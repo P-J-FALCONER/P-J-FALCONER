@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of rain and snow showers before 11pm, then a chance of rain and snow showers. Mostly cloudy. Low around 36, with temperatures rising to around 39 overnight. East northeast wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | A chance of rain showers. Mostly cloudy, with a high near 47. East wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | A chance of rain showers. Mostly cloudy, with a low around 45. East southeast wind around 10 mph. Chance of precipitation is 40%. |
+| Overnight | Isolated rain showers. Cloudy. Low around 34, with temperatures rising to around 38 overnight. East wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Scattered rain showers after 7am. Mostly cloudy. High near 47, with temperatures falling to around 43 in the afternoon. East southeast wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday Night | A chance of rain showers. Mostly cloudy, with a low around 45. East southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Friday | A chance of rain showers. Mostly cloudy, with a high near 53. East southeast wind 10 to 15 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
