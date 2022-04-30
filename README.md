@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Scattered rain showers before 1am, then a chance of showers and thunderstorms between 1am and 4am, then a slight chance of showers and thunderstorms between 4am and 5am, then scattered showers and thunderstorms. Mostly cloudy, with a low around 49. East southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | Showers and thunderstorms. Cloudy, with a high near 61. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Saturday Night | Showers and thunderstorms before 1am. Mostly cloudy, with a low around 52. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Overnight | Scattered showers and thunderstorms. Mostly cloudy, with a low around 48. East southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Saturday | Isolated rain showers before 9am, then a chance of showers and thunderstorms between 9am and 1pm, then scattered showers and thunderstorms. Mostly cloudy. High near 59, with temperatures falling to around 55 in the afternoon. Southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Saturday Night | A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 52. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
 | Sunday | A slight chance of rain showers after 1pm. Partly sunny, with a high near 56. Southwest wind 10 to 20 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
