@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Scattered showers and thunderstorms. Mostly cloudy, with a low around 48. East southeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Saturday | Isolated rain showers before 9am, then a chance of showers and thunderstorms between 9am and 1pm, then scattered showers and thunderstorms. Mostly cloudy. High near 59, with temperatures falling to around 55 in the afternoon. Southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Saturday Night | A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 52. South wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday | A slight chance of rain showers after 1pm. Partly sunny, with a high near 56. Southwest wind 10 to 20 mph. Chance of precipitation is 20%. |
+| Today | A chance of rain showers before 10am, then showers and thunderstorms likely between 10am and 1pm, then showers and thunderstorms. Cloudy. High near 63, with temperatures falling to around 59 in the afternoon. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tonight | Showers and thunderstorms before 7pm, then showers and thunderstorms between 7pm and 9pm, then a chance of showers and thunderstorms between 9pm and 11pm, then a chance of showers and thunderstorms between 11pm and 1am. Mostly cloudy, with a low around 52. South wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Sunday | A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 57. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Sunday Night | A slight chance of rain showers before 7pm. Mostly cloudy, with a low around 47. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
