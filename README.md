@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy. Low around 55, with temperatures rising to around 57 overnight. East northeast wind around 15 mph, with gusts as high as 25 mph. |
-| Wednesday | Rain showers before 1pm, then scattered showers and thunderstorms. Cloudy, with a high near 62. East southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday Night | Scattered showers and thunderstorms before 10pm, then scattered showers and thunderstorms. Mostly cloudy. Low around 60, with temperatures rising to around 63 overnight. South wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Thursday | Scattered rain showers before 7am, then showers and thunderstorms. Mostly cloudy, with a high near 74. South southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. |
+| Today | Rain showers before 11am, then a chance of showers and thunderstorms between 11am and 1pm, then scattered showers and thunderstorms between 1pm and 4pm, then a chance of showers and thunderstorms. Cloudy, with a high near 61. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tonight | A chance of showers and thunderstorms before 11pm, then scattered showers and thunderstorms between 11pm and 1am, then scattered showers and thunderstorms. Mostly cloudy. Low around 61, with temperatures rising to around 64 overnight. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday | Scattered rain showers before 10am, then showers and thunderstorms. Mostly cloudy. High near 70, with temperatures falling to around 66 in the afternoon. South southwest wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday Night | A chance of showers and thunderstorms before 1am, then scattered showers and thunderstorms. Mostly cloudy, with a low around 54. Northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
