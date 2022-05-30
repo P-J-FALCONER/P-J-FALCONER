@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of rain showers before 11pm. Mostly cloudy, with a low around 70. South wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Overnight | Partly cloudy, with a low around 70. South wind 15 to 20 mph, with gusts as high as 35 mph. |
 | Memorial Day | Mostly sunny, with a high near 89. South wind 15 to 20 mph, with gusts as high as 35 mph. |
 | Monday Night | Mostly clear. Low around 69, with temperatures rising to around 71 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. |
 | Tuesday | A chance of rain showers between 1pm and 4pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 85. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
