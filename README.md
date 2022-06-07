@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of showers and thunderstorms before 2pm, then scattered showers and thunderstorms between 2pm and 3pm, then a chance of showers and thunderstorms. Cloudy. High near 72, with temperatures falling to around 69 in the afternoon. South southeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tonight | A chance of showers and thunderstorms before 7pm, then patchy fog and showers and thunderstorms between 7pm and midnight, then patchy fog and scattered showers and thunderstorms between midnight and 1am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 56. North wind 5 to 15 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday | A slight chance of rain showers before 7am. Partly sunny, with a high near 63. North northeast wind 5 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | A slight chance of rain showers after 4am. Partly cloudy, with a low around 56. Southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | Patchy fog and showers and thunderstorms before midnight, then patchy fog and scattered showers and thunderstorms between midnight and 4am. Mostly cloudy, with a low around 55. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tuesday | Partly sunny, with a high near 63. North northeast wind 10 to 15 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday Night | A slight chance of rain showers after 4am. Partly cloudy, with a low around 55. Southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Wednesday | Rain showers likely before 1pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 65. East wind 5 to 10 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
