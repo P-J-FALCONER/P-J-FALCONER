@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of rain showers between 3pm and 4pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 75. South southwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms before 1am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 64. Southwest wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| This Afternoon | A chance of rain showers after 2pm. Mostly cloudy, with a high near 75. South southwest wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A chance of rain showers before 8pm, then a slight chance of showers and thunderstorms between 8pm and 10pm, then a chance of showers and thunderstorms between 10pm and 3am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 64. Southwest wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
 | Sunday | A slight chance of showers and thunderstorms before 9am, then patchy fog and a slight chance of showers and thunderstorms between 9am and 3pm. Mostly cloudy. High near 65, with temperatures falling to around 61 in the afternoon. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Sunday Night | Mostly cloudy, with a low around 57. Northeast wind 5 to 10 mph. |
 
