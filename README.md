@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of showers and thunderstorms before 4am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 62. South wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday | A chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 1pm, then patchy fog between 1pm and 3pm. Partly sunny. High near 66, with temperatures falling to around 63 in the afternoon. North northeast wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | A slight chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 58. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
-| Monday | A chance of showers and thunderstorms. Partly sunny, with a high near 74. East wind 5 to 15 mph. Chance of precipitation is 30%. |
+| Today | A chance of showers and thunderstorms before 10am, then areas of fog and a slight chance of showers and thunderstorms between 10am and 3pm. Mostly cloudy, with a high near 63. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Partly cloudy, with a low around 56. North northeast wind 5 to 10 mph. |
+| Monday | A chance of showers and thunderstorms after 10am. Some of the storms could be severe. Partly sunny. High near 75, with temperatures falling to around 71 in the afternoon. East southeast wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Monday Night | A chance of showers and thunderstorms before 7pm. Some of the storms could be severe. Partly cloudy, with a low around 69. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
