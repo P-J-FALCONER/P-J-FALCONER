@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog. Partly cloudy, with a low around 69. South southeast wind 5 to 10 mph. |
-| Tuesday | Patchy fog before 8am. Sunny, with a high near 96. Heat index values as high as 101. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Tuesday Night | Clear, with a low around 78. Heat index values as high as 100. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Wednesday | Sunny, with a high near 95. Heat index values as high as 97. Southwest wind 10 to 15 mph. |
+| Today | Sunny, with a high near 96. Heat index values as high as 101. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Mostly clear, with a low around 79. Heat index values as high as 100. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Wednesday | Sunny, with a high near 96. Heat index values as high as 99. Southwest wind 10 to 20 mph, with gusts as high as 25 mph. |
+| Wednesday Night | A chance of showers and thunderstorms after 7pm. Partly cloudy, with a low around 71. Heat index values as high as 98. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
