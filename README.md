@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of showers and thunderstorms before 11pm, then patchy fog. Some of the storms could be severe. Partly cloudy, with a low around 69. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. |
+| Overnight | Patchy fog. Partly cloudy, with a low around 69. South southeast wind 5 to 10 mph. |
 | Tuesday | Patchy fog before 8am. Sunny, with a high near 96. Heat index values as high as 101. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Tuesday Night | Clear, with a low around 78. Heat index values as high as 100. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Wednesday | Sunny, with a high near 95. Heat index values as high as 97. Southwest wind 10 to 15 mph. |
