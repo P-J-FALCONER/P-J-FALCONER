@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of showers and thunderstorms after 5am. Mostly cloudy, with a low around 74. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
-| Friday | A chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 75 in the afternoon. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 68. North northeast wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | Mostly sunny, with a high near 75. North northeast wind 5 to 10 mph. |
+| Today | A chance of showers and thunderstorms before 10am, then showers and thunderstorms likely between 10am and 11am, then a chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 73 in the afternoon. North northwest wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | A slight chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 67. Northwest wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Mostly sunny, with a high near 74. North northeast wind 5 to 10 mph. |
+| Saturday Night | Partly cloudy, with a low around 66. East wind 0 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
