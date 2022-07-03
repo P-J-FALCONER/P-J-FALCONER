@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Partly cloudy, with a low around 65. South southeast wind 5 to 10 mph. |
-| Sunday | Sunny, with a high near 77. East southeast wind 5 to 10 mph. |
+| Overnight | Mostly clear, with a low around 68. West southwest wind 0 to 5 mph. |
+| Sunday | Sunny, with a high near 76. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. |
 | Sunday Night | Mostly clear, with a low around 67. East southeast wind 5 to 10 mph. |
 | Independence Day | A slight chance of rain showers between 10am and 1pm, then a chance of showers and thunderstorms between 1pm and 4pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 88. South wind around 10 mph. Chance of precipitation is 40%. |
 
