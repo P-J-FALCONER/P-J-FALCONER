@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Showers and thunderstorms likely. Some of the storms could be severe. Mostly cloudy, with a low around 75. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between three quarters and one inch possible. |
-| Tuesday | A chance of showers and thunderstorms. Mostly sunny. High near 90, with temperatures falling to around 87 in the afternoon. Heat index values as high as 95. West northwest wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 69. North northeast wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms. Partly sunny, with a high near 77. Northeast wind 5 to 10 mph. Chance of precipitation is 40%. |
+| Today | Showers and thunderstorms likely. Some of the storms could produce heavy rain. Partly sunny. High near 85, with temperatures falling to around 73 in the afternoon. Northwest wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tonight | Showers and thunderstorms likely. Some of the storms could produce heavy rain. Mostly cloudy. Low around 68, with temperatures rising to around 70 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms. Mostly cloudy. High near 75, with temperatures falling to around 73 in the afternoon. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Showers and thunderstorms likely. Mostly cloudy, with a low around 68. Northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
