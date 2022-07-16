@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Showers and thunderstorms. Cloudy, with a high near 72. South wind 5 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 69. South southeast wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
-| Saturday | A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 78. East wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday Night | A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 68. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Tonight | Scattered showers and thunderstorms before 11pm, then patchy fog and isolated rain showers. Mostly cloudy, with a low around 69. South southeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Patchy fog before 9am, then a slight chance of showers and thunderstorms. Partly sunny. High near 80, with temperatures falling to around 78 in the afternoon. East wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Saturday Night | A slight chance of showers and thunderstorms. Mostly cloudy. Low around 68, with temperatures rising to around 72 overnight. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday | A chance of showers and thunderstorms. Mostly cloudy, with a high near 75. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
