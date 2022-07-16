@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy drizzle and patchy fog and scattered rain showers. Mostly cloudy, with a low around 69. East wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | Patchy fog before 9am, then a slight chance of showers and thunderstorms. Partly sunny. High near 80, with temperatures falling to around 78 in the afternoon. Northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday Night | A slight chance of showers and thunderstorms. Mostly cloudy. Low around 68, with temperatures rising to around 72 overnight. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday | A chance of showers and thunderstorms. Mostly cloudy, with a high near 75. North northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
+| Today | Patchy fog before 7am, then a chance of rain showers and patchy fog. Mostly cloudy, with a high near 77. East northeast wind 5 to 10 mph, with gusts as high as 20 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A chance of rain showers before 7pm, then a chance of showers and thunderstorms. Mostly cloudy. Low around 69, with temperatures rising to around 71 overnight. Northeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday | A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 75. North northeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday Night | A chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 67. North wind 5 to 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
