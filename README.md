@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Partly cloudy, with a low around 73. Southeast wind 5 to 10 mph. |
+| Overnight | Patchy fog before 1am. Partly cloudy, with a low around 73. South wind around 5 mph. |
 | Saturday | Mostly sunny, with a high near 91. Heat index values as high as 97. South southeast wind 5 to 10 mph. |
 | Saturday Night | Partly cloudy, with a low around 75. Heat index values as high as 97. South southwest wind 5 to 10 mph. |
 | Sunday | A slight chance of rain showers between 7am and 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 89. Heat index values as high as 97. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. |
