@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Showers and thunderstorms. Cloudy, with a high near 81. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tonight | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms between 10pm and 1am, then showers and thunderstorms likely. Some of the storms could produce heavy rain. Mostly cloudy. Low around 74, with temperatures rising to around 76 overnight. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
-| Monday | Showers and thunderstorms likely before 7am, then a chance of showers and thunderstorms between 7am and 1pm, then showers and thunderstorms likely. Some of the storms could produce heavy rain. Partly sunny. High near 85, with temperatures falling to around 75 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts between three quarters and one inch possible. |
-| Monday Night | Showers and thunderstorms likely before 1am. Mostly cloudy, with a low around 67. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
+| Tonight | A chance of rain showers before 10pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 76. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Monday | A chance of showers and thunderstorms before 11am, then showers and thunderstorms likely between 11am and 4pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 83, with temperatures falling to around 73 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
+| Monday Night | A chance of showers and thunderstorms before 10pm. Mostly cloudy, with a low around 67. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tuesday | Mostly sunny, with a high near 73. North northeast wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
