@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of rain showers between 8pm and 10pm, then a chance of showers and thunderstorms between 10pm and 3am, then showers and thunderstorms likely. Mostly cloudy, with a low around 68. South wind 5 to 15 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Saturday | A chance of showers and thunderstorms. Mostly cloudy. High near 78, with temperatures falling to around 76 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Saturday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 67. South wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
-| Sunday | A chance of rain showers before 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 73. North wind 5 to 15 mph. Chance of precipitation is 50%. |
+| Overnight | A chance of showers and thunderstorms before 3am, then showers and thunderstorms likely. Cloudy, with a low around 68. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Saturday | A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms. Mostly cloudy. High near 78, with temperatures falling to around 76 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Saturday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 67. Southeast wind 0 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday | A chance of rain showers before 10am, then a chance of showers and thunderstorms. Partly sunny, with a high near 73. Northeast wind 0 to 15 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
