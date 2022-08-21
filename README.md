@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of showers and thunderstorms before 2pm, then a chance of showers and thunderstorms. Some of the storms could produce heavy rain. Mostly cloudy. High near 76, with temperatures falling to around 73 in the afternoon. South wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tonight | Showers and thunderstorms. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 67. Southeast wind 0 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Sunday | A chance of rain showers before 10am, then a chance of showers and thunderstorms. Partly sunny. High near 73, with temperatures falling to around 71 in the afternoon. Northeast wind 0 to 15 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 66. North wind 5 to 15 mph. Chance of precipitation is 50%. |
+| Tonight | A chance of showers and thunderstorms before 1am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 67. South southwest wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | A chance of rain showers and patchy fog before 10am, then a chance of showers and thunderstorms. Partly sunny. High near 74, with temperatures falling to around 71 in the afternoon. North wind 5 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 65. North wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | Sunny, with a high near 73. North wind 10 to 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
