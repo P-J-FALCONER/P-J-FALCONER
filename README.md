@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Isolated showers and thunderstorms after 5pm. Mostly sunny. High near 82, with temperatures falling to around 77 in the afternoon. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tonight | Scattered showers and thunderstorms before 7pm, then isolated showers and thunderstorms between 7pm and 10pm. Mostly cloudy, with a low around 68. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
-| Sunday | Partly sunny. High near 72, with temperatures falling to around 69 in the afternoon. North northeast wind around 15 mph, with gusts as high as 25 mph. |
-| Sunday Night | Mostly cloudy, with a low around 67. Northeast wind around 15 mph, with gusts as high as 30 mph. |
+| Tonight | Isolated rain showers before 10pm. Mostly cloudy, with a low around 69. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Sunday | A chance of rain showers after 7am. Mostly cloudy, with a high near 72. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday Night | A chance of rain showers before 1am. Mostly cloudy, with a low around 67. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
+| Labor Day | A slight chance of rain showers after 1pm. Partly sunny, with a high near 73. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
