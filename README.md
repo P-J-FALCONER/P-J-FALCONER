@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny, with a high near 82. South southeast wind around 5 mph, with gusts as high as 15 mph. |
-| Tonight | A chance of rain showers after 4am. Mostly cloudy, with a low around 67. Northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday | A chance of rain showers before 7am, then showers and thunderstorms. Cloudy. High near 68, with temperatures falling to around 65 in the afternoon. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday Night | Showers and thunderstorms. Mostly cloudy, with a low around 59. Northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. |
+| This Afternoon | Mostly sunny, with a high near 80. East southeast wind 5 to 10 mph. |
+| Tonight | A chance of rain showers after 4am. Mostly cloudy, with a low around 67. Northeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday | A chance of rain showers before 7am, then showers and thunderstorms. Cloudy. High near 68, with temperatures falling to around 65 in the afternoon. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Sunday Night | Showers and thunderstorms. Mostly cloudy, with a low around 59. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
