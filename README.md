@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny, with a high near 68. West southwest wind around 10 mph, with gusts as high as 20 mph. |
+| This Afternoon | Mostly sunny, with a high near 68. West southwest wind around 10 mph, with gusts as high as 20 mph. |
 | Tonight | A chance of rain showers between 7pm and 10pm. Partly cloudy. Low around 51, with temperatures rising to around 53 overnight. North wind around 5 mph, with gusts as high as 10 mph. |
 | Columbus Day | Sunny, with a high near 66. Northeast wind 5 to 10 mph. |
 | Monday Night | Mostly clear, with a low around 53. East southeast wind 5 to 10 mph. |
