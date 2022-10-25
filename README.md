@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly cloudy. High near 74, with temperatures falling to around 72 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Tonight | A chance of rain showers after 1am. Mostly cloudy. Low around 59, with temperatures rising to around 61 overnight. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | Rain showers. Cloudy. High near 63, with temperatures falling to around 59 in the afternoon. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
-| Tuesday Night | Rain showers. Cloudy, with a low around 48. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. |
+| Tonight | Isolated rain showers after 4am. Mostly cloudy. Low around 60, with temperatures rising to around 62 overnight. South wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Tuesday | Rain showers. Cloudy. High near 62, with temperatures falling to around 58 in the afternoon. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Tuesday Night | Rain showers before 9pm, then rain showers and patchy fog. Cloudy, with a low around 48. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Wednesday | A chance of rain showers before 10am. Mostly sunny, with a high near 56. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
