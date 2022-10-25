@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Scattered rain showers. Mostly cloudy. Low around 60, with temperatures rising to around 62 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. |
-| Tuesday | Rain showers. Cloudy. High near 62, with temperatures falling to around 58 in the afternoon. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
-| Tuesday Night | Rain showers before 9pm, then rain showers and patchy fog. Cloudy, with a low around 48. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
-| Wednesday | Rain showers before 10am. Mostly sunny, with a high near 56. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. |
+| Today | Rain showers before 3pm, then rain showers and patchy fog between 3pm and 4pm, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy. High near 63, with temperatures falling to around 58 in the afternoon. Southeast wind 10 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Tonight | Patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 50. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Wednesday | A chance of rain showers before 11am. Partly sunny. High near 56, with temperatures falling to around 54 in the afternoon. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Mostly clear, with a low around 44. North wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
