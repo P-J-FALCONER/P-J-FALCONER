@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny, with a high near 54. North northwest wind 15 to 25 mph, with gusts as high as 35 mph. New rainfall amounts between a quarter and half of an inch possible. |
+| This Afternoon | Mostly sunny, with a high near 54. Northwest wind around 15 mph, with gusts as high as 30 mph. |
 | Tonight | Mostly clear, with a low around 44. North northwest wind 5 to 15 mph. |
 | Thursday | Mostly sunny. High near 55, with temperatures falling to around 53 in the afternoon. East wind 5 to 15 mph. |
 | Thursday Night | Mostly cloudy, with a low around 44. East wind 5 to 10 mph, with gusts as high as 20 mph. |
