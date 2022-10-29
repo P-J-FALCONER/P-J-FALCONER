@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly clear, with a low around 43. East wind 0 to 5 mph. |
-| Saturday | Sunny. High near 59, with temperatures falling to around 57 in the afternoon. East southeast wind around 5 mph. |
+| Overnight | Patchy fog after 3am. Mostly clear. Low around 43, with temperatures rising to around 45 overnight. Southeast wind 0 to 5 mph. |
+| Saturday | Patchy fog before 10am. Sunny, with a high near 61. East southeast wind around 5 mph. |
 | Saturday Night | Mostly cloudy, with a low around 48. East southeast wind 0 to 5 mph. |
 | Sunday | A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 58. East southeast wind 0 to 5 mph. Chance of precipitation is 20%. |
 
