@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 48. Southeast wind 0 to 5 mph. |
+| Overnight | Mostly cloudy, with a low around 48. Southeast wind around 0 mph. |
 | Sunday | A chance of rain showers after 4pm. Cloudy, with a high near 59. East southeast wind 0 to 5 mph. Chance of precipitation is 30%. |
 | Sunday Night | A chance of rain showers. Mostly cloudy, with a low around 51. Northeast wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
 | Monday | A chance of rain showers. Mostly cloudy, with a high near 58. North northeast wind 0 to 5 mph. Chance of precipitation is 30%. |
