@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny, with a high near 55. East wind 10 to 15 mph, with gusts as high as 25 mph. |
+| This Afternoon | Mostly sunny, with a high near 55. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Tonight | Partly cloudy, with a low around 47. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Wednesday | Mostly sunny. High near 66, with temperatures falling to around 64 in the afternoon. South wind around 10 mph, with gusts as high as 20 mph. |
 | Wednesday Night | Mostly clear, with a low around 57. South wind 10 to 15 mph, with gusts as high as 25 mph. |
