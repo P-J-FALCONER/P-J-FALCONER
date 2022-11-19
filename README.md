@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Scattered snow showers. Cloudy. High near 28, with temperatures falling to around 25 in the afternoon. West wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
-| Tonight | A chance of snow. Mostly cloudy, with a low around 20. West southwest wind around 15 mph, with gusts as high as 25 mph. |
-| Saturday | A chance of snow and isolated snow showers before noon, then scattered snow showers and intermittent snow. Mostly cloudy. High near 29, with temperatures falling to around 24 in the afternoon. West southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
-| Saturday Night | A chance of snow showers before 9pm. Partly cloudy, with a low around 15. West wind 10 to 20 mph, with gusts as high as 30 mph. |
+| This Afternoon | Isolated snow showers. Mostly cloudy. High near 28, with temperatures falling to around 25 in the afternoon. West wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Tonight | Scattered snow showers before midnight. Mostly cloudy, with a low around 20. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Saturday | Scattered snow showers. Mostly cloudy. High near 28, with temperatures falling to around 24 in the afternoon. West southwest wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
+| Saturday Night | Scattered snow showers before midnight. Partly cloudy, with a low around 13. Wind chill values as low as -2. West wind 10 to 20 mph, with gusts as high as 35 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
