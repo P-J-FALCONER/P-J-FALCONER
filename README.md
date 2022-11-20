@@ -21,8 +21,8 @@
 |   | Forecast  |
 |---|---|
 | Overnight | Mostly clear, with a low around 15. Wind chill values as low as 0. West wind around 15 mph, with gusts as high as 25 mph. |
-| Sunday | Mostly sunny, with a high near 33. Wind chill values as low as 1. West southwest wind around 15 mph, with gusts as high as 30 mph. |
-| Sunday Night | Mostly clear. Low around 32, with temperatures rising to around 34 overnight. Southwest wind 15 to 20 mph, with gusts as high as 40 mph. |
-| Monday | Mostly sunny, with a high near 43. West wind 5 to 20 mph, with gusts as high as 30 mph. |
+| Sunday | Sunny, with a high near 33. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Sunday Night | Mostly clear, with a low around 31. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Monday | Mostly sunny, with a high near 43. West wind 5 to 15 mph, with gusts as high as 30 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
