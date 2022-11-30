@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of rain showers after 2pm. Mostly cloudy, with a high near 58. South wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Rain showers likely before midnight. Mostly cloudy. Low around 29, with temperatures rising to around 31 overnight. Southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Mostly sunny. High near 34, with temperatures falling to around 31 in the afternoon. West wind around 25 mph, with gusts as high as 40 mph. |
-| Wednesday Night | Mostly clear, with a low around 22. West wind 15 to 25 mph, with gusts as high as 35 mph. |
+| Tonight | Rain showers before midnight. Mostly cloudy. Low around 27, with temperatures rising to around 29 overnight. Southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Mostly sunny, with a high near 33. West wind 20 to 25 mph, with gusts as high as 35 mph. |
+| Wednesday Night | Mostly clear, with a low around 22. West wind 10 to 20 mph, with gusts as high as 35 mph. |
+| Thursday | Sunny, with a high near 37. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
