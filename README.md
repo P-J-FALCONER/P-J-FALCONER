@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of rain after 4am. Cloudy, with a low around 36. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
-| Friday | Rain and snow before 9am, then rain and snow. Cloudy, with a high near 39. East wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. |
-| Friday Night | Areas of drizzle before midnight. Cloudy, with a low around 36. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | A chance of rain after noon. Cloudy, with a high near 41. East southeast wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Today | Rain likely before 8am, then a slight chance of sleet and rain and snow between 8am and 3pm, then rain likely and drizzle likely. Cloudy, with a high near 39. East wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. |
+| Tonight | A chance of drizzle and patchy fog before midnight, then patchy fog and a slight chance of drizzle. Cloudy, with a low around 37. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
+| Saturday | Patchy fog and a slight chance of drizzle before noon, then a chance of drizzle and a slight chance of rain. Cloudy, with a high near 40. East southeast wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday Night | A chance of rain and a slight chance of drizzle before midnight. Mostly cloudy, with a low around 37. West southwest wind 0 to 5 mph, with gusts as high as 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
