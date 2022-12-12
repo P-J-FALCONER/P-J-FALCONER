@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Areas of drizzle and a slight chance of rain showers after 10pm. Cloudy, with a low around 36. North northeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Overnight | Areas of drizzle and a slight chance of rain showers. Cloudy, with a low around 36. North northeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Monday | Areas of drizzle and a slight chance of rain showers before 11am. Cloudy, with a high near 41. East wind 5 to 10 mph. Chance of precipitation is 20%. |
 | Monday Night | Mostly cloudy, with a low around 33. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Tuesday | Mostly cloudy, with a high near 40. East southeast wind 10 to 20 mph, with gusts as high as 35 mph. |
