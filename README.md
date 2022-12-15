@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Rain and patchy fog before 5am. Cloudy. Low around 36, with temperatures rising to around 39 overnight. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday | A slight chance of rain between noon and 3pm, then a slight chance of rain and snow. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. |
-| Thursday Night | Snow likely. Cloudy, with a low around 32. South southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
-| Friday | A chance of snow showers. Cloudy, with a high near 33. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. Little or no snow accumulation expected. |
+| Overnight | Cloudy. Low around 35, with temperatures rising to around 37 overnight. Southwest wind around 15 mph, with gusts as high as 25 mph. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday | Scattered snow showers after noon. Mostly cloudy. High near 39, with temperatures falling to around 35 in the afternoon. Southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
+| Thursday Night | Scattered snow showers. Cloudy, with a low around 32. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
+| Friday | Scattered snow showers. Cloudy, with a high near 33. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
