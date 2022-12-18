@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Isolated snow showers. Cloudy, with a high near 26. West wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
-| Tonight | Scattered snow showers before midnight. Cloudy, with a low around 22. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
+| Tonight | Snow and scattered snow showers. Cloudy, with a low around 22. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
 | Sunday | Mostly cloudy, with a high near 27. West wind around 15 mph, with gusts as high as 25 mph. |
-| Sunday Night | Partly cloudy, with a low around 19. West wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Sunday Night | Partly cloudy, with a low around 19. West wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Monday | Mostly cloudy, with a high near 31. Southwest wind 0 to 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
