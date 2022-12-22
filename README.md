@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Cloudy, with a low around 31. South southeast wind around 10 mph, with gusts as high as 25 mph. |
-| Thursday | Snow before 3pm, then snow and areas of blowing snow. Cloudy. High near 32, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -5. Southwest wind 10 to 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Thursday Night | Snow and areas of blowing snow before midnight, then blowing snow and snow likely. Cloudy. Low around -4, with temperatures rising to around -2 overnight. Wind chill values as low as -28. West northwest wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. |
-| Friday | Blowing snow and snow likely. Mostly cloudy, with a high near 4. Wind chill values as low as -30. West wind around 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
+| Overnight | Cloudy, with a low around 32. South wind around 10 mph. |
+| Thursday | Snow before 3pm, then snow and areas of blowing snow. Cloudy. High near 36, with temperatures falling to around 9 in the afternoon. Wind chill values as low as -12. West southwest wind 5 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Thursday Night | Snow and blowing snow before 2am, then blowing snow and snow likely. Cloudy. Low around -4, with temperatures rising to around -2 overnight. Wind chill values as low as -29. West northwest wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Friday | Blowing snow and a chance of snow showers. Cloudy, with a high near 2. Wind chill values as low as -32. West wind 30 to 35 mph, with gusts as high as 55 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
