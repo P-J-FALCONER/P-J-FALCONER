@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Cloudy, with a high near 31. East southeast wind around 5 mph, with gusts as high as 15 mph. |
-| Tonight | A chance of snow showers between midnight and 3am, then a slight chance of snow. Cloudy. Low around 31, with temperatures rising to around 33 overnight. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Thursday | Snow before 3pm, then snow and areas of blowing snow. Cloudy. High near 34, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -6. Southwest wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Thursday Night | Snow and areas of blowing snow before midnight, then blowing snow and snow likely. Cloudy, with a low around -1. Wind chill values as low as -27. West northwest wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. |
+| Tonight | Cloudy, with a low around 31. South southeast wind around 10 mph, with gusts as high as 25 mph. |
+| Thursday | Snow before 3pm, then snow and areas of blowing snow. Cloudy. High near 32, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -5. Southwest wind 10 to 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Thursday Night | Snow and areas of blowing snow before midnight, then blowing snow and snow likely. Cloudy. Low around -4, with temperatures rising to around -2 overnight. Wind chill values as low as -28. West northwest wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. |
+| Friday | Blowing snow and snow likely. Mostly cloudy, with a high near 4. Wind chill values as low as -30. West wind around 30 mph, with gusts as high as 50 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
