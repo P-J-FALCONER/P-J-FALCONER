@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Blowing snow and occasional snow showers and intermittent snow. Cloudy, with a high near 0. Wind chill values as low as -37. West wind 30 to 35 mph, with gusts as high as 50 mph. Chance of precipitation is 30%. Little or no snow accumulation expected. |
-| Tonight | Blowing snow and occasional snow and occasional snow showers. Mostly cloudy, with a low around 0. Wind chill values as low as -25. West wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
+| Today | Blowing snow and isolated snow showers. Cloudy, with a high near 0. Wind chill values as low as -29. West wind around 30 mph, with gusts as high as 50 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Tonight | Blowing snow and scattered snow showers. Mostly cloudy, with a low around 0. Wind chill values as low as -25. West wind 25 to 30 mph, with gusts as high as 50 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
 | Saturday | Areas of blowing snow and a chance of snow showers. Partly sunny, with a high near 11. Wind chill values as low as -24. West wind 25 to 30 mph, with gusts as high as 40 mph. |
 | Saturday Night | Mostly cloudy, with a low around 6. Wind chill values as low as -11. West northwest wind 20 to 25 mph, with gusts as high as 35 mph. |
 
