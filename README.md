@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy blowing snow. Mostly cloudy. Low around 1, with temperatures rising to around 5 overnight. Wind chill values as low as -18. West wind around 25 mph, with gusts as high as 40 mph. New snow accumulation of less than half an inch possible. |
-| Saturday | Patchy blowing snow before noon. Partly sunny, with a high near 12. Wind chill values as low as -18. West wind 20 to 25 mph, with gusts as high as 40 mph. |
-| Saturday Night | Mostly cloudy, with a low around 6. Wind chill values as low as -12. West northwest wind 15 to 25 mph, with gusts as high as 35 mph. |
-| Christmas Day | Mostly sunny, with a high near 15. Wind chill values as low as -10. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Today | Partly sunny. High near 14, with temperatures falling to around 11 in the afternoon. Wind chill values as low as -10. West wind around 20 mph, with gusts as high as 40 mph. |
+| Tonight | Partly cloudy, with a low around 4. Wind chill values as low as -15. West wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Christmas Day | Mostly sunny, with a high near 13. Wind chill values as low as -14. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Sunday Night | Snow likely after midnight. Mostly cloudy, with a low around 12. Wind chill values as low as 0. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
