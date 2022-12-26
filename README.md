@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly clear, with a low around 4. Wind chill values as low as -14. West wind around 15 mph, with gusts as high as 30 mph. |
-| Christmas Day | Sunny, with a high near 13. Wind chill values as low as -15. West wind around 15 mph, with gusts as high as 25 mph. |
-| Sunday Night | Snow likely after 9pm. Mostly cloudy. Low around 12, with temperatures rising to around 15 overnight. Wind chill values as low as -3. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
-| Monday | A chance of snow before 3pm. Mostly cloudy, with a high near 22. West wind around 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
+| Christmas Day | Mostly sunny. High near 15, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -1. West southwest wind around 10 mph, with gusts as high as 20 mph. |
+| Tonight | Snow likely after 11pm. Mostly cloudy. Low around 9, with temperatures rising to around 14 overnight. Wind chill values as low as -2. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Monday | Snow likely before noon. Mostly cloudy. High near 23, with temperatures falling to around 21 in the afternoon. West southwest wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Monday Night | Partly cloudy, with a low around 10. Wind chill values as low as -2. West wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
