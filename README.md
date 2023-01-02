@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| New Year&#39;s Day | Cloudy. High near 46, with temperatures falling to around 42 in the afternoon. Southwest wind around 5 mph. |
-| Tonight | Patchy fog after midnight. Mostly cloudy, with a low around 36. West northwest wind 0 to 5 mph. |
+| Tonight | Patchy fog after midnight. Cloudy, with a low around 36. North northwest wind 0 to 5 mph. |
 | Monday | Patchy fog before noon, then a slight chance of rain. Cloudy, with a high near 42. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Monday Night | Rain before midnight, then rain and a slight chance of thunderstorms. Cloudy, with a low around 42. East wind around 10 mph. Chance of precipitation is 100%. |
+| Monday Night | Rain before midnight, then rain and a slight chance of thunderstorms. Cloudy. Low around 42, with temperatures rising to around 48 overnight. East wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday | A chance of rain and a slight chance of thunderstorms before noon. Partly sunny, with a high near 61. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
