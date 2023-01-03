@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Areas of fog and a chance of drizzle before midnight, then rain and areas of fog and a slight chance of thunderstorms. Cloudy. Low around 40, with temperatures rising to around 46 overnight. East northeast wind 10 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday | Rain likely and patchy fog and a slight chance of thunderstorms. Mostly cloudy. High near 52, with temperatures falling to around 50 in the afternoon. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Overnight | Areas of fog and a chance of rain and a slight chance of thunderstorms before 1am, then rain and areas of fog and a slight chance of thunderstorms. Cloudy. Low around 39, with temperatures rising to around 43 overnight. East northeast wind around 15 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday | Rain and areas of fog and a slight chance of thunderstorms before 9am, then areas of fog and a chance of rain. Cloudy, with a high near 46. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Tuesday Night | A slight chance of rain before 9pm. Mostly cloudy, with a low around 40. South southwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Wednesday | Isolated rain showers before 3pm, then isolated rain and snow showers. Mostly cloudy, with a high near 40. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
 
