@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Areas of fog and a chance of rain and a chance of drizzle before 4pm, then areas of fog and a chance of drizzle and a slight chance of rain. Cloudy. High near 49, with temperatures falling to around 47 in the afternoon. East southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tonight | Areas of fog and a chance of drizzle and a slight chance of rain showers before midnight. Mostly cloudy, with a low around 39. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
-| Wednesday | A slight chance of rain and snow showers after 3pm. Cloudy. High near 40, with temperatures falling to around 37 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Wednesday Night | A slight chance of snow showers. Cloudy, with a low around 32. Southwest wind 10 to 15 mph. Chance of precipitation is 20%. |
+| Tonight | Areas of fog before 7pm, then areas of fog and a chance of rain showers between 7pm and midnight. Mostly cloudy, with a low around 38. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A slight chance of snow and a slight chance of drizzle after noon. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph. Chance of precipitation is 20%. |
+| Wednesday Night | Scattered snow showers. Cloudy, with a low around 32. Southwest wind 10 to 15 mph. Chance of precipitation is 30%. |
+| Thursday | A chance of snow. Cloudy, with a high near 36. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. Little or no snow accumulation expected. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
