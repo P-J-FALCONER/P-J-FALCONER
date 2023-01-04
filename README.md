@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog before 3am. Mostly cloudy, with a low around 38. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
-| Wednesday | A slight chance of snow and a slight chance of drizzle after noon. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph. Chance of precipitation is 20%. |
-| Wednesday Night | Scattered snow showers. Cloudy, with a low around 32. Southwest wind 10 to 15 mph. Chance of precipitation is 30%. |
-| Thursday | A chance of snow. Cloudy, with a high near 36. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. Little or no snow accumulation expected. |
+| Overnight | Partly cloudy. Low around 38, with temperatures rising to around 40 overnight. Southwest wind around 10 mph, with gusts as high as 20 mph. |
+| Wednesday | A slight chance of drizzle between 10am and 1pm, then a chance of drizzle and scattered rain showers. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
+| Wednesday Night | A chance of drizzle and scattered rain and snow showers. Cloudy, with a low around 32. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
+| Thursday | A chance of snow. Cloudy, with a high near 35. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
