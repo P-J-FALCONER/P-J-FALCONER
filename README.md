@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 29. East wind 0 to 5 mph. |
-| Sunday | Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. South wind 0 to 5 mph. |
+| Tonight | Cloudy, with a low around 30. South southeast wind 0 to 5 mph. |
+| Sunday | Mostly cloudy, with a high near 32. West southwest wind 0 to 5 mph. |
 | Sunday Night | Partly cloudy, with a low around 26. West southwest wind 5 to 10 mph. |
 | Monday | Mostly sunny, with a high near 39. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 
