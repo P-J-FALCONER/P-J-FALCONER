@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. West wind 0 to 5 mph. |
+| Today | Cloudy, with a high near 32. West wind around 5 mph. |
 | Tonight | Mostly cloudy, with a low around 26. West southwest wind 5 to 10 mph. |
 | Monday | Partly sunny, with a high near 38. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 | Monday Night | Mostly cloudy, with a low around 33. South southwest wind around 5 mph, with gusts as high as 15 mph. |
