@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 26. West southwest wind 5 to 10 mph. |
-| Monday | Partly sunny. High near 41, with temperatures falling to around 38 in the afternoon. Southwest wind around 10 mph. |
+| Overnight | Patchy fog. Cloudy, with a low around 26. West southwest wind around 10 mph. |
+| Monday | Patchy fog before 9am. Partly sunny. High near 41, with temperatures falling to around 38 in the afternoon. Southwest wind around 10 mph. |
 | Monday Night | Mostly cloudy, with a low around 35. South southwest wind around 10 mph. |
 | Tuesday | Partly sunny, with a high near 44. Southwest wind 5 to 10 mph. |
 
