@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Cloudy, with a low around 26. Northwest wind 5 to 10 mph. |
-| Saturday | Mostly sunny, with a high near 33. West southwest wind around 5 mph. |
-| Saturday Night | Partly cloudy, with a low around 30. South wind 10 to 15 mph. |
-| Sunday | Mostly cloudy, with a high near 44. South wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Overnight | Cloudy, with a low around 24. Northwest wind around 5 mph. |
+| Saturday | Mostly cloudy, with a high near 33. West southwest wind around 5 mph. |
+| Saturday Night | Mostly cloudy, with a low around 30. South wind 10 to 15 mph. |
+| Sunday | Partly sunny, with a high near 42. South wind 15 to 20 mph, with gusts as high as 30 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
