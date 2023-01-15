@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 31. South wind around 5 mph. |
-| Tonight | Mostly cloudy, with a low around 28. South wind 5 to 15 mph. |
+| Overnight | Mostly cloudy, with a low around 28. South wind 10 to 15 mph. |
 | Sunday | Partly sunny. High near 40, with temperatures falling to around 38 in the afternoon. South wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Sunday Night | A slight chance of rain showers after 3am. Mostly cloudy, with a low around 36. South southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. |
+| Sunday Night | A slight chance of rain showers after 3am. Mostly cloudy. Low around 36, with temperatures rising to around 39 overnight. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| M.L. King Jr. Day | Rain showers. Cloudy, with a high near 48. South southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
