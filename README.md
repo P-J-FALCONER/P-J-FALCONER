@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 21. West wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Saturday | Snow likely after 9am. Cloudy. High near 32, with temperatures falling to around 30 in the afternoon. Southeast wind 0 to 10 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible. |
-| Saturday Night | Snow. Cloudy. Low around 26, with temperatures rising to around 28 overnight. North northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible. |
-| Sunday | A chance of snow before noon. Cloudy, with a high near 29. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
+| Overnight | Mostly cloudy, with a low around 21. West wind around 5 mph. |
+| Saturday | Snow likely after 9am. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. North northeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
+| Saturday Night | Snow likely before 9pm, then snow and a slight chance of freezing rain. Cloudy. Low around 27, with temperatures rising to around 29 overnight. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. Little or no ice accumulation expected. |
+| Sunday | A chance of snow showers before noon. Cloudy, with a high near 29. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
