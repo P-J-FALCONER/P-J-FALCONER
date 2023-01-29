@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Snow. Cloudy. High near 31, with temperatures falling to around 29 in the afternoon. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Tonight | Snow likely before 9pm, then snow and a slight chance of freezing rain. Cloudy. Low around 27, with temperatures rising to around 29 overnight. Northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. Little or no ice accumulation expected. |
-| Sunday | A chance of snow showers before noon. Cloudy. High near 29, with temperatures falling to around 26 in the afternoon. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
-| Sunday Night | A chance of snow showers before midnight, then a slight chance of snow. Mostly cloudy, with a low around 14. North northwest wind 10 to 15 mph. Chance of precipitation is 20%. |
+| This Afternoon | Snow likely. Cloudy, with a high near 30. East northeast wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Tonight | Snow before 2am, then snow likely and a slight chance of freezing rain. Cloudy, with a low around 29. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
+| Sunday | A chance of snow before noon, then a chance of snow showers. Cloudy. High near 29, with temperatures falling to around 27 in the afternoon. North wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
+| Sunday Night | A chance of snow showers. Cloudy, with a low around 15. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
