@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Rain. Cloudy, with a low around 35. East northeast wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Thursday | Rain before noon, then a chance of rain showers. Cloudy. High near 44, with temperatures falling to around 35 in the afternoon. South southwest wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Thursday Night | A slight chance of rain and snow showers before midnight. Cloudy, with a low around 31. West northwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. |
-| Friday | Partly sunny, with a high near 34. Northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Today | Rain and a slight chance of thunderstorms before 9am, then rain showers likely between 9am and 5pm, then a chance of rain and snow showers. Cloudy. High near 46, with temperatures falling to around 36 in the afternoon. West southwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tonight | A chance of rain and snow showers before 7pm, then a chance of rain and snow showers between 7pm and 11pm. Cloudy. Low around 31, with temperatures rising to around 34 overnight. West northwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Mostly sunny. High near 34, with temperatures falling to around 30 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Friday Night | Mostly clear, with a low around 21. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
