@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sleet and rain and snow before 3pm, then rain and a slight chance of sleet between 3pm and 4pm, then a slight chance of sleet and rain and snow between 4pm and 5pm, then freezing rain and a slight chance of sleet and a slight chance of rain and snow. Cloudy. High near 36, with temperatures falling to around 33 in the afternoon. Northeast wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Tonight | Snow and a slight chance of freezing rain before 9pm, then snow and patchy blowing snow. Mostly cloudy. Low around 20, with temperatures rising to around 22 overnight. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. Little or no ice accumulation expected. |
-| Friday | Sunny, with a high near 27. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Friday Night | Mostly clear, with a low around 22. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. |
+| Tonight | Freezing drizzle and rain and snow before 8pm, then freezing drizzle and rain and snow between 8pm and midnight, then snow showers. Cloudy. Low around 21, with temperatures rising to around 25 overnight. North wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected. |
+| Friday | A slight chance of snow showers before 7am. Mostly sunny. High near 28, with temperatures falling to around 26 in the afternoon. West northwest wind 10 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Friday Night | Mostly clear. Low around 21, with temperatures rising to around 26 overnight. West southwest wind 10 to 20 mph, with gusts as high as 30 mph. |
+| Saturday | Mostly sunny, with a high near 41. Southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
