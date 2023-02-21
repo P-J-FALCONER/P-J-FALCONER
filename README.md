@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Washington&#39;s Birthday | Sunny, with a high near 41. South southeast wind around 5 mph, with gusts as high as 10 mph. |
-| Tonight | Partly cloudy. Low around 26, with temperatures rising to around 31 overnight. Southwest wind 5 to 20 mph, with gusts as high as 35 mph. |
-| Tuesday | Sunny. High near 38, with temperatures falling to around 36 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 35 mph. |
-| Tuesday Night | Mostly cloudy, with a low around 33. East southeast wind 5 to 15 mph. |
+| Tonight | Mostly cloudy. Low around 26, with temperatures rising to around 31 overnight. West wind 15 to 20 mph, with gusts as high as 35 mph. |
+| Tuesday | Sunny, with a high near 36. West wind 5 to 20 mph, with gusts as high as 35 mph. |
+| Tuesday Night | Mostly cloudy. Low around 33, with temperatures rising to around 36 overnight. East southeast wind 5 to 15 mph. |
+| Wednesday | Rain and a slight chance of sleet. Cloudy, with a high near 37. East wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
