@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of rain and a slight chance of sleet after 4am. Cloudy. Low around 33, with temperatures rising to around 35 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
-| Wednesday | Rain before noon, then rain and a slight chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 37. East northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
-| Wednesday Night | Rain. Cloudy, with a low around 35. East northeast wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | Partly sunny, with a high near 46. Southwest wind 10 to 25 mph, with gusts as high as 40 mph. |
+| Overnight | A chance of rain. Cloudy. Low around 32, with temperatures rising to around 34 overnight. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Rain before noon, then rain and a slight chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 36. East northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Wednesday Night | Rain. Cloudy, with a low around 34. East northeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday | Partly sunny, with a high near 44. Southwest wind 10 to 25 mph, with gusts as high as 40 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
