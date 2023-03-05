@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Patchy fog before 2am. Mostly clear, with a low around 33. West northwest wind around 5 mph, with gusts as high as 15 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday | Partly sunny, with a high near 40. North northeast wind 5 to 10 mph. |
-| Sunday Night | Scattered rain showers before midnight, then a chance of showers and thunderstorms. Mostly cloudy. Low around 38, with temperatures rising to around 42 overnight. East southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Monday | A chance of rain. Mostly cloudy, with a high near 58. Southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
+| Today | Mostly sunny, with a high near 40. Northeast wind 5 to 10 mph. |
+| Tonight | A chance of rain showers between 9pm and midnight, then showers and thunderstorms likely. Mostly cloudy. Low around 38, with temperatures rising to around 43 overnight. Southeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | A chance of showers and thunderstorms. Mostly cloudy. High near 56, with temperatures falling to around 51 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday Night | Mostly cloudy, with a low around 35. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
