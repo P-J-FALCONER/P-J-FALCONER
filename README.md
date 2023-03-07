@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Cloudy, with a low around 35. North wind around 20 mph, with gusts as high as 30 mph. |
-| Tuesday | Mostly sunny. High near 38, with temperatures falling to around 36 in the afternoon. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Tuesday Night | Mostly cloudy, with a low around 33. East northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Wednesday | Partly sunny, with a high near 39. East northeast wind 10 to 15 mph. |
+| Overnight | Cloudy, with a low around 36. North northeast wind around 15 mph, with gusts as high as 25 mph. |
+| Tuesday | Mostly sunny. High near 38, with temperatures falling to around 36 in the afternoon. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday Night | Mostly cloudy, with a low around 33. East northeast wind around 10 mph. |
+| Wednesday | Partly sunny, with a high near 38. East northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
