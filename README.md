@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Snow. Cloudy, with a low around 33. East southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. |
-| Sunday | A chance of snow before noon, then a slight chance of rain and snow between noon and 1pm, then a chance of rain and snow showers between 1pm and 4pm, then a chance of rain and snow showers. Cloudy, with a high near 38. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
-| Sunday Night | A chance of rain and snow showers. Mostly cloudy, with a low around 30. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. Little or no snow accumulation expected. |
-| Monday | Isolated snow showers before 7am, then a chance of snow. Cloudy, with a high near 34. Northwest wind 15 to 20 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. |
+| Today | A chance of snow before 7am, then scattered snow showers between 7am and 9am, then a chance of rain and snow showers. Cloudy, with a high near 37. South southeast wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. |
+| Tonight | A chance of rain and snow showers. Mostly cloudy, with a low around 30. West wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
+| Monday | Scattered snow showers. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. Northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
+| Monday Night | Scattered snow showers before 1am. Mostly cloudy, with a low around 23. North northwest wind 15 to 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
