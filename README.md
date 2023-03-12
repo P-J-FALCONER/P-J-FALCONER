@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. East wind around 10 mph. |
-| Tonight | A slight chance of rain between 7pm and 8pm, then rain and snow. Cloudy, with a low around 32. East wind 10 to 15 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. |
-| Sunday | Rain and snow before 7am, then a chance of rain and snow showers. Cloudy, with a high near 36. South southeast wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Sunday Night | A chance of rain and snow showers. Mostly cloudy, with a low around 30. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
+| Tonight | Rain and snow after 8pm. Cloudy, with a low around 33. East wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
+| Sunday | A chance of snow before noon, then a slight chance of rain and snow between noon and 1pm, then a chance of rain and snow showers between 1pm and 4pm, then a chance of rain and snow showers. Cloudy, with a high near 38. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
+| Sunday Night | A chance of rain and snow showers. Mostly cloudy, with a low around 30. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. Little or no snow accumulation expected. |
+| Monday | Isolated snow showers before 7am, then a chance of snow. Cloudy, with a high near 34. Northwest wind 15 to 20 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
