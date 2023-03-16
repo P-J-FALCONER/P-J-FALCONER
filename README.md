@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 41. South southwest wind around 15 mph, with gusts as high as 30 mph. |
-| Thursday | Rain after 10am. Cloudy. High near 51, with temperatures falling to around 48 in the afternoon. South southwest wind around 15 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday Night | Rain. Cloudy. Low around 34, with temperatures rising to around 39 overnight. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
-| Friday | A chance of rain before 7am, then a chance of rain and snow between 7am and 10am. Partly sunny, with a high near 39. West northwest wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. |
+| Today | Periods of rain showers after 11am. Cloudy. High near 52, with temperatures falling to around 48 in the afternoon. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Periods of rain showers. Cloudy. Low around 34, with temperatures rising to around 39 overnight. West southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Friday | A chance of rain showers before 7am, then a chance of rain and snow showers between 7am and 9am. Partly sunny, with a high near 38. West northwest wind around 25 mph, with gusts as high as 40 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Friday Night | Partly cloudy, with a low around 18. West wind around 20 mph, with gusts as high as 35 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
