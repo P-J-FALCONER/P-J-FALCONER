@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Periods of drizzle before 11am, then rain and snow. Cloudy, with a high near 38. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. |
-| Tonight | Mostly clear, with a low around 30. West wind 5 to 15 mph, with gusts as high as 25 mph. Little or no snow accumulation expected. |
+| This Afternoon | Snow before 4pm, then a chance of rain and snow between 4pm and 5pm, then a slight chance of rain and snow. Cloudy, with a high near 38. West northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. |
+| Tonight | Mostly clear, with a low around 30. West wind 5 to 10 mph, with gusts as high as 25 mph. New snow accumulation of less than half an inch possible. |
 | Sunday | Partly sunny. High near 42, with temperatures falling to around 39 in the afternoon. North wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible. |
 | Sunday Night | A chance of rain after 7pm. Mostly cloudy, with a low around 34. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
 
