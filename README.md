@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Snow before 4pm, then a chance of rain and snow between 4pm and 5pm, then a slight chance of rain and snow. Cloudy, with a high near 38. West northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. |
-| Tonight | Mostly clear, with a low around 30. West wind 5 to 10 mph, with gusts as high as 25 mph. New snow accumulation of less than half an inch possible. |
-| Sunday | Partly sunny. High near 42, with temperatures falling to around 39 in the afternoon. North wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | A chance of rain after 7pm. Mostly cloudy, with a low around 34. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
+| Tonight | Mostly clear, with a low around 32. West southwest wind 0 to 10 mph. |
+| Sunday | A chance of rain showers between 10am and 11am, then a chance of rain and snow showers between 11am and 4pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 39. North northeast wind 0 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday Night | A chance of showers and thunderstorms before 7pm, then a chance of rain and snow showers between 7pm and 10pm, then a slight chance of snow. Mostly cloudy, with a low around 35. North northeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | A slight chance of snow before 7am, then a slight chance of rain between 7am and 1pm. Partly sunny, with a high near 40. North northeast wind 10 to 15 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
