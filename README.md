@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Partly sunny, with a high near 46. West northwest wind 0 to 10 mph. |
+| This Afternoon | Mostly sunny. High near 45, with temperatures falling to around 40 in the afternoon. West wind 5 to 10 mph. |
 | Tonight | Partly cloudy. Low around 32, with temperatures rising to around 34 overnight. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 | Wednesday | A chance of snow between 7am and 1pm. Partly sunny, with a high near 40. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
 | Wednesday Night | Mostly clear, with a low around 27. Northeast wind 5 to 10 mph. |
