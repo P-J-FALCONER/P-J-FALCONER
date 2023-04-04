@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Showers and thunderstorms. Cloudy. Low around 42, with temperatures rising to around 44 overnight. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday | Scattered showers and thunderstorms before 7am, then a chance of rain showers and a chance of drizzle between 7am and 8am, then a chance of drizzle and a slight chance of rain showers between 8am and 3pm, then a chance of showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 55 in the afternoon. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Overnight | Showers and thunderstorms. Cloudy, with a low around 42. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tuesday | Scattered showers and thunderstorms before 7am, then a chance of rain showers and a chance of drizzle between 7am and 8am, then a chance of drizzle and a slight chance of rain showers between 8am and 3pm, then a chance of showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 55 in the afternoon. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Tuesday Night | A chance of showers and thunderstorms. Mostly cloudy. Low around 58, with temperatures rising to around 69 overnight. South southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Wednesday | Showers and thunderstorms likely. Mostly cloudy, with a high near 71. Southwest wind 20 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. |
 
