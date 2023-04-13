@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Clear. Low around 56, with temperatures rising to around 58 overnight. Southwest wind 10 to 15 mph. |
+| Overnight | Clear. Low around 55, with temperatures rising to around 57 overnight. Southwest wind 10 to 15 mph. |
 | Thursday | Sunny, with a high near 82. Southwest wind 10 to 15 mph. |
 | Thursday Night | Mostly clear, with a low around 51. South southwest wind 5 to 15 mph. |
 | Friday | Partly sunny, with a high near 70. South southeast wind 5 to 10 mph. |
