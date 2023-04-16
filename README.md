@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Showers and thunderstorms before 4am, then scattered showers and thunderstorms. Mostly cloudy, with a low around 57. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Sunday | Showers and thunderstorms. Cloudy. High near 58, with temperatures falling to around 40 in the afternoon. South southwest wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Overnight | Showers and thunderstorms before 4am, then scattered showers and thunderstorms. Cloudy. Low around 57, with temperatures rising to around 59 overnight. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | Showers and thunderstorms. Cloudy. High near 58, with temperatures falling to around 40 in the afternoon. South southwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Sunday Night | Rain showers before 7pm, then rain likely between 7pm and 10pm, then rain and snow. Cloudy, with a low around 34. West southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
 | Monday | Rain and snow. Cloudy, with a high near 42. West northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
 
