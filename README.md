@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered snow showers before 2pm, then scattered rain and snow showers between 2pm and 5pm, then a slight chance of rain and snow showers. Cloudy, with a high near 41. West northwest wind around 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
-| Tonight | A slight chance of rain and snow showers before 7pm. Mostly cloudy, with a low around 35. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | Sunny, with a high near 53. North northwest wind 10 to 15 mph. |
-| Tuesday Night | A slight chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 41. East wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | Mostly cloudy, with a low around 35. West northwest wind 10 to 25 mph, with gusts as high as 40 mph. |
+| Tuesday | Sunny, with a high near 52. North northwest wind 10 to 15 mph. |
+| Tuesday Night | Mostly clear, with a low around 42. East wind 5 to 10 mph. |
+| Wednesday | A slight chance of rain showers between 7am and 4pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 64. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
