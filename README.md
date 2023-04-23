@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Scattered rain and snow showers before 4pm, then scattered rain and snow showers. Mostly cloudy, with a high near 45. West northwest wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| This Afternoon | Scattered rain and snow showers before 4pm, then scattered rain and snow showers. Mostly cloudy, with a high near 45. West wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Tonight | Scattered rain and snow showers before 7pm, then isolated rain and snow showers between 7pm and 9pm, then areas of frost. Partly cloudy, with a low around 35. West wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
 | Monday | Mostly sunny, with a high near 49. North northwest wind 5 to 10 mph. |
 | Monday Night | A chance of rain showers after 7pm. Mostly cloudy, with a low around 41. Southeast wind 5 to 10 mph. Chance of precipitation is 40%. |
