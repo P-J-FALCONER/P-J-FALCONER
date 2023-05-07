@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Showers and thunderstorms after 10pm. Mostly cloudy, with a low around 60. South wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday | A slight chance of showers and thunderstorms after 3pm. Partly sunny. High near 71, with temperatures falling to around 60 in the afternoon. West northwest wind 5 to 15 mph. Chance of precipitation is 20%. New rainfall amounts between a quarter and half of an inch possible. |
-| Sunday Night | Showers and thunderstorms likely. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 50. Northeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Monday | Showers and thunderstorms likely before 7am, then showers and thunderstorms likely. Some of the storms could produce heavy rain. Cloudy, with a high near 61. East northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. |
+| Overnight | Scattered showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 61. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday | Partly sunny. High near 73, with temperatures falling to around 56 in the afternoon. West northwest wind 5 to 15 mph. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday Night | A chance of showers and thunderstorms after 7pm. Mostly cloudy. Low around 49, with temperatures rising to around 51 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Monday | A chance of showers and thunderstorms before 1pm. Cloudy, with a high near 61. East northeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
