@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog and a chance of showers and thunderstorms before 2am, then patchy fog and a slight chance of showers and thunderstorms between 2am and 3am, then patchy fog and a chance of showers and thunderstorms. Cloudy, with a low around 51. East northeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Monday | Patchy fog and a chance of showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. East northeast wind 5 to 15 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
-| Monday Night | Scattered showers and thunderstorms. Mostly cloudy, with a low around 48. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A slight chance of showers and thunderstorms before 7am. Mostly sunny, with a high near 58. North northeast wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Today | Rain showers and patchy fog before 11am, then patchy fog and showers and thunderstorms likely. Cloudy, with a high near 56. East northeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Patchy fog and a chance of showers and thunderstorms before 7pm, then a slight chance of rain showers and a slight chance of drizzle between 7pm and 1am. Mostly cloudy, with a low around 48. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | Mostly sunny, with a high near 58. North northeast wind 5 to 10 mph. |
+| Tuesday Night | Mostly clear, with a low around 47. Northeast wind around 5 mph, with gusts as high as 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
