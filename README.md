@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny. High near 72, with temperatures falling to around 68 in the afternoon. Southeast wind 5 to 15 mph. |
-| Tonight | A chance of showers and thunderstorms after 4am. Mostly cloudy, with a low around 57. East southeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | Showers and thunderstorms likely before 4pm, then a chance of showers and thunderstorms. Cloudy. High near 61, with temperatures falling to around 59 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
-| Friday Night | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 53. Northeast wind 5 to 10 mph. Chance of precipitation is 50%. |
+| This Afternoon | Sunny. High near 78, with temperatures falling to around 73 in the afternoon. East wind 10 to 15 mph. |
+| Tonight | Scattered showers and thunderstorms after 4am. Mostly cloudy, with a low around 57. East wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Showers and thunderstorms likely before 4pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 65, with temperatures falling to around 59 in the afternoon. East northeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Friday Night | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 54. Northeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
