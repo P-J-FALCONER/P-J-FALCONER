@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 70. Northeast wind around 10 mph. |
 | Tonight | Partly cloudy, with a low around 56. North northeast wind 5 to 10 mph. |
-| Memorial Day | Mostly sunny, with a high near 74. North northeast wind 5 to 10 mph. |
+| Memorial Day | Mostly sunny. High near 75, with temperatures falling to around 73 in the afternoon. North northeast wind 5 to 10 mph. |
 | Monday Night | Partly cloudy, with a low around 58. Northeast wind 5 to 10 mph. |
+| Tuesday | Sunny, with a high near 74. East northeast wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
