@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Haze before 8am. Mostly sunny. High near 77, with temperatures falling to around 74 in the afternoon. Northeast wind 10 to 15 mph. |
-| Tonight | Haze after 2am. Partly cloudy, with a low around 58. Northeast wind 5 to 15 mph. |
+| This Afternoon | Haze before 3pm. Mostly sunny, with a high near 75. Northeast wind around 15 mph. |
+| Tonight | Haze after 4am. Partly cloudy, with a low around 58. Northeast wind 5 to 15 mph. |
 | Monday | Haze before 5pm. Mostly sunny, with a high near 76. East northeast wind 0 to 5 mph. |
-| Monday Night | Mostly cloudy, with a low around 61. Northeast wind around 5 mph, with gusts as high as 10 mph. |
+| Monday Night | Mostly cloudy, with a low around 61. East northeast wind around 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
