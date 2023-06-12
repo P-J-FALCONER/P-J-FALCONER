@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of rain showers before 4pm. Mostly cloudy. High near 59, with temperatures falling to around 56 in the afternoon. North wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Partly cloudy, with a low around 51. North wind 15 to 20 mph, with gusts as high as 35 mph. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | A slight chance of rain showers after 1pm. Sunny. High near 70, with temperatures falling to around 68 in the afternoon. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday Night | A chance of rain showers. Mostly cloudy, with a low around 59. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
+| Tonight | Isolated rain showers before 8pm. Partly cloudy, with a low around 51. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. |
+| Monday | A slight chance of rain showers after 4pm. Sunny, with a high near 69. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday Night | A chance of rain showers. Mostly cloudy, with a low around 58. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tuesday | Rain showers likely before 4pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 72. West northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
