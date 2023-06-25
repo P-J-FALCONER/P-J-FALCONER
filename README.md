@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of showers and thunderstorms between 11pm and midnight, then showers and thunderstorms likely between midnight and 4am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 69. South southeast wind 10 to 15 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Sunday | A slight chance of showers and thunderstorms between 7am and 10am, then a chance of showers and thunderstorms between 10am and 11am, then a chance of showers and thunderstorms. Partly sunny. High near 85, with temperatures falling to around 79 in the afternoon. Southwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Overnight | Showers and thunderstorms. Mostly cloudy, with a low around 69. South wind 10 to 15 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | A slight chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 11am, then a chance of showers and thunderstorms. Partly sunny. High near 85, with temperatures falling to around 79 in the afternoon. Southwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Sunday Night | A chance of showers and thunderstorms before 7pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 65. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Monday | Showers and thunderstorms likely. Mostly cloudy, with a high near 75. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
 
