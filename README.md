@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Smoke before noon, then smoke and a slight chance of showers and thunderstorms. Partly sunny, with a high near 77. East southeast wind 0 to 5 mph. Chance of precipitation is 20%. |
-| Tonight | Smoke before 7pm, then areas of smoke and a slight chance of showers and thunderstorms between 7pm and 10pm, then patchy smoke and a chance of showers and thunderstorms. Mostly cloudy, with a low around 67. Southeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| This Afternoon | Smoke before 5pm, then smoke and a slight chance of showers and thunderstorms. Partly sunny, with a high near 77. East southeast wind around 5 mph. Chance of precipitation is 20%. |
+| Tonight | Smoke and a slight chance of showers and thunderstorms before 10pm, then patchy smoke and a chance of showers and thunderstorms. Mostly cloudy, with a low around 67. Southeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday | Patchy smoke and a chance of showers and thunderstorms. Mostly sunny. High near 87, with temperatures falling to around 85 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Thursday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 69. Southwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 40%. |
 
