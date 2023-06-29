@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Areas of smoke before 11pm, then patchy smoke and a slight chance of showers and thunderstorms between 11pm and 4am, then patchy smoke and a chance of showers and thunderstorms. Mostly cloudy, with a low around 67. Southeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Patchy smoke and a chance of showers and thunderstorms. Partly sunny, with a high near 87. South southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 71. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Overnight | Smoke and a chance of showers and thunderstorms. Mostly cloudy, with a low around 67. South southeast wind around 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Smoke and a chance of showers and thunderstorms before 7am, then haze and a chance of showers and thunderstorms. Partly sunny, with a high near 87. South southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday Night | Haze and a chance of showers and thunderstorms. Partly cloudy, with a low around 71. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
 | Friday | A slight chance of showers and thunderstorms before 1pm, then a chance of showers and thunderstorms between 1pm and 4pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 80. North northwest wind 5 to 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
