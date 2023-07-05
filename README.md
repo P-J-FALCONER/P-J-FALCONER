@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A chance of showers and thunderstorms after 3pm. Mostly sunny. High near 91, with temperatures falling to around 86 in the afternoon. Heat index values as high as 95. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tonight | Showers and thunderstorms likely before 1am, then a chance of showers and thunderstorms. Cloudy, with a low around 67. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| This Afternoon | A chance of showers and thunderstorms. Mostly sunny. High near 91, with temperatures falling to around 86 in the afternoon. Heat index values as high as 97. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Showers and thunderstorms before 10pm, then a chance of showers and thunderstorms between 10pm and 4am, then a chance of showers and thunderstorms. Cloudy, with a low around 67. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible. |
 | Thursday | A chance of showers and thunderstorms before 10am. Partly sunny, with a high near 73. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday Night | Mostly clear, with a low around 62. North wind 5 to 15 mph. |
 
