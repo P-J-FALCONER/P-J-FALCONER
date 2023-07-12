@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 3am, then a chance of showers and thunderstorms between 3am and 4am, then showers and thunderstorms likely between 4am and 5am, then showers and thunderstorms likely. Mostly cloudy, with a low around 65. East wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday | Showers and thunderstorms likely before 7am, then showers and thunderstorms likely. Cloudy. High near 76, with temperatures falling to around 73 in the afternoon. South southeast wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between 1 and 2 inches possible. |
-| Wednesday Night | Showers and thunderstorms likely before 7pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 67. North northwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Thursday | A chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 4pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 78. North northwest wind 5 to 10 mph. Chance of precipitation is 40%. |
+| Today | Scattered showers and thunderstorms before 7am, then a chance of showers and thunderstorms between 7am and 9am, then scattered showers and thunderstorms between 9am and noon, then showers and thunderstorms. Cloudy, with a high near 75. South southeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible. |
+| Tonight | A chance of showers and thunderstorms before 7pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. North northwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Thursday | A chance of showers and thunderstorms. Partly sunny, with a high near 78. North northwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | A chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 68. South wind 5 to 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
