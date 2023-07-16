@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Areas of smoke before 8am, then haze. Partly sunny, with a high near 83. West wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Tonight | Areas of smoke before 8pm, then areas of smoke and a chance of showers and thunderstorms between 8pm and 10pm, then haze and a chance of showers and thunderstorms between 10pm and 5am, then areas of smoke. Mostly cloudy, with a low around 64. West southwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| This Afternoon | Haze. Partly sunny, with a high near 82. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Areas of smoke before 9pm, then areas of smoke and a slight chance of showers and thunderstorms between 9pm and 10pm, then haze and a chance of showers and thunderstorms between 10pm and 5am, then areas of smoke. Mostly cloudy, with a low around 64. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Monday | Areas of smoke before 7am, then haze between 7am and 9am. Mostly sunny. High near 77, with temperatures falling to around 75 in the afternoon. North northwest wind 5 to 10 mph. |
 | Monday Night | Partly cloudy, with a low around 64. West northwest wind 5 to 10 mph. |
 
