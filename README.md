@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Haze. Partly cloudy, with a low around 67. West southwest wind 5 to 10 mph. |
-| Sunday | Haze before 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then haze and a chance of showers and thunderstorms. Mostly sunny, with a high near 84. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
-| Sunday Night | Haze and a chance of showers and thunderstorms before 7pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 66. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
-| Monday | A chance of showers and thunderstorms before 7am. Sunny, with a high near 77. North northwest wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Overnight | Haze. Partly cloudy, with a low around 65. West wind 5 to 10 mph. |
+| Sunday | Haze. Mostly sunny. High near 82, with temperatures falling to around 79 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Sunday Night | Haze before 7pm, then a chance of showers and thunderstorms between 7pm and 1am. Mostly cloudy, with a low around 66. West southwest wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Monday | Sunny, with a high near 77. North northwest wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
