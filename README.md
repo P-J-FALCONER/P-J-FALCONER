@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Haze before noon. Sunny. High near 86, with temperatures falling to around 84 in the afternoon. South southeast wind 5 to 10 mph. |
-| Tonight | A chance of showers and thunderstorms after 3am. Partly cloudy, with a low around 73. Southeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms. Partly sunny. High near 88, with temperatures falling to around 86 in the afternoon. South southwest wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday Night | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms between 10pm and 1am. Partly cloudy, with a low around 73. East southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. |
+| This Afternoon | Haze before 4pm. Sunny. High near 87, with temperatures falling to around 85 in the afternoon. Southeast wind around 10 mph. |
+| Tonight | A chance of showers and thunderstorms after 3am. Partly cloudy, with a low around 73. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms. Partly sunny. High near 88, with temperatures falling to around 86 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms between 10pm and 1am. Partly cloudy, with a low around 73. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
