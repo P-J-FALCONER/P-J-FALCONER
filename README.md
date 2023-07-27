@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of showers and thunderstorms before 11am, then scattered showers and thunderstorms between 11am and 2pm, then a slight chance of showers and thunderstorms. Mostly cloudy, with a high near 89. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between three quarters and one inch possible. |
-| Tonight | A slight chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 72. West northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Thursday | Sunny. High near 83, with temperatures falling to around 80 in the afternoon. Northeast wind 5 to 10 mph. |
-| Thursday Night | A slight chance of showers and thunderstorms after 1am. Partly cloudy, with a low around 75. Southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | A slight chance of showers and thunderstorms before 9pm. Partly cloudy, with a low around 73. North wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Sunny, with a high near 83. Northeast wind 5 to 10 mph. |
+| Thursday Night | Partly cloudy, with a low around 75. East southeast wind around 5 mph. |
+| Friday | A chance of showers and thunderstorms after 7am. Mostly sunny, with a high near 95. Heat index values as high as 103. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
