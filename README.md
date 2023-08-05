@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 71. East northeast wind 5 to 10 mph. |
-| Saturday | A chance of rain between 8am and 1pm, then rain likely and a slight chance of thunderstorms between 1pm and 4pm, then showers and thunderstorms likely. Cloudy, with a high near 76. East wind 5 to 15 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
-| Saturday Night | Showers and thunderstorms likely. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 68. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between 1 and 2 inches possible. |
-| Sunday | A chance of rain showers before 7am, then a chance of showers and thunderstorms. Partly sunny, with a high near 82. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. |
+| Today | A chance of rain showers after 9am. Cloudy, with a high near 76. East wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | A chance of rain showers. Mostly cloudy, with a low around 68. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 75 in the afternoon. East northeast wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday Night | A slight chance of showers and thunderstorms before 7pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 68. East wind 5 to 10 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
