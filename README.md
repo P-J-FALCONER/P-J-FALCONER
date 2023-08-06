@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of rain showers. Cloudy. High near 75, with temperatures falling to around 72 in the afternoon. East wind 10 to 15 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tonight | Scattered rain showers. Mostly cloudy, with a low around 68. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Sunday | A slight chance of rain showers before 7am, then a slight chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 75 in the afternoon. East northeast wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | A slight chance of showers and thunderstorms before 7pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 68. East wind 5 to 10 mph. Chance of precipitation is 70%. |
+| Tonight | Scattered rain showers. Cloudy, with a low around 67. East northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | A chance of rain showers before 1pm. Mostly cloudy, with a high near 75. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday Night | Showers and thunderstorms likely after 7pm. Cloudy. Low around 67, with temperatures rising to around 69 overnight. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | Showers and thunderstorms. Mostly cloudy, with a high near 74. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
