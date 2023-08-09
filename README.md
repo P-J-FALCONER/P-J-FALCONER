@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly clear, with a low around 66. West southwest wind around 5 mph, with gusts as high as 10 mph. |
-| Wednesday | A slight chance of showers and thunderstorms between 2pm and 3pm, then a chance of showers and thunderstorms. Partly sunny. High near 85, with temperatures falling to around 80 in the afternoon. Southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | A chance of showers and thunderstorms before 1am. Mostly cloudy, with a low around 67. West southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Mostly sunny, with a high near 79. North northwest wind 5 to 10 mph. |
+| Today | Partly sunny, with a high near 84. Southwest wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of showers and thunderstorms before 10pm. Mostly cloudy, with a low around 67. West southwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Mostly sunny, with a high near 78. North wind 5 to 10 mph. |
+| Thursday Night | Mostly cloudy, with a low around 68. East southeast wind around 5 mph, with gusts as high as 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
