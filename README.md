@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny, with a high near 72. East northeast wind around 10 mph, with gusts as high as 20 mph. |
-| Tonight | Mostly clear, with a low around 62. East northeast wind 5 to 10 mph. |
+| This Afternoon | Sunny, with a high near 72. Northeast wind around 15 mph, with gusts as high as 25 mph. |
+| Tonight | Clear, with a low around 62. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Monday | Sunny, with a high near 74. East southeast wind 5 to 10 mph. |
 | Monday Night | Mostly clear, with a low around 63. South southeast wind 5 to 10 mph. |
 
