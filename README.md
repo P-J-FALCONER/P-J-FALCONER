@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny. High near 89, with temperatures falling to around 87 in the afternoon. South wind around 15 mph, with gusts as high as 25 mph. |
-| Tonight | Scattered showers and thunderstorms after midnight. Mostly cloudy, with a low around 73. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Isolated rain showers. Mostly sunny. High near 87, with temperatures falling to around 83 in the afternoon. Southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | A slight chance of rain showers. Mostly cloudy, with a low around 65. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Tonight | A chance of showers and thunderstorms after midnight. Mostly cloudy, with a low around 73. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms. Mostly sunny. High near 85, with temperatures falling to around 83 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | A slight chance of showers and thunderstorms. Mostly cloudy. Low around 64, with temperatures rising to around 66 overnight. West northwest wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A slight chance of rain showers before 7am. Mostly cloudy, with a high near 70. North northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
