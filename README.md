@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 73. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms between 7am and 8am, then a slight chance of showers and thunderstorms. Mostly sunny. High near 85, with temperatures falling to around 83 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | A slight chance of showers and thunderstorms. Mostly cloudy. Low around 64, with temperatures rising to around 66 overnight. West northwest wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | A slight chance of rain showers before 7am. Mostly cloudy, with a high near 70. North northwest wind 10 to 15 mph. Chance of precipitation is 20%. |
+| Today | Scattered showers and thunderstorms. Mostly sunny. High near 84, with temperatures falling to around 80 in the afternoon. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Isolated rain showers before 1am. Mostly cloudy. Low around 64, with temperatures rising to around 66 overnight. West northwest wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Mostly cloudy. High near 69, with temperatures falling to around 67 in the afternoon. North northwest wind 10 to 15 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | Mostly cloudy, with a low around 62. North wind around 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
