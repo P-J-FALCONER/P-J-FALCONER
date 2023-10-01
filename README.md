@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny. High near 77, with temperatures falling to around 75 in the afternoon. Southeast wind around 5 mph. |
+| This Afternoon | Sunny. High near 77, with temperatures falling to around 75 in the afternoon. East southeast wind around 5 mph. |
 | Tonight | Mostly clear, with a low around 63. Southeast wind around 5 mph. |
 | Monday | Sunny. High near 80, with temperatures falling to around 76 in the afternoon. South wind around 5 mph, with gusts as high as 10 mph. |
 | Monday Night | Clear, with a low around 63. South southeast wind around 5 mph. |
