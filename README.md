@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly cloudy. High near 82, with temperatures falling to around 79 in the afternoon. South southwest wind around 15 mph, with gusts as high as 25 mph. |
-| Tonight | A slight chance of rain showers before 1am, then a chance of showers and thunderstorms between 1am and 3am, then rain and a slight chance of thunderstorms. Cloudy. Low around 64, with temperatures rising to around 66 overnight. Southwest wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | Rain and a slight chance of thunderstorms before 10am, then a chance of rain showers. Mostly cloudy, with a high near 68. West southwest wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | A slight chance of rain showers before 7pm. Partly cloudy, with a low around 53. West southwest wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | A slight chance of rain showers before 8pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 64. Southwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Thursday | Showers and thunderstorms likely. Mostly cloudy, with a high near 71. Southwest wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday Night | A slight chance of rain showers before 7pm. Partly cloudy. Low around 53, with temperatures rising to around 56 overnight. West wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Friday | A chance of rain showers after 1pm. Mostly sunny, with a high near 62. West wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
