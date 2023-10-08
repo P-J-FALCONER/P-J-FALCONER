@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy, with a low around 45. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
-| Sunday | A slight chance of rain showers after 7am. Cloudy, with a high near 55. West northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Sunday Night | A slight chance of rain showers before 7pm. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Columbus Day | Sunny, with a high near 56. Northwest wind 10 to 15 mph. |
+| Overnight | Mostly cloudy, with a low around 45. Northwest wind 5 to 10 mph. |
+| Sunday | A slight chance of rain showers after 10am. Cloudy, with a high near 55. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Sunday Night | Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. Northwest wind 5 to 10 mph. |
+| Columbus Day | Sunny, with a high near 56. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
