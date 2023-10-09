@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Columbus Day | Sunny, with a high near 57. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Tonight | Mostly clear, with a low around 42. West northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Columbus Day | Mostly sunny, with a high near 57. West northwest wind around 15 mph, with gusts as high as 25 mph. |
+| Tonight | Mostly clear, with a low around 42. West northwest wind 5 to 10 mph. |
 | Tuesday | Mostly sunny, with a high near 58. West wind 10 to 15 mph. |
 | Tuesday Night | Mostly clear, with a low around 44. West wind 5 to 10 mph. |
 
