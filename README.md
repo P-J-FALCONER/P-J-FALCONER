@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Partly cloudy, with a low around 42. Northwest wind 5 to 10 mph. |
+| Overnight | Partly cloudy. Low around 42, with temperatures rising to around 44 overnight. Northwest wind 5 to 10 mph. |
 | Columbus Day | Sunny. High near 56, with temperatures falling to around 54 in the afternoon. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Monday Night | Partly cloudy, with a low around 42. West northwest wind around 10 mph, with gusts as high as 20 mph. |
 | Tuesday | Sunny, with a high near 58. West wind around 10 mph. |
