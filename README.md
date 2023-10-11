@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A chance of rain after 3pm. Mostly sunny. High near 62, with temperatures falling to around 59 in the afternoon. South southwest wind 0 to 5 mph, with gusts as high as 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Rain and a chance of thunderstorms. Cloudy. Low around 53, with temperatures rising to around 55 overnight. East wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
-| Thursday | Rain and a chance of thunderstorms. Cloudy, with a high near 58. East wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
-| Thursday Night | Rain likely before 7pm, then a chance of rain showers. Cloudy, with a low around 55. East wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. |
+| This Afternoon | A chance of rain after 4pm. Mostly sunny. High near 62, with temperatures falling to around 59 in the afternoon. Southeast wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Rain likely before 7pm, then rain and a chance of thunderstorms. Cloudy. Low around 53, with temperatures rising to around 55 overnight. East wind 5 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Thursday | Rain and a chance of thunderstorms. Cloudy, with a high near 58. East wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Thursday Night | Rain likely before 7pm, then a chance of rain showers. Cloudy, with a low around 55. East wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
