@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Cloudy, with a low around 53. East wind around 20 mph, with gusts as high as 35 mph. |
-| Friday | Rain showers between 7am and 4pm, then showers and thunderstorms. Cloudy, with a high near 58. East southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Friday Night | Showers and thunderstorms. Cloudy. Low around 54, with temperatures rising to around 56 overnight. East wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
-| Saturday | Showers and thunderstorms. Cloudy, with a high near 57. Northeast wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. |
+| Today | Rain showers between 8am and 2pm, then showers and thunderstorms. Cloudy, with a high near 59. East southeast wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible. |
+| Tonight | Showers and thunderstorms. Cloudy. Low around 54, with temperatures rising to around 56 overnight. East wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Saturday | Showers and thunderstorms. Cloudy. High near 56, with temperatures falling to around 54 in the afternoon. Northeast wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Saturday Night | Rain showers. Cloudy, with a low around 49. North northeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
