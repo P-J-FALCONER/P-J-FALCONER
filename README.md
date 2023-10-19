@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Periods of rain showers. Cloudy, with a low around 53. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Overnight | Scattered rain showers. Cloudy, with a low around 54. South wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday | Periods of rain showers. Cloudy, with a high near 62. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
 | Thursday Night | Scattered rain showers. Cloudy, with a low around 51. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
 | Friday | A slight chance of rain showers before 1pm. Partly sunny, with a high near 60. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
