@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy, with a low around 34. Northwest wind around 5 mph. |
-| Veterans Day | Sunny. High near 49, with temperatures falling to around 46 in the afternoon. Southwest wind around 5 mph. |
-| Saturday Night | Mostly cloudy. Low around 38, with temperatures rising to around 40 overnight. South southeast wind 5 to 10 mph. |
-| Sunday | Mostly sunny, with a high near 55. South wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Overnight | Mostly clear, with a low around 33. North northwest wind around 0 mph. |
+| Veterans Day | Sunny. High near 50, with temperatures falling to around 47 in the afternoon. Southwest wind 0 to 5 mph. |
+| Saturday Night | Mostly cloudy, with a low around 38. South southeast wind 5 to 10 mph. |
+| Sunday | Sunny, with a high near 57. South wind 10 to 15 mph, with gusts as high as 30 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
