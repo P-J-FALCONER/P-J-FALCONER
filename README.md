@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Scattered snow showers. Cloudy, with a low around 32. North northwest wind around 10 mph. |
-| New Year&#39;s Day | Scattered snow showers before 11am. Cloudy. High near 36, with temperatures falling to around 34 in the afternoon. West northwest wind 5 to 10 mph. |
-| Monday Night | Mostly cloudy, with a low around 27. West southwest wind 5 to 10 mph. |
-| Tuesday | Mostly sunny, with a high near 39. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. |
+| New Year&#39;s Day | Cloudy. High near 36, with temperatures falling to around 32 in the afternoon. West northwest wind around 10 mph. |
+| Tonight | Mostly cloudy, with a low around 27. West southwest wind around 10 mph, with gusts as high as 20 mph. |
+| Tuesday | Mostly sunny. High near 39, with temperatures falling to around 37 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Tuesday Night | Mostly cloudy, with a low around 29. West wind 5 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
