@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly cloudy. High near 35, with temperatures falling to around 33 in the afternoon. East wind 0 to 5 mph. |
+| This Afternoon | Partly sunny, with a high near 32. North wind 0 to 5 mph. |
 | Tonight | Mostly cloudy, with a low around 29. South southwest wind around 5 mph. |
 | Friday | Mostly cloudy. High near 37, with temperatures falling to around 35 in the afternoon. South wind 5 to 10 mph. |
 | Friday Night | A chance of snow after midnight. Cloudy, with a low around 31. Southeast wind 5 to 10 mph. Chance of precipitation is 40%. |
