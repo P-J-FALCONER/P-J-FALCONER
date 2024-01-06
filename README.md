@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Snow before noon, then a chance of snow and patchy fog. Cloudy, with a high near 34. South southeast wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible. |
-| Tonight | A chance of snow and patchy fog before 11pm, then patchy fog and a slight chance of snow. Cloudy, with a low around 31. West southwest wind 5 to 10 mph. Chance of precipitation is 30%. |
-| Sunday | Mostly cloudy. High near 37, with temperatures falling to around 35 in the afternoon. West wind around 10 mph. |
-| Sunday Night | Mostly cloudy, with a low around 30. Southwest wind 5 to 10 mph. |
+| This Afternoon | Patchy fog and scattered snow showers. Cloudy, with a high near 34. South southwest wind 0 to 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Patchy fog and scattered snow showers before 10pm, then a chance of snow showers and patchy fog. Cloudy, with a low around 31. West wind 0 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
+| Sunday | A slight chance of snow showers before 9am. Cloudy. High near 36, with temperatures falling to around 34 in the afternoon. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| Sunday Night | Cloudy, with a low around 30. Southwest wind around 5 mph, with gusts as high as 15 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
