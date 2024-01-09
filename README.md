@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Snow after 8pm. Cloudy. Low around 32, with temperatures rising to around 34 overnight. East southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Tuesday | Snow before 9am, then rain and snow between 9am and 3pm, then rain and snow. Cloudy, with a high near 37. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Tuesday Night | Rain and snow. Cloudy, with a low around 32. West northwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
-| Wednesday | Mostly cloudy, with a high near 34. West southwest wind 10 to 20 mph, with gusts as high as 30 mph. |
+| Overnight | Snow before 5am, then rain and snow. Low around 32, with temperatures rising to around 34 overnight. East wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Tuesday | Rain and snow. High near 38, with temperatures falling to around 36 in the afternoon. Northeast wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
+| Tuesday Night | Rain and snow. Mostly cloudy, with a low around 32. West wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. Little or no snow accumulation expected. |
+| Wednesday | Mostly cloudy, with a high near 34. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
