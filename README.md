@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Snow. Cloudy, with a low around 32. East wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Tuesday | Snow before 8am, then rain and snow between 8am and 9am, then rain and snow between 9am and 10am, then rain and snow between 10am and 11am, then rain and snow. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. Northeast wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
-| Tuesday Night | Rain and snow. Cloudy, with a low around 31. West wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
-| Wednesday | Mostly cloudy, with a high near 31. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Little or no snow accumulation expected. |
+| Today | Rain and snow. Cloudy. High near 38, with temperatures falling to around 36 in the afternoon. Northeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Tonight | Rain and snow before 8pm, then rain and snow. Cloudy, with a low around 31. West wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
+| Wednesday | Mostly cloudy. High near 32, with temperatures falling to around 30 in the afternoon. West southwest wind 10 to 20 mph, with gusts as high as 35 mph. Little or no snow accumulation expected. |
+| Wednesday Night | Snow likely. Cloudy, with a low around 27. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
