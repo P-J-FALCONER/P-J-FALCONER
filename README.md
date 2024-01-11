@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly cloudy. High near 33, with temperatures falling to around 30 in the afternoon. West wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Tonight | Snow after midnight. Cloudy. Low around 27, with temperatures rising to around 33 overnight. South southeast wind 5 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
-| Friday | Snow before 9am, then rain and snow. Cloudy, with a high near 35. East wind 20 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Friday Night | Rain and snow before 8pm, then areas of blowing snow and rain and snow. Cloudy, with a low around 22. North northwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| This Afternoon | Mostly cloudy. High near 33, with temperatures falling to around 30 in the afternoon. West southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Snow after midnight. Cloudy. Low around 27, with temperatures rising to around 33 overnight. South southeast wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible. |
+| Friday | Snow before 9am, then rain and snow. Cloudy, with a high near 35. East wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Friday Night | Rain and snow before 8pm, then areas of blowing snow and rain and snow. Cloudy, with a low around 22. Northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
