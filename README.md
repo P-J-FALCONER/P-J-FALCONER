@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Snow after 1am. Mostly cloudy. Low around 28, with temperatures rising to around 33 overnight. South southeast wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible. |
-| Friday | Snow and patchy blowing snow before 9am, then patchy blowing snow and rain and snow. Cloudy, with a high near 35. East wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
-| Friday Night | Rain and snow before 10pm, then snow and areas of blowing snow. Cloudy, with a low around 23. Northwest wind 15 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Saturday | Periods of snow showers and areas of blowing snow. Cloudy, with a high near 23. Wind chill values as low as -1. West wind 20 to 30 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. |
+| Overnight | Snow after 3am. Cloudy. Low around 28, with temperatures rising to around 33 overnight. East southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
+| Friday | Snow before 10am, then rain and snow. Cloudy, with a high near 35. East southeast wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Friday Night | Rain and snow before 10pm, then snow and areas of blowing snow. Cloudy, with a low around 23. North northwest wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Saturday | Periods of snow showers and areas of blowing snow. Cloudy, with a high near 23. Wind chill values as low as -1. West wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
