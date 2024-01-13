@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain and snow likely before 8pm, then patchy fog and a slight chance of rain between 8pm and 10pm, then patchy fog and a chance of rain and snow showers between 10pm and 11pm, then areas of blowing snow and rain and snow showers. Cloudy, with a low around 23. West wind 10 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
-| Saturday | Patchy blowing snow and scattered snow showers. Cloudy. High near 25, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -2. West wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
-| Saturday Night | A chance of snow. Cloudy, with a low around 2. Wind chill values as low as -18. West wind around 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. |
+| Overnight | Rain and snow before 1am, then snow and areas of blowing snow. Cloudy, with a low around 23. West northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible. |
+| Saturday | Patchy blowing snow and scattered snow showers. Cloudy. High near 25, with temperatures falling to around 15 in the afternoon. Wind chill values as low as -2. West wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
+| Saturday Night | A chance of snow. Cloudy, with a low around 2. Wind chill values as low as -18. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. |
 | Sunday | A slight chance of snow after noon. Mostly cloudy, with a high near 4. Wind chill values as low as -18. West southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
