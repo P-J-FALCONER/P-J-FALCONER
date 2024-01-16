@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around -7. Wind chill values as low as -25. West wind around 10 mph, with gusts as high as 20 mph. |
-| Tuesday | Patchy blowing snow after 9am. Mostly sunny, with a high near 2. Wind chill values as low as -28. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Tuesday Night | Patchy blowing snow before 9pm. Mostly cloudy. Low around 0, with temperatures rising to around 4 overnight. Wind chill values as low as -20. Southwest wind around 15 mph, with gusts as high as 25 mph. |
-| Wednesday | A slight chance of snow after noon. Mostly cloudy, with a high near 18. Wind chill values as low as -12. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Today | Mostly sunny. High near 4, with temperatures falling to around 2 in the afternoon. Wind chill values as low as -27. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Partly cloudy. Low around 1, with temperatures rising to around 3 overnight. Wind chill values as low as -19. Southwest wind around 15 mph, with gusts as high as 25 mph. |
+| Wednesday | A slight chance of snow after noon. Partly sunny. High near 20, with temperatures falling to around 18 in the afternoon. Wind chill values as low as -13. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Wednesday Night | A chance of snow. Cloudy, with a low around 14. West wind 5 to 10 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
