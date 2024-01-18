@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Snow likely. Cloudy, with a low around 19. West southwest wind 0 to 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
-| Thursday | A chance of snow before noon, then a chance of snow showers between noon and 3pm, then a slight chance of snow. Cloudy. High near 24, with temperatures falling to around 22 in the afternoon. North northwest wind 0 to 5 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
-| Thursday Night | Snow. Cloudy, with a low around 12. Wind chill values as low as -5. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. |
-| Friday | A chance of snow. Cloudy, with a high near 18. Wind chill values as low as -7. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible. |
+| Overnight | A slight chance of snow. Cloudy, with a low around 19. West wind around 0 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible. |
+| Thursday | A chance of snow after 3pm. Cloudy. High near 24, with temperatures falling to around 22 in the afternoon. North northwest wind 0 to 5 mph. Chance of precipitation is 40%. |
+| Thursday Night | Snow before midnight, then snow and areas of blowing snow. Cloudy, with a low around 12. Wind chill values as low as -5. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Friday | Areas of blowing snow and a chance of snow showers. Mostly cloudy, with a high near 18. Wind chill values as low as -7. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
