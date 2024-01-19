@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A chance of snow after 4pm. Cloudy. High near 24, with temperatures falling to around 22 in the afternoon. North wind around 5 mph. Chance of precipitation is 40%. |
-| Tonight | Snow before midnight, then snow and areas of blowing snow. Cloudy, with a low around 12. Wind chill values as low as -5. North northwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
-| Friday | Areas of blowing snow and a chance of snow showers. Mostly cloudy. High near 18, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -7. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible. |
-| Friday Night | Mostly cloudy, with a low around 4. Wind chill values as low as -9. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Snow before midnight, then snow and areas of blowing snow. Cloudy, with a low around 12. Wind chill values as low as -4. North northwest wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. |
+| Friday | Areas of blowing snow and scattered snow showers. Cloudy. High near 15, with temperatures falling to around 12 in the afternoon. Wind chill values as low as -6. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible. |
+| Friday Night | Isolated snow showers before midnight. Mostly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -11. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
+| Saturday | Sunny, with a high near 16. Wind chill values as low as -12. West northwest wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
