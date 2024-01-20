@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Isolated snow showers before 3am. Mostly cloudy, with a low around 5. Wind chill values as low as -10. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
+| Overnight | Isolated snow showers before 3am. Mostly cloudy, with a low around 5. Wind chill values as low as -10. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 | Saturday | Mostly sunny. High near 16, with temperatures falling to around 13 in the afternoon. Wind chill values as low as -11. Northwest wind around 10 mph, with gusts as high as 25 mph. |
 | Saturday Night | Mostly clear, with a low around 0. Wind chill values as low as -12. West wind 5 to 10 mph. |
 | Sunday | Mostly sunny, with a high near 21. Wind chill values as low as -9. South southwest wind 5 to 15 mph. |
