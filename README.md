@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly clear, with a low around -1. Wind chill values as low as -13. West wind 5 to 10 mph. |
-| Sunday | Mostly sunny. High near 21, with temperatures falling to around 19 in the afternoon. Wind chill values as low as -13. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Sunday Night | A chance of snow after midnight. Mostly cloudy. Low around 18, with temperatures rising to around 22 overnight. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
-| Monday | A chance of snow and a slight chance of sleet before 9am, then a chance of snow and a chance of sleet and a chance of freezing rain between 9am and noon, then a chance of freezing rain and a slight chance of sleet and a slight chance of rain and snow. Cloudy, with a high near 33. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. Little or no ice accumulation expected. |
+| Overnight | Mostly clear. Low around 0, with temperatures rising to around 4 overnight. Wind chill values as low as -7. West southwest wind around 5 mph. |
+| Sunday | Mostly sunny. High near 21, with temperatures falling to around 19 in the afternoon. Wind chill values as low as -9. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. |
+| Sunday Night | A slight chance of snow after 3am. Mostly cloudy. Low around 18, with temperatures rising to around 21 overnight. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Monday | A chance of snow before 11am, then a chance of snow and a chance of sleet and a chance of freezing rain. Cloudy, with a high near 30. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. Little or no ice accumulation expected. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
