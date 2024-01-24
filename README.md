@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Rain before 2pm, then a chance of rain and patchy fog between 2pm and 3pm, then areas of fog and a slight chance of rain. Cloudy, with a high near 36. South southeast wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Areas of fog before 2am, then areas of fog and a slight chance of rain between 2am and 3am, then rain likely and patchy fog. Cloudy, with a low around 33. South wind 0 to 5 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Rain. Cloudy, with a high near 37. North northeast wind around 5 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday Night | A chance of rain. Cloudy, with a low around 36. North wind around 5 mph. Chance of precipitation is 50%. |
+| Tonight | Widespread fog before 2am, then widespread fog and rain likely. Cloudy, with a low around 34. South wind 0 to 5 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Rain and areas of fog before 3pm, then areas of fog and intermittent drizzle. Cloudy, with a high near 37. North northeast wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday Night | Areas of fog and a chance of rain. Cloudy, with a low around 36. North wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Rain likely and patchy fog. Cloudy, with a high near 39. North northeast wind around 5 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
