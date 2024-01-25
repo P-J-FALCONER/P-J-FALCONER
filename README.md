@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Widespread fog. Cloudy, with a low around 35. North northeast wind around 5 mph. |
-| Thursday | Widespread fog before noon, then widespread fog and a chance of rain. Cloudy, with a high near 38. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | Rain and patchy fog. Cloudy, with a low around 36. North northeast wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Friday | Areas of fog and a slight chance of rain. Cloudy, with a high near 37. Northwest wind around 5 mph. Chance of precipitation is 20%. |
+| This Afternoon | Widespread fog and a chance of rain. Cloudy. High near 40, with temperatures falling to around 38 in the afternoon. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Rain and patchy fog. Cloudy, with a low around 36. North northeast wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Friday | Areas of fog and a slight chance of rain. Cloudy, with a high near 37. North wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday Night | Patchy fog. Cloudy, with a low around 35. Northwest wind 0 to 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
