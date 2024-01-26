@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain and areas of fog before 5am, then areas of fog and a chance of rain. Cloudy, with a low around 36. North northeast wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Friday | Areas of fog and a chance of rain. Cloudy, with a high near 40. North wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday Night | Areas of fog and a slight chance of drizzle. Cloudy, with a low around 35. Northwest wind 0 to 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday | Areas of fog before 9am. Cloudy, with a high near 40. North northwest wind 0 to 5 mph, with gusts as high as 10 mph. |
+| Overnight | Rain and areas of fog. Cloudy, with a low around 36. North northeast wind 5 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Friday | Areas of fog and a chance of rain and patchy drizzle. Cloudy, with a high near 40. North wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday Night | Areas of fog and a chance of drizzle. Cloudy, with a low around 35. West northwest wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Saturday | Areas of fog before 9am. Cloudy, with a high near 40. North northwest wind 0 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
