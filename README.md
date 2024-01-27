@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Widespread fog. Cloudy, with a low around 35. Northwest wind 0 to 5 mph. |
-| Saturday | Widespread fog. Cloudy, with a high near 39. Northwest wind 0 to 10 mph. |
-| Saturday Night | A slight chance of rain. Cloudy, with a low around 35. North wind around 10 mph. Chance of precipitation is 20%. |
-| Sunday | Cloudy, with a high near 38. North northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Overnight | Widespread fog. Cloudy. Low around 35, with temperatures rising to around 37 overnight. Northwest wind around 0 mph. |
+| Saturday | Widespread fog. Cloudy. High near 40, with temperatures falling to around 37 in the afternoon. North northwest wind 0 to 5 mph, with gusts as high as 10 mph. |
+| Saturday Night | A chance of rain between 7pm and 5am. Cloudy, with a low around 35. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday | Mostly cloudy, with a high near 39. North northwest wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
