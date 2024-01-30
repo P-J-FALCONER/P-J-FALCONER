@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Partly sunny. High near 41, with temperatures falling to around 38 in the afternoon. Southwest wind around 10 mph, with gusts as high as 20 mph. |
-| Tonight | Rain likely between 10pm and 4am, then a chance of rain and snow. Mostly cloudy, with a low around 35. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday | A chance of rain and snow showers before 7am, then a chance of rain and snow showers. Cloudy. High near 39, with temperatures falling to around 37 in the afternoon. West northwest wind 10 to 15 mph. Chance of precipitation is 30%. |
-| Tuesday Night | A slight chance of drizzle before 9pm. Mostly cloudy, with a low around 33. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | Rain likely between midnight and 5am, then a chance of rain and snow. Mostly cloudy, with a low around 36. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | A slight chance of rain and snow showers before noon, then scattered rain and snow showers. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. West northwest wind 10 to 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday Night | A slight chance of rain and snow showers before 9pm. Mostly cloudy, with a low around 33. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Wednesday | Mostly sunny, with a high near 43. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
