@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly cloudy. High near 40, with temperatures falling to around 37 in the afternoon. North northeast wind around 10 mph. |
-| Tonight | Patchy fog after 11pm. Mostly cloudy, with a low around 32. Northeast wind 5 to 10 mph. |
-| Tuesday | Patchy fog before 11am. Partly sunny, with a high near 43. East southeast wind around 5 mph. |
-| Tuesday Night | Mostly cloudy, with a low around 34. Southeast wind around 5 mph. |
+| Tonight | Patchy fog after midnight. Cloudy, with a low around 32. Northeast wind 5 to 10 mph. |
+| Tuesday | Patchy fog before 9am. Partly sunny. High near 44, with temperatures falling to around 40 in the afternoon. Southeast wind around 5 mph. |
+| Tuesday Night | Mostly cloudy, with a low around 33. South southeast wind around 5 mph. |
+| Wednesday | Mostly cloudy, with a high near 48. South wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
