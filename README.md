@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly clear. Low around 22, with temperatures rising to around 25 overnight. West southwest wind 15 to 25 mph, with gusts as high as 40 mph. |
-| Sunday | Sunny. High near 43, with temperatures falling to around 39 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Overnight | Mostly clear. Low around 22, with temperatures rising to around 25 overnight. West southwest wind around 15 mph, with gusts as high as 30 mph. |
+| Sunday | Sunny. High near 42, with temperatures falling to around 38 in the afternoon. West wind 10 to 15 mph, with gusts as high as 30 mph. |
 | Sunday Night | Mostly clear, with a low around 27. West southwest wind around 5 mph. |
-| Washington&#39;s Birthday | Mostly sunny, with a high near 44. South wind 5 to 10 mph. |
+| Washington&#39;s Birthday | Sunny, with a high near 43. South wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
