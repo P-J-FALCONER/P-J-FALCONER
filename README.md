@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of showers and thunderstorms before 5am, then a chance of showers and thunderstorms. Cloudy, with a low around 42. Northeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | A chance of showers and thunderstorms before 2pm. Partly sunny. High near 49, with temperatures falling to around 46 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | Mostly clear, with a low around 36. Northwest wind 5 to 15 mph. |
-| Friday | A slight chance of snow showers after 3pm. Partly sunny, with a high near 41. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. Little or no snow accumulation expected. |
+| Today | A chance of rain showers before 11am. Partly sunny. High near 51, with temperatures falling to around 48 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Mostly clear. Low around 35, with temperatures rising to around 37 overnight. Northwest wind 5 to 15 mph. |
+| Friday | A chance of rain and snow showers after noon. Partly sunny. High near 41, with temperatures falling to around 32 in the afternoon. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. Little or no snow accumulation expected. |
+| Friday Night | A chance of snow showers. Mostly cloudy, with a low around 26. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
