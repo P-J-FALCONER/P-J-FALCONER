@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny, with a high near 66. Southwest wind 5 to 20 mph, with gusts as high as 35 mph. |
+| This Afternoon | Sunny, with a high near 66. Southwest wind 15 to 20 mph, with gusts as high as 35 mph. |
 | Tonight | Mostly clear. Low around 45, with temperatures rising to around 47 overnight. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. |
 | Tuesday | Partly sunny. High near 69, with temperatures falling to around 67 in the afternoon. Southwest wind 10 to 20 mph, with gusts as high as 35 mph. |
 | Tuesday Night | A chance of showers and thunderstorms after 7pm. Mostly cloudy, with a low around 47. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
