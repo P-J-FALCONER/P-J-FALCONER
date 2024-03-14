@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A slight chance of rain showers after 4pm. Partly sunny. High near 56, with temperatures falling to around 52 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 20%. |
-| Tonight | A chance of rain showers before 7pm, then showers and thunderstorms likely. Mostly cloudy. Low around 47, with temperatures rising to around 49 overnight. East southeast wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Showers and thunderstorms. Cloudy. High near 57, with temperatures falling to around 52 in the afternoon. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Thursday Night | Showers and thunderstorms likely. Cloudy, with a low around 40. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
+| Tonight | A slight chance of rain showers before 11pm, then a chance of showers and thunderstorms between 11pm and 1am, then a chance of showers and thunderstorms between 1am and 3am, then showers and thunderstorms. Mostly cloudy, with a low around 45. East northeast wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday | Showers and thunderstorms before 1pm, then patchy fog and a chance of showers and thunderstorms. Cloudy. High near 53, with temperatures falling to around 49 in the afternoon. East southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Thursday Night | Patchy fog and a chance of showers and thunderstorms. Cloudy, with a low around 39. North wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | A slight chance of rain showers before 7am. Mostly sunny, with a high near 45. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
