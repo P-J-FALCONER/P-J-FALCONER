@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of snow showers. Mostly cloudy, with a low around 34. East southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
-| Friday | A chance of snow showers before 10am, then rain and snow showers between 10am and 5pm, then rain and snow showers. Mostly cloudy. High near 39, with temperatures falling to around 36 in the afternoon. East northeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. Little or no snow accumulation expected. |
-| Friday Night | Snow showers before 1am. Mostly cloudy, with a low around 31. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Saturday | Partly sunny, with a high near 36. North wind 10 to 15 mph. |
+| Today | Snow showers before 4pm, then rain and snow showers. Cloudy. High near 37, with temperatures falling to around 35 in the afternoon. East northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
+| Tonight | Snow showers likely before 8pm, then a slight chance of rain and snow showers between 8pm and 2am. Cloudy, with a low around 30. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
+| Saturday | Partly sunny. High near 37, with temperatures falling to around 35 in the afternoon. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Little or no snow accumulation expected. |
+| Saturday Night | Partly cloudy, with a low around 31. East northeast wind around 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
