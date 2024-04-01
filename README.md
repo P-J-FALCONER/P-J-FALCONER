@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Rain showers likely before 5am. Cloudy, with a low around 41. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | Rain showers after 10am. Cloudy. High near 43, with temperatures falling to around 41 in the afternoon. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Monday Night | Rain showers before 7pm, then showers and thunderstorms. Cloudy, with a low around 39. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday | Rain showers before 7am, then rain likely between 7am and 4pm, then rain and snow likely. Cloudy, with a high near 41. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. |
+| Today | Rain showers after 10am. Cloudy, with a high near 44. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tonight | Rain showers before 7pm, then showers and thunderstorms. Cloudy, with a low around 40. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday | Rain showers before 7am, then rain. Cloudy. High near 41, with temperatures falling to around 39 in the afternoon. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday Night | Rain before 7pm, then rain and snow likely. Cloudy, with a low around 34. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. Little or no snow accumulation expected. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
