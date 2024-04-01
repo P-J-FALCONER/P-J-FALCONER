@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Rain showers after 10am. Cloudy, with a high near 44. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tonight | Rain showers before 7pm, then showers and thunderstorms. Cloudy, with a low around 40. Northeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday | Rain showers before 7am, then rain. Cloudy. High near 41, with temperatures falling to around 39 in the afternoon. North northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Tuesday Night | Rain before 7pm, then rain and snow likely. Cloudy, with a low around 34. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. Little or no snow accumulation expected. |
+| This Afternoon | Areas of fog and a chance of showers and thunderstorms before 2pm, then areas of fog and showers and thunderstorms. Cloudy. High near 45, with temperatures falling to around 43 in the afternoon. East northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tonight | Showers and thunderstorms. Cloudy, with a low around 40. East northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday | Rain showers before 7am, then rain. Cloudy. High near 41, with temperatures falling to around 39 in the afternoon. North northeast wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Tuesday Night | Rain before 7pm, then rain and snow likely. Cloudy, with a low around 34. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. Little or no snow accumulation expected. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
