@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Rain and snow. Cloudy, with a low around 34. West southwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | Rain and snow before noon, then rain and snow between noon and 1pm, then rain and snow. Cloudy, with a high near 38. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday Night | Rain and snow before midnight, then rain and snow between midnight and 2am, then rain and snow likely. Cloudy. Low around 36, with temperatures rising to around 38 overnight. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | Rain likely. Cloudy, with a high near 43. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. |
+| Today | Rain and snow. Cloudy, with a high near 39. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Rain and snow likely before 1am, then a chance of rain and snow between 1am and 4am, then rain and snow likely between 4am and 5am, then rain and snow likely. Cloudy, with a low around 36. North wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday | Rain and snow likely. Cloudy, with a high near 42. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | Rain likely before 7pm, then a slight chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 36. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
