@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Rain before 3pm, then rain and snow likely. Cloudy, with a high near 39. West northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Rain and snow likely before 1am, then a chance of rain and snow between 1am and 4am, then rain and snow likely between 4am and 5am, then rain and snow likely. Cloudy, with a low around 36. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday | Rain and snow likely. Cloudy, with a high near 42. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | Rain likely before 7pm, then a slight chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 36. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
+| Tonight | Rain showers likely before midnight, then a chance of rain and snow showers between midnight and 1am, then a chance of rain and snow showers. Cloudy, with a low around 36. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Rain and snow showers likely. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | A chance of rain showers before midnight, then a chance of rain and snow showers. Mostly cloudy, with a low around 36. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | A chance of rain and snow showers before 1pm. Partly sunny, with a high near 44. North wind 10 to 15 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
