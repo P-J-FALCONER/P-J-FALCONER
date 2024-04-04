@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A chance of rain showers before 5am, then a chance of rain and snow showers. Cloudy, with a low around 36. North northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | A chance of rain showers before 7am, then rain and snow showers likely. Cloudy. High near 42, with temperatures falling to around 40 in the afternoon. North northwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | A chance of rain showers before midnight, then a chance of rain and snow showers. Mostly cloudy, with a low around 36. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | A chance of rain and snow showers before 1pm. Partly sunny, with a high near 44. North wind 10 to 15 mph. Chance of precipitation is 30%. |
+| Today | A slight chance of rain before 8am, then rain and snow between 8am and 1pm, then a chance of rain showers. Cloudy, with a high near 41. North northwest wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | A slight chance of rain showers before midnight, then a chance of rain and snow showers. Mostly cloudy. Low around 35, with temperatures rising to around 37 overnight. North wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | A chance of rain and snow showers before 1pm. Partly sunny. High near 43, with temperatures falling to around 41 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
+| Friday Night | Mostly clear, with a low around 35. North wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
