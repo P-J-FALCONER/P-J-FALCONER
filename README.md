@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered rain showers. Cloudy, with a high near 41. North northwest wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A slight chance of rain showers before midnight, then a chance of rain and snow showers. Mostly cloudy. Low around 35, with temperatures rising to around 37 overnight. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | A chance of rain and snow showers before 1pm. Partly sunny. High near 43, with temperatures falling to around 41 in the afternoon. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
-| Friday Night | Mostly clear, with a low around 35. North wind 10 to 15 mph. |
+| Overnight | Isolated rain showers between 1am and 5am, then isolated rain and snow showers. Mostly cloudy, with a low around 37. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
+| Friday | Isolated rain and snow showers before 7am, then scattered rain and snow showers between 7am and 1pm. Partly sunny, with a high near 42. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday Night | Mostly clear, with a low around 34. North wind 10 to 15 mph. |
+| Saturday | Sunny, with a high near 45. North northeast wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
