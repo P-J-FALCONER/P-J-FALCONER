@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Isolated rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 3pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 75. South southeast wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Showers and thunderstorms likely before 8pm, then showers and thunderstorms. Cloudy, with a low around 61. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Friday | Showers and thunderstorms before 1pm. Mostly cloudy. High near 62, with temperatures falling to around 54 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Friday Night | Partly cloudy, with a low around 50. Northeast wind around 5 mph, with gusts as high as 10 mph. |
+| Tonight | A chance of showers and thunderstorms before 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 60. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Friday | A chance of showers and thunderstorms before 8am. Partly sunny. High near 61, with temperatures falling to around 59 in the afternoon. North wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Friday Night | Mostly clear, with a low around 48. Northeast wind around 5 mph, with gusts as high as 10 mph. |
+| Saturday | A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 70. East northeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
