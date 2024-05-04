@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny. High near 61, with temperatures falling to around 59 in the afternoon. North northeast wind around 10 mph. |
-| Tonight | Mostly clear, with a low around 51. Northeast wind 0 to 5 mph, with gusts as high as 15 mph. |
-| Saturday | A slight chance of showers and thunderstorms after 4pm. Mostly sunny, with a high near 69. East southeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. |
-| Saturday Night | A slight chance of showers and thunderstorms before 7pm, then showers and thunderstorms likely between 7pm and 1am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 52. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. |
+| Tonight | Mostly clear. Low around 47, with temperatures rising to around 49 overnight. Northeast wind 0 to 5 mph, with gusts as high as 10 mph. |
+| Saturday | Mostly sunny. High near 73, with temperatures falling to around 71 in the afternoon. East southeast wind around 5 mph, with gusts as high as 10 mph. |
+| Saturday Night | Scattered showers and thunderstorms between 7pm and 10pm, then scattered showers and thunderstorms between 10pm and 1am. Mostly cloudy. Low around 52, with temperatures rising to around 55 overnight. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | Mostly sunny, with a high near 58. North wind around 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
