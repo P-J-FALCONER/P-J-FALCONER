@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 55. Southeast wind 10 to 15 mph. |
-| Tuesday | Showers and thunderstorms likely between 7am and 9am, then showers and thunderstorms between 9am and 11am, then showers and thunderstorms likely. Mostly cloudy, with a high near 71. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday Night | A chance of showers and thunderstorms before 1am. Mostly clear, with a low around 56. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | A slight chance of rain showers between 1pm and 4pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 70. South wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Today | A chance of showers and thunderstorms between 7am and 8am, then showers and thunderstorms between 8am and 11am, then showers and thunderstorms likely. Mostly cloudy, with a high near 75. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tonight | A chance of showers and thunderstorms before 1am. Mostly clear, with a low around 56. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms after 1pm. Mostly sunny. High near 73, with temperatures falling to around 68 in the afternoon. South wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Wednesday Night | A chance of showers and thunderstorms before 7pm, then showers and thunderstorms. Mostly cloudy, with a low around 52. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
