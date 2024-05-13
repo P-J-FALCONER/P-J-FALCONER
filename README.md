@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Sunny, with a high near 82. Southwest wind around 15 mph, with gusts as high as 25 mph. |
-| Tonight | A slight chance of rain showers after 7pm. Partly cloudy, with a low around 62. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Monday | A slight chance of rain showers before 1pm, then showers and thunderstorms likely. Mostly cloudy. High near 76, with temperatures falling to around 68 in the afternoon. South southwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
-| Monday Night | Showers and thunderstorms. Cloudy, with a low around 52. Northeast wind 5 to 10 mph. Chance of precipitation is 80%. |
+| Tonight | Partly cloudy, with a low around 61. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Monday | Showers and thunderstorms after 1pm. Partly sunny. High near 79, with temperatures falling to around 70 in the afternoon. South southwest wind 5 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Monday Night | Showers and thunderstorms. Cloudy. Low around 52, with temperatures rising to around 55 overnight. Northeast wind 5 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible. |
+| Tuesday | Rain showers likely. Mostly cloudy, with a high near 56. North northeast wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
