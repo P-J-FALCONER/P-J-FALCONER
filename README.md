@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog after 4am. Mostly cloudy, with a low around 59. Southwest wind around 5 mph. |
-| Friday | Patchy fog before 9am. Mostly sunny. High near 69, with temperatures falling to around 67 in the afternoon. West northwest wind 0 to 10 mph. |
-| Friday Night | Partly cloudy, with a low around 55. East southeast wind 0 to 5 mph. |
-| Saturday | Sunny, with a high near 70. Southeast wind 0 to 5 mph. |
+| Today | Patchy fog before 9am. Mostly sunny. High near 73, with temperatures falling to around 62 in the afternoon. West northwest wind 0 to 10 mph. |
+| Tonight | Partly cloudy, with a low around 55. East southeast wind 0 to 5 mph. |
+| Saturday | Sunny. High near 75, with temperatures falling to around 73 in the afternoon. Southeast wind 0 to 5 mph. |
+| Saturday Night | Mostly clear, with a low around 62. South wind around 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
