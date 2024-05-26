@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Sunny, with a high near 68. East wind around 10 mph. |
-| Tonight | Partly cloudy, with a low around 58. East southeast wind 5 to 10 mph. |
-| Sunday | Showers and thunderstorms likely between 7am and 1pm, then showers and thunderstorms between 1pm and 4pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 72. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday Night | Showers and thunderstorms likely before 7pm, then showers and thunderstorms likely between 7pm and 1am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 58. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. |
+| Tonight | Partly cloudy, with a low around 57. East southeast wind 5 to 10 mph. |
+| Sunday | Showers and thunderstorms likely between 10am and 1pm, then showers and thunderstorms between 1pm and 2pm, then showers and thunderstorms likely. Some of the storms could produce heavy rain. Mostly cloudy, with a high near 70. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday Night | A chance of showers and thunderstorms. Mostly cloudy. Low around 58, with temperatures rising to around 60 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Memorial Day | A chance of showers and thunderstorms. Partly sunny, with a high near 73. West northwest wind 10 to 15 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
