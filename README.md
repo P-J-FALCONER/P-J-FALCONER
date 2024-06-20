@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Juneteenth | A slight chance of showers and thunderstorms after 3pm. Mostly sunny. High near 95, with temperatures falling to around 93 in the afternoon. Heat index values as high as 98. South southwest wind 10 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A slight chance of showers and thunderstorms before 9pm, then patchy fog. Partly cloudy, with a low around 68. East northeast wind around 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Patchy fog before 7am, then patchy fog and a chance of showers and thunderstorms. Mostly sunny. High near 81, with temperatures falling to around 77 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 68. North wind 0 to 10 mph. Chance of precipitation is 30%. |
+| Tonight | A slight chance of showers and thunderstorms before 10pm, then patchy fog. Partly cloudy, with a low around 69. North wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Thursday | Patchy fog before 9am, then a chance of showers and thunderstorms. Mostly sunny. High near 82, with temperatures falling to around 79 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 67. North wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 85. Northeast wind 0 to 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
