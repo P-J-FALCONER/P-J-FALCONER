@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog after 3am. Partly cloudy, with a low around 67. North wind around 5 mph, with gusts as high as 10 mph. |
-| Thursday | Patchy fog before 9am, then a chance of showers and thunderstorms. Mostly sunny. High near 82, with temperatures falling to around 79 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 67. North wind 0 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 85. Northeast wind 0 to 5 mph, with gusts as high as 10 mph. Chance of precipitation is 20%. |
+| Today | Patchy fog before 9am, then a chance of showers and thunderstorms. Mostly sunny. High near 79, with temperatures falling to around 75 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of showers and thunderstorms before 10pm. Partly cloudy, with a low around 68. North wind 0 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | A slight chance of showers and thunderstorms after 7am. Mostly sunny. High near 79, with temperatures falling to around 77 in the afternoon. Northeast wind 0 to 5 mph. Chance of precipitation is 20%. |
+| Friday Night | A slight chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 72. South southeast wind around 5 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
