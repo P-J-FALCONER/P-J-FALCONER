@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 82. East wind 5 to 10 mph. |
-| Tonight | Partly cloudy. Low around 71, with temperatures rising to around 74 overnight. South southeast wind 5 to 10 mph. |
-| Saturday | A chance of showers and thunderstorms after 4pm. Partly sunny. High near 94, with temperatures falling to around 92 in the afternoon. Heat index values as high as 97. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday Night | A chance of showers and thunderstorms before 7pm, then showers and thunderstorms between 7pm and 1am, then showers and thunderstorms likely. Mostly cloudy, with a low around 71. West southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. |
+| Tonight | Partly cloudy, with a low around 73. South wind around 5 mph. |
+| Saturday | A slight chance of showers and thunderstorms before 7am. Partly sunny, with a high near 94. Heat index values as high as 97. Southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| Saturday Night | Showers and thunderstorms between 7pm and 1am, then a chance of showers and thunderstorms. Mostly cloudy. Low around 71, with temperatures rising to around 73 overnight. Heat index values as high as 96. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible. |
+| Sunday | A slight chance of showers and thunderstorms before 7am. Mostly sunny, with a high near 83. Northwest wind 5 to 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
