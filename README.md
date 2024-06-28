@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 64. East southeast wind around 10 mph. |
-| Friday | A chance of rain showers after noon. Mostly cloudy. High near 83, with temperatures falling to around 80 in the afternoon. South wind 10 to 15 mph. Chance of precipitation is 30%. |
-| Friday Night | A chance of rain showers before 7pm, then a chance of showers and thunderstorms between 7pm and 10pm, then a chance of showers and thunderstorms between 10pm and 1am, then showers and thunderstorms. Mostly cloudy. Low around 70, with temperatures rising to around 73 overnight. South southwest wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Saturday | Showers and thunderstorms before 7am, then a chance of showers and thunderstorms. Partly sunny, with a high near 88. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. |
+| Today | A chance of rain showers after 11am. Mostly cloudy, with a high near 81. South wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms between 11pm and midnight, then showers and thunderstorms likely. Mostly cloudy, with a low around 71. South southwest wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
+| Saturday | A chance of showers and thunderstorms. Partly sunny, with a high near 87. West southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Saturday Night | A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 61. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
