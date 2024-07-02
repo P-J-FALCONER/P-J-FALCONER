@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | A slight chance of showers and thunderstorms after 5am. Mostly cloudy. Low around 63, with temperatures rising to around 65 overnight. South southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
-| Tuesday | A slight chance of rain showers before 7am. Partly sunny, with a high near 83. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tuesday Night | A slight chance of showers and thunderstorms between 7pm and 1am, then showers and thunderstorms likely. Mostly cloudy, with a low around 72. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Wednesday | Showers and thunderstorms likely before 7am, then a chance of showers and thunderstorms between 7am and 10am, then a chance of showers and thunderstorms between 10am and 1pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 88. West southwest wind 5 to 10 mph. Chance of precipitation is 60%. |
+| Today | Scattered rain showers between 9am and noon. Mostly cloudy. High near 85, with temperatures falling to around 83 in the afternoon. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
+| Tonight | A slight chance of rain showers between 11pm and midnight, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms before 1pm. Partly sunny. High near 86, with temperatures falling to around 84 in the afternoon. West southwest wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | Mostly cloudy, with a low around 71. West northwest wind around 5 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
