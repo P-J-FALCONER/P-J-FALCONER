@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Isolated rain showers before 4pm. Mostly sunny, with a high near 84. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tonight | A slight chance of showers and thunderstorms between midnight and 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms before 1pm. Partly sunny, with a high near 87. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | Mostly cloudy, with a low around 71. South southwest wind around 5 mph. |
+| Tonight | A chance of showers and thunderstorms between 11pm and 1am, then showers and thunderstorms likely between 1am and 4am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms before 8am, then a slight chance of showers and thunderstorms between 8am and 9am. Partly sunny, with a high near 87. West wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | Partly cloudy, with a low around 71. South southwest wind around 5 mph. |
+| Independence Day | A chance of rain showers after 7am. Partly sunny, with a high near 80. East wind 0 to 5 mph, with gusts as high as 15 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
