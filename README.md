@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Independence Day | A chance of rain showers after 10am. Partly sunny. High near 81, with temperatures falling to around 79 in the afternoon. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
-| Tonight | A slight chance of rain showers before 7pm, then a chance of showers and thunderstorms between 7pm and 1am, then showers and thunderstorms likely. Mostly cloudy, with a low around 72. Southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | Showers and thunderstorms likely before 1pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 82. Southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Independence Day | A chance of rain showers. Mostly cloudy. High near 80, with temperatures falling to around 78 in the afternoon. East southeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A slight chance of rain showers before 7pm, then a chance of showers and thunderstorms between 10pm and 1am, then showers and thunderstorms likely. Mostly cloudy, with a low around 72. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Showers and thunderstorms likely before 1pm, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 82. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
 | Friday Night | A slight chance of showers and thunderstorms before 7pm. Mostly cloudy, with a low around 65. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
