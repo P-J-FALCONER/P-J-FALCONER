@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 70. West wind around 5 mph. |
-| Tuesday | A slight chance of thunderstorms and a slight chance of rain between 9am and 1pm, then a chance of rain and a slight chance of thunderstorms. Mostly cloudy. High near 80, with temperatures falling to around 77 in the afternoon. Southeast wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Tuesday Night | A chance of rain and a slight chance of thunderstorms before 1am, then showers and thunderstorms. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 70. Northeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday | Showers and thunderstorms before 7am, then a chance of rain between 7am and 1pm, then a slight chance of thunderstorms and a slight chance of rain. Some of the storms could produce heavy rain. Partly sunny, with a high near 76. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. |
+| Today | Scattered rain showers between 11am and 1pm, then a chance of showers and thunderstorms. Cloudy. High near 78, with temperatures falling to around 74 in the afternoon. Southeast wind 0 to 5 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Showers and thunderstorms. Cloudy, with a low around 66. Northeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Wednesday | Showers and thunderstorms. Partly sunny, with a high near 76. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible. |
+| Wednesday Night | A chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 65. North wind 5 to 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
