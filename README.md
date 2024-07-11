@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of showers and thunderstorms between 8pm and 4am. Partly cloudy, with a low around 67. Northeast wind 0 to 5 mph. Chance of precipitation is 20%. |
+| Overnight | Partly cloudy. Low around 66, with temperatures rising to around 68 overnight. Northwest wind 0 to 5 mph. |
 | Thursday | A slight chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 76. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Thursday Night | A slight chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 67. East northeast wind 0 to 5 mph. Chance of precipitation is 20%. |
-| Friday | Sunny, with a high near 78. Northeast wind 0 to 10 mph. |
+| Thursday Night | A slight chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 67. Northeast wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Friday | Sunny, with a high near 78. Northeast wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
