@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Showers and thunderstorms. Some of the storms could produce heavy rain. Mostly cloudy. Low around 73, with temperatures rising to around 75 overnight. South southwest wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday | A chance of showers and thunderstorms. Mostly sunny. High near 93, with temperatures falling to around 91 in the afternoon. Heat index values as high as 98. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 74. Heat index values as high as 98. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Monday | A chance of showers and thunderstorms. Mostly sunny, with a high near 94. Heat index values as high as 102. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
+| Today | A chance of showers and thunderstorms between 8am and 1pm. Mostly sunny. High near 93, with temperatures falling to around 88 in the afternoon. Heat index values as high as 96. Southwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | A chance of showers and thunderstorms after 7pm. Partly cloudy, with a low around 74. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Monday | A slight chance of showers and thunderstorms. Mostly sunny, with a high near 93. Heat index values as high as 103. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Monday Night | Showers and thunderstorms likely. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 73. Heat index values as high as 102. Southwest wind 5 to 15 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
