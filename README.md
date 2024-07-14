@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A slight chance of showers and thunderstorms after 2pm. Partly sunny. High near 87, with temperatures falling to around 85 in the afternoon. South southeast wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 74. South wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday | A chance of showers and thunderstorms. Partly sunny, with a high near 92. Heat index values as high as 100. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Sunday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 74. Heat index values as high as 97. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
+| Tonight | A chance of showers and thunderstorms. Partly cloudy, with a low around 74. South southwest wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | A chance of showers and thunderstorms. Mostly sunny. High near 93, with temperatures falling to around 91 in the afternoon. Heat index values as high as 98. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 74. Heat index values as high as 98. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Monday | A chance of showers and thunderstorms. Mostly sunny, with a high near 94. Heat index values as high as 102. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
