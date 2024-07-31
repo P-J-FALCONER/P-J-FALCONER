@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Mostly sunny, with a high near 85. East wind around 10 mph. |
-| Tonight | A chance of showers and thunderstorms after 8pm. Partly cloudy, with a low around 72. South southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms. Partly sunny, with a high near 90. Heat index values as high as 95. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 75. Southeast wind 5 to 10 mph. Chance of precipitation is 50%. |
+| Tonight | A chance of showers and thunderstorms after 8pm. Partly cloudy, with a low around 73. South southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday | A chance of showers and thunderstorms. Partly sunny. High near 88, with temperatures falling to around 86 in the afternoon. South southwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 74. Southeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | A chance of showers and thunderstorms before 10am, then a chance of showers and thunderstorms between 10am and 1pm, then showers and thunderstorms likely. Partly sunny, with a high near 85. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
