@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Showers and thunderstorms likely between 8am and 4pm. Mostly cloudy, with a high near 87. South southwest wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tonight | Showers and thunderstorms likely after 7pm. Partly cloudy, with a low around 73. South wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Showers and thunderstorms likely. Mostly cloudy. High near 89, with temperatures falling to around 87 in the afternoon. Heat index values as high as 96. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Thursday Night | Showers and thunderstorms likely before 10pm, then showers and thunderstorms likely between 10pm and 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. West wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 70%. |
+| This Afternoon | Partly sunny, with a high near 87. South wind 5 to 10 mph. |
+| Tonight | Showers and thunderstorms likely after 10pm. Partly cloudy, with a low around 73. South southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Showers and thunderstorms likely. Mostly cloudy. High near 89, with temperatures falling to around 87 in the afternoon. Heat index values as high as 96. Southeast wind 5 to 10 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Thursday Night | Showers and thunderstorms likely before 10pm, then showers and thunderstorms likely between 10pm and 1am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. East northeast wind 5 to 10 mph. Chance of precipitation is 70%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
