@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered rain showers. Cloudy, with a high near 72. South southeast wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Scattered rain showers before 10pm, then a chance of showers and thunderstorms between 10pm and 4am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 71. South southwest wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Friday | A chance of showers and thunderstorms before 7am, then a chance of showers and thunderstorms. Mostly sunny. High near 86, with temperatures falling to around 84 in the afternoon. Southwest wind 5 to 15 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
-| Friday Night | A chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 69. West southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. |
+| Tonight | Isolated rain showers before 10pm, then scattered showers and thunderstorms. Mostly cloudy, with a low around 69. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Friday | Scattered showers and thunderstorms. Mostly sunny. High near 86, with temperatures falling to around 84 in the afternoon. Southwest wind 5 to 15 mph. Chance of precipitation is 50%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Friday Night | Scattered showers and thunderstorms before 1am. Partly cloudy, with a low around 69. West southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible. |
+| Saturday | A chance of rain showers between 7am and 10am, then a chance of showers and thunderstorms between 10am and 1pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 80. West northwest wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
