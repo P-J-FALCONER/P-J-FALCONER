@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy, with a low around 69. West southwest wind around 10 mph. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Saturday | A slight chance of rain showers between 7am and 10am, then a chance of showers and thunderstorms between 10am and 1pm, then a chance of showers and thunderstorms between 1pm and 4pm, then showers and thunderstorms likely. Partly sunny, with a high near 79. West northwest wind 10 to 15 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Saturday Night | Showers and thunderstorms likely before 1am. Mostly cloudy, with a low around 68. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday | A chance of rain showers after 7am. Mostly sunny, with a high near 76. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
+| Today | A slight chance of rain showers between 10am and 11am, then a chance of showers and thunderstorms between 11am and noon, then a chance of showers and thunderstorms between noon and 4pm, then showers and thunderstorms likely between 4pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 78. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms between 8pm and 9pm, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 67. North northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Sunday | A chance of rain showers. Partly sunny, with a high near 77. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. |
+| Sunday Night | A chance of rain showers before 7pm. Mostly clear, with a low around 67. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
