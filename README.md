@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Partly cloudy, with a low around 78. South southwest wind 5 to 10 mph. |
-| Tuesday | A slight chance of showers and thunderstorms after 5pm. Sunny, with a high near 96. Heat index values as high as 107. West southwest wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Tuesday Night | A chance of showers and thunderstorms. Partly cloudy, with a low around 74. Heat index values as high as 105. North northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday | A chance of showers and thunderstorms. Partly sunny, with a high near 82. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
+| Today | Sunny. High near 98, with temperatures falling to around 93 in the afternoon. Heat index values as high as 110. West southwest wind 5 to 10 mph. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | A chance of showers and thunderstorms. Mostly cloudy, with a low around 72. Heat index values as high as 100. North northeast wind 5 to 10 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday | A slight chance of showers and thunderstorms before 1pm, then a chance of showers and thunderstorms. Partly sunny. High near 80, with temperatures falling to around 75 in the afternoon. North northeast wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Wednesday Night | A chance of showers and thunderstorms. Mostly cloudy, with a low around 70. Northeast wind 5 to 10 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
