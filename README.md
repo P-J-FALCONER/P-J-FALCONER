@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Sunny. High near 74, with temperatures falling to around 72 in the afternoon. North wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Tonight | Mostly clear, with a low around 61. Northeast wind 10 to 15 mph, with gusts as high as 30 mph. |
+| This Afternoon | Sunny. High near 74, with temperatures falling to around 72 in the afternoon. North northeast wind around 20 mph, with gusts as high as 30 mph. |
+| Tonight | Mostly clear, with a low around 61. Northeast wind 15 to 20 mph, with gusts as high as 30 mph. |
 | Labor Day | Mostly sunny, with a high near 72. East northeast wind around 10 mph, with gusts as high as 20 mph. |
 | Monday Night | Mostly clear, with a low around 59. East wind 5 to 10 mph. |
 
