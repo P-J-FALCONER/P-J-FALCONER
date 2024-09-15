@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Sunny. High near 80, with temperatures falling to around 78 in the afternoon. East wind 10 to 15 mph. |
 | Tonight | Partly cloudy, with a low around 68. East southeast wind 5 to 10 mph. |
 | Sunday | Mostly sunny. High near 84, with temperatures falling to around 81 in the afternoon. East southeast wind 5 to 10 mph. |
 | Sunday Night | Partly cloudy, with a low around 66. East southeast wind 5 to 10 mph. |
+| Monday | Sunny, with a high near 82. East southeast wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
