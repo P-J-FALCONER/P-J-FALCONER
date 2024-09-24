@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain showers after 1am. Cloudy. Low around 62, with temperatures rising to around 64 overnight. East northeast wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tuesday | Rain showers. Cloudy, with a high near 67. North wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible. |
-| Tuesday Night | A chance of rain showers. Mostly cloudy, with a low around 61. Northwest wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Wednesday | A slight chance of rain showers before 7am. Mostly sunny, with a high near 72. North wind around 10 mph. Chance of precipitation is 20%. |
+| Overnight | Rain showers likely. Cloudy, with a low around 63. East wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tuesday | Rain showers. Cloudy, with a high near 67. North northeast wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible. |
+| Tuesday Night | A chance of rain showers. Mostly cloudy, with a low around 61. North northwest wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
+| Wednesday | A slight chance of rain showers before 7am. Mostly sunny, with a high near 72. North northwest wind around 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
