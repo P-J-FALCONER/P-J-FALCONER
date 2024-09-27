@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly cloudy, with a high near 72. Northeast wind 15 to 25 mph, with gusts as high as 40 mph. |
-| Tonight | Rain likely after 1am. Cloudy, with a low around 65. Northeast wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Saturday | Rain likely. Mostly cloudy, with a high near 70. Northeast wind 15 to 20 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
-| Saturday Night | A chance of rain before 7pm, then a slight chance of rain showers. Mostly cloudy, with a low around 65. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
+| This Afternoon | Cloudy, with a high near 72. Northeast wind around 25 mph, with gusts as high as 40 mph. |
+| Tonight | Rain showers likely after 1am. Cloudy. Low around 65, with temperatures rising to around 67 overnight. Northeast wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Saturday | Rain showers likely before 7am, then a chance of rain. Mostly cloudy, with a high near 70. Northeast wind 15 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible. |
+| Saturday Night | A chance of rain before 7pm, then a slight chance of rain showers. Mostly cloudy, with a low around 65. Northeast wind 15 to 20 mph. Chance of precipitation is 30%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
