@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Scattered showers and thunderstorms after 4pm. Partly sunny, with a high near 66. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Scattered showers and thunderstorms before 7pm, then a chance of showers and thunderstorms between 7pm and 1am. Mostly cloudy, with a low around 57. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible. |
-| Sunday | A chance of rain showers after 1pm. Partly sunny. High near 64, with temperatures falling to around 60 in the afternoon. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | A chance of rain showers. Mostly cloudy, with a low around 47. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. |
+| This Afternoon | Isolated rain showers between 3pm and 4pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then scattered showers and thunderstorms. Partly sunny, with a high near 66. Northeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Scattered showers and thunderstorms before 7pm, then a chance of showers and thunderstorms between 7pm and 2am. Mostly cloudy, with a low around 57. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible. |
+| Sunday | A chance of rain showers after 1pm. Partly sunny. High near 64, with temperatures falling to around 60 in the afternoon. Northwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Sunday Night | A chance of rain showers. Mostly cloudy, with a low around 47. Northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
