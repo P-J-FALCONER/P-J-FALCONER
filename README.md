@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of showers and thunderstorms after 8pm. Mostly cloudy, with a low around 56. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Overnight | A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 56. Northeast wind around 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
 | Sunday | A chance of rain showers. Partly sunny. High near 65, with temperatures falling to around 61 in the afternoon. Northwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Sunday Night | A chance of rain showers. Mostly cloudy, with a low around 47. Northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Columbus Day | A chance of rain showers. Mostly sunny, with a high near 56. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. |
+| Sunday Night | A chance of rain showers. Mostly cloudy, with a low around 47. Northwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Columbus Day | A chance of rain showers. Mostly sunny, with a high near 56. North northwest wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
