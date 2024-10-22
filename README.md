@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Isolated rain showers between 3pm and 5pm. Partly sunny, with a high near 73. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
+| This Afternoon | Isolated rain showers after 2pm. Partly sunny. High near 73, with temperatures falling to around 71 in the afternoon. South wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. |
 | Tonight | Mostly clear. Low around 55, with temperatures rising to around 58 overnight. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
 | Wednesday | Mostly sunny. High near 62, with temperatures falling to around 60 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. |
 | Wednesday Night | Clear, with a low around 42. Northwest wind 0 to 10 mph. |
