@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly clear, with a low around 45. North northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Overnight | Mostly clear, with a low around 45. North northwest wind around 10 mph, with gusts as high as 20 mph. |
 | Saturday | Sunny, with a high near 53. North wind around 10 mph, with gusts as high as 20 mph. |
 | Saturday Night | Mostly clear, with a low around 40. Northwest wind 0 to 5 mph. |
 | Sunday | Sunny, with a high near 60. South wind 5 to 10 mph. |
