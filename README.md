@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Partly sunny, with a high near 79. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. |
-| Tonight | A slight chance of rain showers between 3am and 4am, then showers and thunderstorms. Mostly cloudy. Low around 66, with temperatures rising to around 68 overnight. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday | Showers and thunderstorms before 1pm. Partly sunny. High near 68, with temperatures falling to around 56 in the afternoon. Southwest wind 25 to 30 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
-| Thursday Night | Partly cloudy, with a low around 42. West northwest wind 10 to 25 mph, with gusts as high as 45 mph. |
+| This Afternoon | Partly sunny, with a high near 79. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. |
+| Tonight | A slight chance of rain showers between 3am and 4am, then showers and thunderstorms. Mostly cloudy. Low around 66, with temperatures rising to around 68 overnight. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday | Showers and thunderstorms before 1pm. Partly sunny. High near 68, with temperatures falling to around 56 in the afternoon. Southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. |
+| Thursday Night | Partly cloudy, with a low around 42. West wind 10 to 25 mph, with gusts as high as 45 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
