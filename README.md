@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A slight chance of rain showers before 4pm, then a slight chance of showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 65 in the afternoon. South southwest wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | A chance of showers and thunderstorms before 7pm, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 63. South wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible. |
-| Tuesday | Occasional showers and thunderstorms. Mostly cloudy. High near 69, with temperatures falling to around 64 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
-| Tuesday Night | A chance of rain showers before midnight. Mostly cloudy, with a low around 47. West wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. |
+| Tonight | A chance of rain before 7pm, then rain and a slight chance of thunderstorms. Cloudy, with a low around 63. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible. |
+| Tuesday | Showers and thunderstorms. Cloudy. High near 67, with temperatures falling to around 63 in the afternoon. South southwest wind 20 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tuesday Night | A slight chance of rain showers before 9pm. Mostly cloudy, with a low around 47. West southwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday | Partly sunny, with a high near 56. North northwest wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
