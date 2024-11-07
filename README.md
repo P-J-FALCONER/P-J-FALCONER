@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Mostly sunny. High near 58, with temperatures falling to around 55 in the afternoon. Northwest wind around 5 mph. |
+| This Afternoon | Sunny. High near 57, with temperatures falling to around 54 in the afternoon. West northwest wind around 5 mph. |
 | Tonight | Mostly clear, with a low around 42. West wind 5 to 10 mph. |
 | Friday | Sunny. High near 59, with temperatures falling to around 54 in the afternoon. West northwest wind 5 to 10 mph. |
 | Friday Night | Mostly clear, with a low around 45. Northeast wind around 5 mph, with gusts as high as 15 mph. |
