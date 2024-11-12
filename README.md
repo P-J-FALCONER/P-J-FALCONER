@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Veterans Day | Mostly sunny. High near 57, with temperatures falling to around 47 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 35 mph. |
-| Tonight | A slight chance of rain showers between midnight and 3am. Mostly cloudy. Low around 41, with temperatures rising to around 43 overnight. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tuesday | Sunny. High near 51, with temperatures falling to around 49 in the afternoon. East wind around 10 mph. |
-| Tuesday Night | Partly cloudy, with a low around 41. Southeast wind 10 to 15 mph. |
+| Tonight | A slight chance of rain showers after midnight. Mostly cloudy, with a low around 43. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Tuesday | Mostly sunny. High near 50, with temperatures falling to around 48 in the afternoon. East wind around 10 mph. |
+| Tuesday Night | Partly cloudy, with a low around 40. Southeast wind 10 to 15 mph. |
+| Wednesday | A chance of rain after noon. Mostly cloudy, with a high near 54. Southeast wind 10 to 15 mph. Chance of precipitation is 40%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
