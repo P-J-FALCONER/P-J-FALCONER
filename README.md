@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of rain after 3am. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
-| Wednesday | A chance of rain. Partly sunny. High near 48, with temperatures falling to around 43 in the afternoon. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Wednesday Night | A chance of rain before 8pm, then a chance of rain and snow. Mostly cloudy, with a low around 33. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Thursday | Snow likely before 9am, then rain and snow. Mostly cloudy, with a high near 42. West northwest wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. |
+| Overnight | A chance of rain showers between 1am and 3am, then a chance of rain. Mostly cloudy. Low around 42, with temperatures rising to around 44 overnight. West northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. |
+| Wednesday | A chance of rain before 11am, then scattered rain showers. Partly sunny. High near 48, with temperatures falling to around 43 in the afternoon. West wind 10 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
+| Wednesday Night | A chance of rain before 8pm, then a chance of rain and snow. Mostly cloudy, with a low around 33. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Thursday | Snow likely before 9am, then rain and snow. Mostly cloudy, with a high near 42. West northwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
