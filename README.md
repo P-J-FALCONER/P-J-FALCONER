@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Rain likely before 10am, then a chance of rain showers. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Rain showers likely before 7pm, then rain and snow showers likely. Cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible. |
-| Thursday | Snow likely before 8am, then rain and snow between 8am and 1pm, then rain and snow. Cloudy. High near 44, with temperatures falling to around 40 in the afternoon. West northwest wind 20 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
-| Thursday Night | Rain before midnight, then a slight chance of rain showers. Mostly cloudy, with a low around 39. North northwest wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. |
+| This Afternoon | Scattered rain showers after 3pm. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Tonight | Scattered rain and snow showers. Cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
+| Thursday | Snow likely before 8am, then rain and snow between 8am and 1pm, then rain and snow. Cloudy. High near 44, with temperatures falling to around 40 in the afternoon. West northwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
+| Thursday Night | Rain before midnight, then a slight chance of rain showers. Mostly cloudy, with a low around 39. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
