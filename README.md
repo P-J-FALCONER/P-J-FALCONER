@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Scattered rain showers after 3pm. Partly sunny. High near 48, with temperatures falling to around 40 in the afternoon. West wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Tonight | Scattered rain and snow showers. Cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
-| Thursday | Snow likely before 8am, then rain and snow between 8am and 1pm, then rain and snow. Cloudy. High near 44, with temperatures falling to around 40 in the afternoon. West northwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible. |
-| Thursday Night | Rain before midnight, then a slight chance of rain showers. Mostly cloudy, with a low around 39. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. |
+| Tonight | Scattered snow showers before 7pm, then scattered rain showers between 7pm and 8pm, then scattered snow showers. Cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. Little or no snow accumulation expected. |
+| Thursday | Snow before noon, then rain and snow. Cloudy. High near 43, with temperatures falling to around 41 in the afternoon. West northwest wind 15 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible. |
+| Thursday Night | A chance of rain before midnight. Cloudy, with a low around 40. North northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Mostly cloudy, with a high near 47. Northwest wind around 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
