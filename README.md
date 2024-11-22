@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Snow before 2pm, then rain and snow between 2pm and 3pm, then drizzle. Cloudy, with a high near 42. West northwest wind around 25 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible. |
-| Tonight | A chance of drizzle before 8pm, then a chance of rain between 8pm and 11pm, then a chance of drizzle between 11pm and midnight. Cloudy. Low around 38, with temperatures rising to around 41 overnight. North northwest wind 15 to 20 mph, with gusts as high as 45 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | Cloudy. High near 47, with temperatures falling to around 45 in the afternoon. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. |
-| Friday Night | Mostly cloudy, with a low around 37. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | A slight chance of rain before midnight, then a slight chance of rain showers between midnight and 3am. Cloudy. Low around 39, with temperatures rising to around 41 overnight. North northwest wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Cloudy, with a high near 46. Northwest wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Friday Night | Mostly cloudy. Low around 36, with temperatures rising to around 38 overnight. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Saturday | Mostly cloudy, with a high near 45. West wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
