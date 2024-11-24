@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog. Cloudy, with a low around 36. Southwest wind around 5 mph, with gusts as high as 10 mph. |
-| Sunday | Patchy fog before 9am. Partly sunny. High near 51, with temperatures falling to around 49 in the afternoon. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. |
-| Sunday Night | Patchy drizzle before midnight, then areas of drizzle and scattered rain showers. Mostly cloudy, with a low around 47. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
-| Monday | Patchy drizzle before 9am, then a chance of rain. Cloudy, with a high near 51. West wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. |
+| Today | Patchy fog before 9am. Partly sunny, with a high near 50. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. |
+| Tonight | Patchy drizzle between 7pm and 8pm, then patchy drizzle and scattered rain showers. Mostly cloudy, with a low around 48. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday | Patchy drizzle and scattered rain showers. Cloudy. High near 50, with temperatures falling to around 45 in the afternoon. West southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible. |
+| Monday Night | Mostly cloudy, with a low around 29. West northwest wind around 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
