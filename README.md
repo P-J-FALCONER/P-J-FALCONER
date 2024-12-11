@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | Cloudy. High near 36, with temperatures falling to around 34 in the afternoon. West northwest wind around 10 mph. |
-| Tonight | Partly cloudy, with a low around 25. West northwest wind around 10 mph, with gusts as high as 20 mph. |
-| Wednesday | Scattered snow showers after 7am. Partly sunny. High near 31, with temperatures falling to around 17 in the afternoon. Wind chill values as low as -1. West wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible. |
-| Wednesday Night | Scattered snow showers before 10pm. Partly cloudy, with a low around 6. Wind chill values as low as -14. West wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. |
+| Tonight | Mostly cloudy, with a low around 27. West northwest wind around 10 mph, with gusts as high as 20 mph. |
+| Wednesday | A chance of snow showers after 11am. Mostly cloudy. High near 31, with temperatures falling to around 21 in the afternoon. West wind 10 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible. |
+| Wednesday Night | Isolated snow showers before 9pm. Partly cloudy, with a low around 4. Wind chill values as low as -14. West northwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 20%. |
+| Thursday | A slight chance of snow after noon. Mostly sunny, with a high near 18. Wind chill values as low as -14. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
