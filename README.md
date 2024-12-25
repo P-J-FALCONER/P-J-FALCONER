@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Cloudy, with a low around 33. East wind 0 to 5 mph. |
-| Christmas Day | A chance of drizzle and a slight chance of rain after noon. Cloudy, with a high near 38. East wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Wednesday Night | Areas of fog and a chance of drizzle and a slight chance of rain. Cloudy. Low around 37, with temperatures rising to around 39 overnight. East southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Thursday | A slight chance of rain and a slight chance of drizzle. Cloudy, with a high near 46. Southeast wind around 5 mph, with gusts as high as 15 mph. Chance of precipitation is 20%. |
+| Overnight | Cloudy, with a low around 33. East wind around 5 mph. |
+| Christmas Day | A chance of drizzle and a slight chance of rain after noon. Cloudy, with a high near 38. East wind around 5 mph. Chance of precipitation is 20%. |
+| Wednesday Night | Areas of fog and a chance of drizzle and a slight chance of rain. Cloudy. Low around 37, with temperatures rising to around 39 overnight. East southeast wind around 5 mph. Chance of precipitation is 20%. |
+| Thursday | A slight chance of rain and a slight chance of drizzle. Cloudy, with a high near 46. Southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
