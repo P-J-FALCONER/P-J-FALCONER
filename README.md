@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Areas of drizzle and areas of fog before 4am, then areas of fog and patchy drizzle. Cloudy. Low around 37, with temperatures rising to around 39 overnight. Southeast wind around 5 mph. Chance of precipitation is 30%. |
-| Thursday | Areas of fog and patchy drizzle before 9am, then patchy drizzle and patchy fog. Cloudy, with a high near 46. South southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
-| Thursday Night | A chance of rain. Cloudy, with a low around 42. Southeast wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. |
-| Friday | Rain. Cloudy, with a high near 49. Southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. |
+| Today | Areas of fog and a slight chance of drizzle before 10am, then areas of drizzle and patchy fog. Cloudy, with a high near 46. South southeast wind 5 to 10 mph. Chance of precipitation is 20%. |
+| Tonight | Patchy drizzle and a slight chance of rain. Cloudy, with a low around 42. Southeast wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday | Rain. Cloudy. High near 50, with temperatures falling to around 47 in the afternoon. Southeast wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible. |
+| Friday Night | Rain. Cloudy, with a low around 45. South wind 5 to 10 mph. Chance of precipitation is 80%. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
