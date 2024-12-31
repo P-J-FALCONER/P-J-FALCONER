@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain after 9pm. Cloudy. Low around 36, with temperatures rising to around 39 overnight. East wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Tuesday | Rain before 8am, then rain and snow between 8am and 9am, then rain and snow between 9am and 10am, then rain and snow between 10am and 5pm, then a chance of rain and snow. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Overnight | Rain. Cloudy. Low around 37, with temperatures rising to around 39 overnight. East northeast wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tuesday | Rain before 4pm, then a chance of rain and snow between 4pm and 5pm, then a chance of rain and snow. Cloudy. High near 39, with temperatures falling to around 36 in the afternoon. North wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Tuesday Night | A slight chance of rain and snow showers. Cloudy. Low around 26, with temperatures rising to around 29 overnight. Northwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
 | New Year&#39;s Day | Partly sunny, with a high near 30. West northwest wind around 15 mph, with gusts as high as 30 mph. |
 
