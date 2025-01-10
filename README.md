@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Snow after 2am. Mostly cloudy. Low around 22, with temperatures rising to around 24 overnight. South southwest wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
+| Overnight | Snow after 2am. Mostly cloudy. Low around 22, with temperatures rising to around 24 overnight. South southwest wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
 | Friday | Snow. Cloudy. High near 30, with temperatures falling to around 28 in the afternoon. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible. |
 | Friday Night | Mostly cloudy, with a low around 19. West northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 | Saturday | Mostly sunny, with a high near 27. West southwest wind 5 to 10 mph. |
