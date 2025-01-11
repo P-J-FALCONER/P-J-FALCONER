@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A slight chance of snow before 8pm, then occasional snow showers and a slight chance of snow. Cloudy, with a low around 23. West northwest wind around 5 mph. Chance of precipitation is 20%. |
+| Overnight | Occasional snow showers. Cloudy, with a low around 23. West northwest wind around 5 mph. Chance of precipitation is 30%. |
 | Saturday | Occasional snow showers and a slight chance of snow before 9am. Mostly cloudy. High near 29, with temperatures falling to around 27 in the afternoon. West southwest wind 5 to 10 mph. Chance of precipitation is 20%. |
 | Saturday Night | A slight chance of snow after midnight. Cloudy. Low around 25, with temperatures rising to around 27 overnight. South wind 5 to 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
 | Sunday | Periods of snow before noon, then a chance of snow showers and a chance of freezing drizzle. Cloudy, with a high near 32. South southwest wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
