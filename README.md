@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Partly sunny. High near 10, with temperatures falling to around 7 in the afternoon. Wind chill values as low as -11. Northwest wind around 15 mph, with gusts as high as 25 mph. |
-| Tonight | Mostly clear, with a low around 0. Wind chill values as low as -19. West northwest wind around 15 mph, with gusts as high as 25 mph. |
-| M.L. King Jr. Day | A slight chance of snow showers after noon. Sunny, with a high near 10. Wind chill values as low as -18. West wind around 15 mph, with gusts as high as 25 mph. |
-| Monday Night | A slight chance of snow showers before midnight. Partly cloudy, with a low around -6. Wind chill values as low as -21. West wind around 10 mph, with gusts as high as 20 mph. |
+| This Afternoon | Mostly sunny. High near 11, with temperatures falling to around 7 in the afternoon. Wind chill values as low as -11. Northwest wind around 15 mph, with gusts as high as 25 mph. |
+| Tonight | Mostly clear, with a low around 0. Wind chill values as low as -19. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| M.L. King Jr. Day | A slight chance of snow showers after noon. Mostly sunny, with a high near 10. Wind chill values as low as -18. West wind 10 to 15 mph, with gusts as high as 30 mph. |
+| Monday Night | A slight chance of snow showers before midnight. Partly cloudy, with a low around -6. Wind chill values as low as -21. West wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
