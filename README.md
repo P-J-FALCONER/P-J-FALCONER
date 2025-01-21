@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | A slight chance of snow showers before noon. Sunny, with a high near 2. Wind chill values as low as -26. West wind around 15 mph, with gusts as high as 30 mph. |
-| Tonight | Partly cloudy. Low around 2, with temperatures rising to around 5 overnight. Wind chill values as low as -17. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Today | Sunny. High near 2, with temperatures falling to around 0 in the afternoon. Wind chill values as low as -23. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Mostly cloudy. Low around 2, with temperatures rising to around 5 overnight. Wind chill values as low as -17. Southwest wind 10 to 20 mph, with gusts as high as 30 mph. |
 | Wednesday | A chance of snow. Cloudy, with a high near 24. Wind chill values as low as -14. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 30%. |
 | Wednesday Night | Snow likely. Cloudy, with a low around 18. West southwest wind 10 to 15 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible. |
 
