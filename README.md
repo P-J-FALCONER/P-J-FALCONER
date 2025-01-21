@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| M.L. King Jr. Day | Mostly sunny, with a high near 10. Wind chill values as low as -10. West wind around 15 mph, with gusts as high as 25 mph. |
-| Tonight | Occasional snow showers before 3am. Mostly cloudy, with a low around -4. Wind chill values as low as -22. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Tuesday | Sunny, with a high near 4. Wind chill values as low as -23. West wind 10 to 15 mph, with gusts as high as 25 mph. |
-| Tuesday Night | Partly cloudy, with a low around 2. Wind chill values as low as -12. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tonight | Scattered snow showers before 3am. Mostly cloudy. Low around -4, with temperatures rising to around -2 overnight. Wind chill values as low as -20. West northwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday | Sunny, with a high near 3. Wind chill values as low as -24. West wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Tuesday Night | Partly cloudy. Low around 1, with temperatures rising to around 6 overnight. Wind chill values as low as -17. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Wednesday | A chance of snow. Cloudy, with a high near 24. Wind chill values as low as -10. South southwest wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
