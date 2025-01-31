@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain likely and areas of fog before 3am, then widespread fog and rain likely. Cloudy, with a low around 37. East southeast wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
-| Friday | Patchy fog and showers and thunderstorms before 9am, then rain and patchy fog. Cloudy. High near 40, with temperatures falling to around 35 in the afternoon. Northeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
-| Friday Night | Mostly cloudy, with a low around 29. Northeast wind 5 to 15 mph, with gusts as high as 25 mph. |
-| Saturday | Mostly cloudy, with a high near 38. East wind 5 to 15 mph. |
+| Today | Rain likely and areas of fog before 8am, then rain and areas of fog and a slight chance of thunderstorms between 8am and 3pm, then a chance of rain and snow between 3pm and 5pm. Mostly cloudy. High near 40, with temperatures falling to around 36 in the afternoon. North northeast wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible. |
+| Tonight | Partly cloudy, with a low around 28. North northeast wind 15 to 25 mph, with gusts as high as 35 mph. |
+| Saturday | Partly sunny, with a high near 36. East wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Saturday Night | A chance of snow between midnight and 3am, then a chance of rain and snow. Cloudy, with a low around 33. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
