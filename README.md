@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Rain likely before 9pm, then rain and patchy fog between 9pm and 4am, then areas of fog and a chance of rain and patchy drizzle. Cloudy, with a low around 37. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible. |
+| Tonight | Rain likely and areas of fog before 3am, then widespread fog and rain likely. Cloudy, with a low around 37. East southeast wind 5 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible. |
 | Friday | Patchy fog and showers and thunderstorms before 9am, then rain and patchy fog. Cloudy. High near 40, with temperatures falling to around 35 in the afternoon. Northeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible. |
 | Friday Night | Mostly cloudy, with a low around 29. Northeast wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Saturday | Mostly cloudy, with a high near 38. East wind 5 to 15 mph. |
