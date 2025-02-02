@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Today | Patchy fog and a slight chance of drizzle before noon. Mostly cloudy, with a high near 43. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. |
+| This Afternoon | Mostly cloudy. High near 44, with temperatures falling to around 42 in the afternoon. Southwest wind 5 to 10 mph. |
 | Tonight | Patchy fog after midnight. Mostly cloudy, with a low around 37. South southwest wind around 5 mph. |
 | Monday | Patchy fog before 10am. Mostly cloudy. High near 50, with temperatures falling to around 40 in the afternoon. West wind 5 to 15 mph, with gusts as high as 25 mph. |
 | Monday Night | Mostly cloudy, with a low around 29. North wind around 15 mph, with gusts as high as 25 mph. |
