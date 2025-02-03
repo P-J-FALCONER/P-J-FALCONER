@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Patchy fog. Cloudy. Low around 37, with temperatures rising to around 39 overnight. South wind around 5 mph. |
-| Monday | Patchy fog before 9am. Mostly cloudy. High near 49, with temperatures falling to around 36 in the afternoon. West southwest wind 10 to 15 mph, with gusts as high as 30 mph. |
-| Monday Night | Mostly cloudy, with a low around 29. North wind 10 to 20 mph, with gusts as high as 30 mph. |
-| Tuesday | Partly sunny, with a high near 34. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
+| Overnight | Patchy fog. Cloudy, with a low around 38. South wind around 5 mph. |
+| Monday | Patchy fog before 9am. Cloudy. High near 48, with temperatures falling to around 38 in the afternoon. West southwest wind 5 to 15 mph, with gusts as high as 30 mph. |
+| Monday Night | Mostly cloudy, with a low around 28. North wind 10 to 20 mph, with gusts as high as 30 mph. |
+| Tuesday | Partly sunny, with a high near 30. North northeast wind 10 to 15 mph, with gusts as high as 25 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
