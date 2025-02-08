@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Mostly cloudy. Low around 28, with temperatures rising to around 30 overnight. Southeast wind 5 to 10 mph. |
-| Saturday | Freezing drizzle likely and a chance of snow between 10am and 2pm, then freezing drizzle likely and a chance of drizzle. Cloudy, with a high near 33. East wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. Little or no ice accumulation expected. |
-| Saturday Night | A slight chance of freezing drizzle before 7pm, then a slight chance of snow and a slight chance of freezing drizzle between 7pm and 8pm. Mostly cloudy, with a low around 24. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Sunday | Partly sunny, with a high near 30. Northwest wind 5 to 10 mph. |
+| Overnight | Cloudy, with a low around 28. East southeast wind 5 to 10 mph. |
+| Saturday | Freezing drizzle likely and a slight chance of snow between 10am and 4pm, then snow likely and freezing drizzle likely. Cloudy. High near 33, with temperatures falling to around 31 in the afternoon. East northeast wind 10 to 15 mph. Chance of precipitation is 60%. Little or no ice accumulation expected. |
+| Saturday Night | A slight chance of snow before 9pm. Mostly cloudy, with a low around 24. North northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible. |
+| Sunday | Partly sunny, with a high near 30. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
