@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Intermittent snow showers and a slight chance of snow between 3am and 4am, then a chance of snow and intermittent snow showers. Mostly cloudy. Low around 24, with temperatures rising to around 26 overnight. South southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
+| Overnight | Intermittent snow showers and a slight chance of snow between 3am and 4am, then a chance of snow and intermittent snow showers. Cloudy, with a low around 26. Northwest wind 5 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
 | Tuesday | A chance of snow and a chance of snow showers. Cloudy. High near 28, with temperatures falling to around 26 in the afternoon. North northeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
-| Tuesday Night | A chance of snow showers before midnight, then a chance of snow. Cloudy. Low around 25, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. |
-| Wednesday | Snow. Cloudy, with a high near 30. East northeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. |
+| Tuesday Night | A chance of snow showers before midnight, then a chance of snow. Cloudy. Low around 25, with temperatures rising to around 27 overnight. Northeast wind 10 to 15 mph. Chance of precipitation is 30%. |
+| Wednesday | Snow. Cloudy, with a high near 30. East northeast wind 15 to 20 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
