@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| This Afternoon | A slight chance of snow after 5pm. Cloudy. High near 28, with temperatures falling to around 25 in the afternoon. South southeast wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. |
-| Tonight | Snow before 4am, then snow likely and a slight chance of freezing drizzle. Cloudy. Low around 24, with temperatures rising to around 29 overnight. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. Little or no ice accumulation expected. |
-| Saturday | A chance of snow and a slight chance of freezing drizzle before noon, then rain and snow. Cloudy, with a high near 35. East wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
-| Saturday Night | Snow. Cloudy, with a low around 26. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible. |
+| Tonight | Snow. Cloudy. Low around 24, with temperatures rising to around 30 overnight. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible. |
+| Saturday | A slight chance of snow before noon, then a chance of sleet and rain and snow. Cloudy. High near 34, with temperatures falling to around 32 in the afternoon. East wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible. |
+| Saturday Night | Snow. Cloudy. Low around 26, with temperatures rising to around 30 overnight. North wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. |
+| Sunday | Snow. Cloudy, with a high near 28. Northwest wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of around one inch possible. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
