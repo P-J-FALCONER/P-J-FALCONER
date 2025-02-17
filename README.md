@@ -20,7 +20,7 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | A chance of snow showers before 8pm. Partly cloudy, with a low around 4. Wind chill values as low as -12. West northwest wind 15 to 20 mph, with gusts as high as 30 mph. |
+| Tonight | Partly cloudy. Low around 3, with temperatures rising to around 5 overnight. Wind chill values as low as -12. West northwest wind around 15 mph, with gusts as high as 30 mph. |
 | Washington&#39;s Birthday | Partly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -14. West northwest wind around 15 mph, with gusts as high as 25 mph. |
 | Monday Night | Partly cloudy, with a low around 0. Wind chill values as low as -16. Northwest wind around 10 mph, with gusts as high as 20 mph. |
 | Tuesday | Partly sunny, with a high near 13. Wind chill values as low as -15. North northwest wind 5 to 10 mph. |
