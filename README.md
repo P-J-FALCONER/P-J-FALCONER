@@ -20,8 +20,8 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Tonight | Partly cloudy, with a low around 0. Wind chill values as low as -16. Northwest wind 10 to 15 mph. |
-| Tuesday | Mostly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -16. Northwest wind around 10 mph. |
+| Overnight | Partly cloudy, with a low around -1. Wind chill values as low as -18. Northwest wind 10 to 15 mph. |
+| Tuesday | Mostly sunny. High near 12, with temperatures falling to around 10 in the afternoon. Wind chill values as low as -17. Northwest wind around 10 mph, with gusts as high as 20 mph. |
 | Tuesday Night | Mostly cloudy, with a low around 6. Wind chill values as low as -9. Northwest wind around 10 mph. |
 | Wednesday | Mostly cloudy, with a high near 16. Wind chill values as low as -9. Northwest wind around 10 mph. |
 
