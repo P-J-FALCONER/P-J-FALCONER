@@ -20,9 +20,9 @@
 ### Chicago Sailing Forecasts
 |   | Forecast  |
 |---|---|
-| Overnight | Mostly cloudy, with a low around 4. Wind chill values as low as -8. Northwest wind around 10 mph. |
-| Wednesday | Intermittent snow showers after 3pm. Mostly cloudy, with a high near 13. Wind chill values as low as -10. Northwest wind 10 to 15 mph. |
-| Wednesday Night | A chance of snow and intermittent snow showers before midnight, then intermittent snow showers and a slight chance of snow. Mostly cloudy, with a low around 6. Wind chill values as low as -10. Northwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible. |
-| Thursday | Mostly sunny, with a high near 22. Wind chill values as low as -8. West northwest wind 10 to 15 mph. |
+| Today | Intermittent snow showers between 2pm and 4pm, then intermittent snow showers and a slight chance of snow. Cloudy. High near 16, with temperatures falling to around 14 in the afternoon. Wind chill values as low as -8. Northwest wind around 10 mph. Chance of precipitation is 20%. |
+| Tonight | A chance of snow and intermittent snow showers. Mostly cloudy, with a low around 6. Wind chill values as low as -8. Northwest wind 10 to 15 mph. Chance of precipitation is 30%. |
+| Thursday | Mostly sunny. High near 23, with temperatures falling to around 21 in the afternoon. Wind chill values as low as -8. West northwest wind 10 to 15 mph. |
+| Thursday Night | Mostly clear, with a low around 9. Wind chill values as low as 0. West northwest wind 5 to 10 mph. |
 
 ![Pats's Github Stats](https://github-readme-stats.vercel.app/api?username=p-j-falconer&show_icons=true&theme=radical)
